@@ -11,7 +11,7 @@ The components listed in [brackets] are consumed by the ritual.
 
 
 1. **Astral Projection** - Project your soul from your body. You are ethereal, can travel through most physical obstacles, and are immune to physical attacks and hazards. Magical and spiritual effects still impact you, and Critical Damage to your WIL can sunder you from your body.
-2. **Augury* **- Toss bones, draw cards, or otherwise predict the future to learn the outcome of a specific action. There is a 3 in 6 chance of a meaningful answer of _weal_, _woe_ or _uncertain_. If the roll fails it is always _uncertain_. Increase the chance of success by making a meaningful sacrifice.
+2. **Augury**- Toss bones, draw cards, or otherwise predict the future to learn the outcome of a specific action. There is a 3 in 6 chance of a meaningful answer of _weal_, _woe_ or _uncertain_. If the roll fails it is always _uncertain_. Increase the chance of success by making a meaningful sacrifice.
 3. **Be Our Guest** - [drop of blood] Grant temporary life and sentience to an inanimate object (GM determines stats). It will follow the first command you give it, but act according to its nature for the remaining 10 minutes of its life.  
 4. **Bone Sense** - [a bone] You know the direction and density of all nearby collections of bones for 10 minutes.
 5. **Bottled Weather** - Seal a portion of weather in a bottle. Open the bottle at sunrise to cause the sealed weather to occur at some point that day. Strange effects may occur if the sealed weather is strongly averse to the natural climate.
@@ -27,7 +27,7 @@ The components listed in [brackets] are consumed by the ritual.
 15. **No Mask? No Mask!** - [clay] Smear a person’s face with clay to reshape their flesh as though it were putty (a reference will be needed if the goal is disguise). Lasts until sunrise.
 16. **Oathkeeper’s Light** - [white flower] Burn the flower while an oath is sworn. Flame will internally ignite any who break the oath, dealing them d6 Critical Damage every sunrise for a week.
 17. **Spectral Courier** - Press a minor spirit into service to deliver a message to an individual you name. Most spirits travel only as fast as a walk, but they do so in a straight line to their target.
-18. **Summon Swarm **- [vermin] Kill an inset, rat, or other vermin with your bare hands. Summon a swarm of the sacrificed creature with total mass equal to a cow. You can control the direction the swarm moves in for ten minutes, but afterwards the swarm will act on its own.
+18. **Summon Swarm** - [vermin] Kill an inset, rat, or other vermin with your bare hands. Summon a swarm of the sacrificed creature with total mass equal to a cow. You can control the direction the swarm moves in for ten minutes, but afterwards the swarm will act on its own.
 19. **Tele-Door** - Mark a door with chalk or charcoal. The next door you open opens to the marked door. Lasts until either door is closed.
 20. **The Dead Speak** - [a candle] Drip wax into the mouth of a dead creature and ask it 3 questions. It will answer two truthfully. Once it answers it will never respond to this spell again.
 21. **Threshold Sentinel** - [alcohol] Awaken the spirit of a doorway (or similar threshold). The spirit will prevent anyone from passing through the doorway unless they know a passcode you set, dealing d12 damage to anyone that forces their way through. Lasts a day, although if repeated once a day for a week becomes permanent.

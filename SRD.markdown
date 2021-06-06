@@ -41,7 +41,7 @@ If the action carries risk or uncertainty, you’ll make a Save by rolling your 
 *   a 4, if the risk comes from the environment.
 *   another creature’s Attribute die if they’re directly opposing you.
 
-If you **win_ _**by rolling higher, you’ll get what you want and avoid the risks.
+If you **win**by rolling higher, you’ll get what you want and avoid the risks.
 
 If you **lose** by rolling lower, you’ll suffer the consequences and possibly fail your task.
 
@@ -423,7 +423,7 @@ Errant
 The Chaos Sorcerer and the Great Soul Shaman were both directly inspired by these books. The Penric & Desdemona series is also a good model for the sorts of adventures I expect characters to get up to in this game.
 
 
-### _Circe _by Madeline Miller
+### _Circe_ by Madeline Miller
 
 The Witch, the Alchemist, and the Blessed of Water were all, at least in part, inspired by this book.
 

@@ -28,7 +28,7 @@ _Your habit of always taking things apart to learn how they worked didn’t alwa
 
 Walking Workshop: You can upgrade mundane items, or create new objects, with a single _improvement_ using your Portable Workshop. All such objects are _volatile_, unless significant time and effort is put into their production.
 
-When a _volatile _item is used, roll a d6 (usage counts as dealing Critical Damage for weapon, receiving Critical Damage for armor, or performing their purpose for items).
+When a _volatile_ item is used, roll a d6 (usage counts as dealing Critical Damage for weapon, receiving Critical Damage for armor, or performing their purpose for items).
 
 1: It breaks immediately (and likely violently).
 
@@ -265,7 +265,7 @@ Unlock these abilities by spending 1 + N XP where N is the number of Advanced Ab
 
 ## Chaos Sorcerer
 
-_A spirit of chaos, better known as a demon, shares space in your head. In exchange for the shelter your body provides, it grants you access to it’s knowledge and skills picked up from prior hosts. Sometime, when you die, it will leap to a new body and share _your_ skills and knowledge, but you might prefer not to think about that._
+_A spirit of chaos, better known as a demon, shares space in your head. In exchange for the shelter your body provides, it grants you access to it’s knowledge and skills picked up from prior hosts. Sometime, when you die, it will leap to a new body and share_ your _skills and knowledge, but you might prefer not to think about that._
 
 
 ### You Start With
@@ -291,7 +291,7 @@ Unlock these abilities by spending 1 + N XP where N is the number of Advanced Ab
 
 ## Witch
 
-_Familiar at your side, you channel the forces of magic across the magical bond that connects you. You are a shepherd to ancient secrets, passed from person to person to keep them safe from forces who would rather see it lost. _
+_Familiar at your side, you channel the forces of magic across the magical bond that connects you. You are a shepherd to ancient secrets, passed from person to person to keep them safe from forces who would rather see it lost._
 
 
 ### Core Ability
@@ -449,7 +449,7 @@ Unlock these abilities by spending 1 + N XP where N is the number of Advanced Ab
 
 ## Archivist
 
-_You’ve always liked knowing things. Collecting information and stories like a squirrel collecting nuts for the winter. Frustrated with incomplete, inconsistent, and obviously biased records you’ve emerged from your study to do first hand research and correct the record. _
+_You’ve always liked knowing things. Collecting information and stories like a squirrel collecting nuts for the winter. Frustrated with incomplete, inconsistent, and obviously biased records you’ve emerged from your study to do first hand research and correct the record._
 
 
 ### Core Ability
@@ -574,7 +574,7 @@ Unlock these abilities by spending 1 + N XP where N is the number of Advanced Ab
 
 ## Cleric of Small Gods
 
-_Carry a small god around with you. You protect it, rather than the other way around. Possibly a baby god, a god of a small concept, a recently reincarnated god, a local god whose home was destroyed, or a ‘killed’ god. _
+_Carry a small god around with you. You protect it, rather than the other way around. Possibly a baby god, a god of a small concept, a recently reincarnated god, a local god whose home was destroyed, or a ‘killed’ god._
 
 
 ### Core Ability
