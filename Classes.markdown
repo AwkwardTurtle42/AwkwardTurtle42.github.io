@@ -5,19 +5,19 @@ permalink: /Classes/
 ---
 
 ## Index
-- [Artificer](##artificer)
-- [Devoted](##devoted)
-- [Beastmaster](##beastmaster)
-- [Martial Artist](##martial-artist)
-- [Chaos Sorcerer](##chaos-sorcerer)
-- [Witch](##witch)
-- [Alchemist](##alchemist)
-- [Great Soul Shaman](##great-soul-shaman)
-- [Blessed of the Water](##blessed-of-the-water)
-- [Archivist](##archivist)
-- [Runewright](##runewright)
-- [Grimblade](##grimblade)
-- [Cleric of Small Gods](##cleric-of-small-gods)
+- [Artificer](#artificer)
+- [Devoted](#devoted)
+- [Beastmaster](#beastmaster)
+- [Martial Artist](#martial-artist)
+- [Chaos Sorcerer](#chaos-sorcerer)
+- [Witch](#witch)
+- [Alchemist](#alchemist)
+- [Great Soul Shaman](#great-soul-shaman)
+- [Blessed of the Water](#blessed-of-the-water)
+- [Archivist](#archivist)
+- [Runewright](#runewright)
+- [Grimblade](#grimblade)
+- [Cleric of Small Gods](#cleric-of-small-gods)
 
 ## Artificer
 
