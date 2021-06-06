@@ -31,9 +31,10 @@
 # gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 source "https://rubygems.org"
+gem "minima", "~> 2.5"
 group :jekyll_plugins do
     gem "github-pages"
     gem "jekyll-admin"
-    gem "just-the-docs"
+    # gem "just-the-docs"
     gem 'jekyll-redirect-from'
 end
