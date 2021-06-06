@@ -7,4 +7,4 @@ layout: default
 
 under_construction.gif
 
-[Rules] (https://awkwardturtle42.github.io/Rules/)
+[Rules](https://awkwardturtle42.github.io/Rules/)
