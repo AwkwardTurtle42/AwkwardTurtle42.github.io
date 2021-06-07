@@ -2,6 +2,7 @@
 layout: page
 title: Classes
 permalink: /Classes/
+nav_order: 5
 ---
 
 ## Index

@@ -51,9 +51,9 @@ If you **tie** by matching your target, you’ll have to make do with a compromi
 
 ### Save Modifiers
 
-If you’re in a good position, but something could still go wrong, your Save is **_enhanced _**and you roll a d12 in addition to your Attribute die, and keep whichever is higher.
+If you’re in a good position, but something could still go wrong, your Save is **_enhanced_** and you roll a d12 in addition to your Attribute die, and keep whichever is higher.
 
-If you’re in a rough position, and the best you can hope for is only partly mitigating the risks, your Save is **_impaired _**and you’ll roll a d4 instead of your Attribute die.
+If you’re in a rough position, and the best you can hope for is only partly mitigating the risks, your Save is **_impaired_** and you’ll roll a d4 instead of your Attribute die.
 
 
 ## Dice
@@ -289,34 +289,6 @@ Spend XP to unlock abilities and make your character stronger. Spending XP repre
 XP is not the only way you will grow and change. You can gain new abilities or skills by seeking out magic, powers, people and opportunities. Gain leathery wings by eating the heart of a demon, open your inner eye by meditating for a week and a day with ancient monks, learn the formulae to the elixir of life by plundering the libraries of the Lich Mage.
 
 Similarly, gaining access to new Classes is done within the narrative of the game. Getting access to a new Class usually requires significant, intentional effort.
-
-
-# Character Creation
-
-A character is mechanically made of Attributes, Grit, and a Class.
-
-
-## Attributes
-
-Each of your Attributes (STR, DEX, and WIL) begin at a d6.
-
-Step up the die for one of your Attributes to a d8.
-
-
-## Grit
-
-Grit is a character’s ability to avoid being harmed. It represents a combination of defensive capabilities, awareness, and luck.
-
-Your Maximum Grit is determined by your Class.
-
-
-## Classes
-
-All characters are generalists. Everyone can swing a sword, sneak around, or cast a spell. Classes define the things that put you ahead of the pack, the things that give you an extra edge or let you break the rules.
-
-Your class gives you your Maximum Grit, a Core Ability, and some equipment. Each class has a series of Advanced Abilities that can be unlocked with earned XP.
-
-Choose a class, or roll a d12 to pick one randomly. Then create your character following the instructions in the class, or roll a d6 to randomly choose one of the Starter Packages as a premade character.
 
 # GM Stuff
 

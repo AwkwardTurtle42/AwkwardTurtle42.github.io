@@ -6,14 +6,26 @@ title: Home
 nav_order: 1
 ---
 
-under_construction.gif
+**Brighter Worlds** is a fantasy tabletop RPG with selective crunch.
 
-[Introduction](https://awkwardturtle42.github.io/Introduction/)
+It draws heavily from Into the Odd, Cairn, Macchiato Monsters and Dungeon World.
 
-[Rules](https://awkwardturtle42.github.io/Rules/)
+Brighter Worlds is unfinished (v. 0.6.0).
 
-[Classes](https://awkwardturtle42.github.io/Classes/)
+A PDF version can be found [here](https://awkwardturtle.itch.io/brighter-worlds) although the PDF will often lag slightly behind in version (currently v. 0.5.0).
 
-[Spell List](https://awkwardturtle42.github.io/Spells/)
+Most recent changes:
 
-[Ritual List](https://awkwardturtle42.github.io/Rituals/)
+* Forgemaster was entirely reworked into Artificer to make it less combat focused.
+
+* Martial Artist had non-combat abilities added to each Stance to attempt to slightly loosen it's focus on combat. This class is likely always going to be combat focused, without a complete rehaul. 
+
+* Chaos Sorcerer, Devoted, Beastmaster, Alchemist, Blessed of Water, and Grimblade had advanced abilities reworked or completed.
+
+* Archivist now also starts with a "knack" related to their Topic.
+
+* Starting character stats were lowered to two d6 and one d8. This is partly in relation to the earlier change from "enviromental saves" being vs a d8 to a fixed 4. Closer to a 50% chance to succeed starting out now, and gives characters more room to grow.
+
+* Rolling for Max Grit has been replaced with a fixed amount of Grit. Default is 3, -1 if the class starts with Armor, +1 if the class is specifically martial in nature.
+
+* Starter Packages have been temporarily removed. They are being reworked as full, ready to use pre-gens or NPCs.
