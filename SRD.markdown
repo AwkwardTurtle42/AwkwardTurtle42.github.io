@@ -12,7 +12,6 @@ nav_order: 3
 - [Combat](#combat)
 - [Healing and Recovery](#healing-and-recovery)
 - [Items and Inventory](#items)
-- [Character Creation](#character-creation)
 - [GM Stuff](#gm-stuff)
 
 # Core Rules
