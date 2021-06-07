@@ -7,6 +7,8 @@ nav_order: 4
 
 # Spell List
 
+[Random Spell](https://perchance.org/dbw5e0qap0)
+
 If no duration is listed, the spell lasts as long as you’re concentrating on it but you’re _deprived_ until you stop.
 
 
@@ -31,7 +33,7 @@ If no duration is listed, the spell lasts as long as you’re concentrating on i
 18. **Grease** - Launch a blob of slippery, flammable crease the size of your fist.
 19. **Haste** - A creature moves with supernatural speed, doubles their Grit, and has d12 DEX for one minute. Afterwards, the creature is deprived until they can take a nappy wappy.
 20. **Ice Spear** -  A spear of ice emerges from a body of water or ice. Deals d10 damage if someone is in the way.
-21. **Immovable Mod **- An object the size of a cat (or smaller) becomes immovable and indestructible. 
+21. **Immovable Mod** - An object the size of a cat (or smaller) becomes immovable and indestructible. 
 22. **Instigator** - Summon an alligator. You do not control the alligator. 
 23. **Interrogator** - Summon an alligator which will attack anyone that tells a lie in its presence.
 24. **Loyal Lock** - Animate a lock and command it to remain open or closed. It will do so until someone manages to convince it otherwise.

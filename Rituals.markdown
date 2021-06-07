@@ -7,6 +7,8 @@ nav_order: 5
 
 ## Ritual List
 
+[Random Ritual](https://perchance.org/2dx9tlc8ua)
+
 The components listed in [brackets] are consumed by the ritual. 
 
 
