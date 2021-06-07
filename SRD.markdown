@@ -2,6 +2,7 @@
 layout: page
 title: Rules
 permalink: /Rules/
+nav_order: 3
 ---
 
 ## Index

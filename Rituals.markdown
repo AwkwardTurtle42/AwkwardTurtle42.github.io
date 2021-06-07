@@ -2,6 +2,7 @@
 layout: page
 title: Rituals
 permalink: /Rituals/
+nav_order: 5
 ---
 
 ## Ritual List

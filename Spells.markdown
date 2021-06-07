@@ -2,6 +2,7 @@
 layout: page
 title: Spells
 permalink: /Spells/
+nav_order: 4
 ---
 
 # Spell List

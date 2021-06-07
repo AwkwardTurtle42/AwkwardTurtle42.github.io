@@ -2,6 +2,7 @@
 layout: page
 title: Introduction
 permalink: /Introduction/
+nav_order: 2
 ---
 
 # Introduction
