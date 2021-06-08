@@ -6,7 +6,7 @@ title: Home
 nav_order: 1
 ---
 
-**Brighter Worlds** is a fantasy tabletop RPG with selective crunch.
+**Brighter Worlds** is a fantasy tabletop RPG with selective crunch created by David Lombardo ([twitter](https://twitter.com/AwkwardTurtle42), [itch.io](https://awkwardturtle.itch.io/)).
 
 It draws heavily from Into the Odd, Cairn, Macchiato Monsters and Dungeon World.
 
