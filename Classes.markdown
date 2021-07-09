@@ -277,6 +277,10 @@ _A spirit of chaos, better known as a demon, shares space in your head. In excha
 *   A Demon In Your Brain - Your Demon acts like a hands free Spellbook with opinions. It knows one random spell and one random ritual, as well as one spell and one ritual of your choice.
 *   An Unusual Choice of Clothing - Your Demon insists on it.
 
+### Core Ability
+
+Chaos Magic: In place of the usual costs, you may choose to let the entropy of spellcasting destroy an object in your possession. Either a simple bulky object, or a particularly complex small object (like gems or clockwork) will work.
+
 
 ### Advanced Advancements
 
