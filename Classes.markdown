@@ -402,7 +402,7 @@ Unlock these abilities by spending 1 + N XP where N is the number of Advanced Ab
 
 
 
-*   Nature’s Tongue: You can communicate clearly with animals whose soul you share. You can communicate with difficulty to animals _similar_ to those spirits.
+*   Nature’s Tongue: You can communicate clearly with animals whose soul you share. You can communicate with difficulty to animals _similar_ to those whose soul you share.
 *   Psychopomp: When you are attendant to the death of a creature (caused by you or not) you may temporarily take custody of its soul. You can use your Great Soul ability to take that creature’s form once, but afterwards the soul passes beyond the Black River.
 *   Soul Sight: You can blind yourself to the material world to see creature’s souls. You can see, through all but the most powerful of illusions, what sort of creature they are and their mood.
 *   Speaker to the Dead: You can consult with the lingering souls and spirits of those who died nearby. Recalcitrant spirits may require offerings or favors before helping.
@@ -534,7 +534,7 @@ When you inscribe a rune, tell the GM what your intended effect is and what comp
     *   Air: breathing, flight, wind
     *   Fire: burning, heat
     *   Earth: stone, weight
-    *   Water: liquid, 
+    *   Water: liquid, change
 *   Verb
     *   Enhance: Addition, amplification
     *   Impair: Reduction, suppression
