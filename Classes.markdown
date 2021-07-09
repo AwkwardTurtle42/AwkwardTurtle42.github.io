@@ -342,7 +342,8 @@ Branch and Bone: You can distill plants, minerals, animal parts, and other ingre
 
 *   Best of 3 Grit
 *   Recipe Book (_bulky_) - Acts as a Grimoire that can also store your potion recipes. Contains two potion recipes (work with the GM).
-*   Potion Making Equipment: mortar and pestle, assorted glassware, etc.
+*   Potion Making Equipmen
+•   Mortar (1d6) and Pestle
 *   A Potion Bandolier - Contains one vial each of your starting potion recipes.
 
 
