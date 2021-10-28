@@ -10,7 +10,7 @@ nav_order: 1
 
 It draws heavily from Into the Odd, Cairn, Macchiato Monsters and Dungeon World.
 
-Brighter Worlds is unfinished (v. 0.6.0).
+Brighter Worlds is unfinished (v. 0.6.2).
 
 A PDF version can be found [here](https://awkwardturtle.itch.io/brighter-worlds) although the PDF will often lag slightly behind in version (currently v. 0.6.1).
 
