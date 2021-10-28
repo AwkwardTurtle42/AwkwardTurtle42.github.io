@@ -195,7 +195,9 @@ When you have a few minutes to catch your breath and drink some water, you resto
 
 ## Attribute Recovery
 
-Attribute loss can be restored with medical care, magic, or a lengthy rest in comfort.
+Attributes at zero dice can be recovered to a d4 with first aid and *catching your breath*.
+
+Further attribute loss can be restored with medical care, magic, or a lengthy rest in comfort.
 
 
 ## Deprivation
