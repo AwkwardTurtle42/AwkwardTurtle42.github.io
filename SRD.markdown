@@ -27,7 +27,7 @@ Dexterity (DEX):  Represents speed, reflexes, and precision.
 
 Willpower (WIL): Represents mental focus, toughness, and endurance.
 
-These present both a character’s prowess, and current status. If STR ever drops below a d4 that character dies. If DEX drops below d4 the character is paralyzed. If WIL drops below a d4 the character is catatonic.
+These present both a character’s prowess, and current status. If STR ever drops below a d4 that character is at risk of death. If DEX drops below d4 the character is at risk of paralysis. If WIL drops below a d4 the character is at risk of catatonia.
 
 
 ## Saves
@@ -35,8 +35,6 @@ These present both a character’s prowess, and current status. If STR ever drop
 When you want to do something, describe how you go about it and the GM will tell you if it’s possible, and inform you of any obvious consequences of your action.
 
 If the action carries risk or uncertainty, you’ll make a Save by rolling your appropriate Attribute die and trying to beat:
-
-
 
 *   a 4, if the risk comes from the environment.
 *   another creature’s Attribute die if they’re directly opposing you.
@@ -137,7 +135,7 @@ Lose: The damage is severe, reduce your STR and become incapacitated.
 
 An incapacitated creature is knocked down and completely helpless. Without assistance they will die within an hour.
 
-If a creature’s STR steps below a d4, they die.
+If a creature’s STR steps below a d4, any Critical Damage is lethal.
 
 
 ## Attack Modifiers
@@ -209,22 +207,17 @@ If you are deprived of vital needs for a full day (food, water, rest) you are _d
 
 When your STR steps below a d4 you die. 
 
-The rest of the table should take turns reading your Eulogy in memory of your character’s life. Once done, create a new character and rejoin the group. Prioritize expediency over realism.
+### The Mark of Death
 
+When your character dies, they approach the Black River where Death greets them. Describe who Death appears as to you, and what you can glimpse beyond the Black River. Then, roll a d6:
 
-### Optional Rule: The Mark of Death
+1: You are taken across the Black River by Death. The rest of the table should take turns reading your Eulogy in memory of your character’s life. 
 
-Use this rule to increase character survivability, or to add an extra bit of drama to the death of a character.
+2-3: Death offers you a deal. If you accept the terms, return to life.
 
-When a character dies, they approach the Black River where Death greets them. The player describes who Death appears as, and what they can glimpse beyond the Black River. Then, they roll a d6:
+4-6: It is not your time. You return to life marked by Death in some way.
 
-1: The character is taken across the Black River by Death.
-
-2-3: Death offers them a deal. If they accept the terms, they are returned to life.
-
-4-6: It is not their time. They return to life marked by Death in some way.
-
-If a character is already Marked By Death, the 4-6 result is replaced with the 2-3 result.
+If you are already Marked By Death, the 4-6 result is replaced with the 2-3 result.
 
 
 # Items

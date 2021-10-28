@@ -279,7 +279,7 @@ _A spirit of chaos, better known as a demon, shares space in your head. In excha
 
 ### Core Ability
 
-Chaos Magic: In place of the usual costs, you may choose to let the entropy of spellcasting destroy an object in your possession. Either a simple bulky object, or a particularly complex small object (like gems or clockwork) will work.
+Chaos Magic: You may choose to pay for a spell with Chaos. In place of the usual spellcasting costs destroy either a simple *bulky* object, or a particularly complex small object (like gems or clockwork) in your posession.
 
 
 ### Advanced Advancements
@@ -287,9 +287,8 @@ Chaos Magic: In place of the usual costs, you may choose to let the entropy of s
 Unlock these abilities by spending 1 + N XP where N is the number of Advanced Abilities you already have.
 
 
-
 *   Demonic Memory: Your demon occasionally recalls magic from its prior hosts. Learn a random spell or ritual, and whenever you spend XP learn another random spell or ritual.
-*   Stored Chaos: While using Chaos Magic you can store a single instance of chaos within you which can be unleashed later as usual, or as a d8 bolt of pure chaos.
+*   Stored Chaos: While using Chaos Magic you can store a single instance of chaos within you which can be unleashed as a d8 bolt of pure chaos.
 *   Inherited Knowledge: Choose a topic based on your Demon’s prior host. Use it as per the Archivist’s Deep Lore ability.
 *   Backseat Driver: If you are ever knocked unconscious or have your mind imparied in any way, you can choose to have your Demon take over and control your body instead.
 
@@ -340,7 +339,7 @@ Branch and Bone: You can distill plants, minerals, animal parts, and other ingre
 
 
 
-*   Best of 3 Grit
+*   3 Grit
 *   Recipe Book (_bulky_) - Acts as a Grimoire that can also store your potion recipes. Contains two potion recipes (work with the GM).
 *   Potion Making Equipmen
 •   Mortar (1d6) and Pestle
@@ -415,18 +414,18 @@ _Were you granted a boon by an ocean goddess? Are you the daughter of a river sp
 
 ### Core Ability
 
-A Thing of the Sea: You are equally at home in water as you are on land and you can control a volume of water about the size of a person.
+A Thing of the Sea: You are equally at home in water as you are on land and you can control a volume of water about the same size as yourself.
 
-Name your Patron (the spirit, body, or source of water that has claimed you), and choose the blessing it grants (or use a Starter Package).
+Name your Patron (the spirit, body, or source of water that has claimed you), and choose the blessing it grants.
 
 
 ### Water Blessings
 
 
 
-1. Fluid Form: Turn into water, but have only minimal control over your movement (if a liquid you can’t flow uphill, if a gas wind currents dictate your direction).
+1. Fluid Form: Turn into water, but have only minimal control over your movement.
 2. Font of Self: Produce water, about a gallon per hour.
-3. Thermo Regulation: Change the state of water in one direction (the states are solid, liquid, and gas).
+3. Thermo Regulation: Change the state of water (gas, liquid, solid). Catch your breath before doing so again.
 4. Tip Of The Iceberg: Your water control volume expands 10 fold.
 5. Water Sight: The first time you immerse yourself in a body of water you may ask your patron one question about something that water touches.
 6. Healing Waters: Stabilize wounds by pouring water over them. Submerge a wound in water for a watch to restore one step of Attribute loss.
@@ -434,12 +433,9 @@ Name your Patron (the spirit, body, or source of water that has claimed you), an
 
 ### You Start With:
 
-
-
 *   3 Grit
 *   A waterskin
 *   A small, impossible token from your Patron
-
 
 ### Advanced Advancements
 
@@ -468,7 +464,7 @@ Deep Lore: Pick a topic, whenever you first encounter something within that topi
 
 
 *   3 Grit
-*   Your Archive (_bulky_): You may take a day to record a new Topic of information into your archive from some source of knowledge (library, archive, storyteller, elder). You may use your Deep Lore ability on any Topic contained in your archive, but only after taking the time to look it up.
+*   Your Archive (_bulky_): Acts as a Grimoire in addition to storing your knowledge. You may take a day to record a new Topic of information into your archive from a library, archive, elder, or othe rsource of knowldge. Deep Lore works with any Topic contained in your archive.
 *   Wire Rimmed Reading Glasses
 *   Knife-Pen (d6) and Ink
 *   A _knack_ you picked up during your studies.
@@ -480,7 +476,7 @@ Unlock these abilities by spending 1 + N XP where N is the number of Advanced Ab
 
 
 
-*   Method of Loci: You’ve memorized your entire Archive. It still takes you time to look things up (walking around your memory palace) but it’s always with you.
+*   Office Assistant: Whether due to accumulated knowledge or some ritual, your Archive has awoken into a sentient, floating being. Casting spells still requires you to hold the Archive to read from it.
 *   Monster Manual: Thoroughly examine a creature to add it to your Archive. You have +1 armor against them and may ask questions about them as per Deep Lore. If you’ve added 3 similar creatures, add their Family to your Archives as a Topic.
 *   Psychometry: You can read an object’s history just by touching it. When you handle an object you can sense events that have happened to it. Emotionally charged and recent events take precedence, but with careful study you may ask specific questions.
 *   Expert Reader: No matter the language, culture, code, cypher, or style you can always quickly discern the intent and meaning of any writing.

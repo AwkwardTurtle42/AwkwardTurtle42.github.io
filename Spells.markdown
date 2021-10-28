@@ -12,7 +12,6 @@ nav_order: 6
 If no duration is listed, the spell lasts as long as you’re concentrating on it but you’re _deprived_ until you stop.
 
 
-
 1. **Acid Fingers** - Your hands secrete acid for a minute. Unarmed attacks degrade armor or equipment on Critical Damage.
 2. **AntiGravity** - Gravity no longer affects a creature or object your size or smaller for a single round.
 3. **Back Tentacles** - Black tentacles surge from a spot you choose, and make d6 attacks to attempt to grasp any creatures in range.
@@ -34,7 +33,7 @@ If no duration is listed, the spell lasts as long as you’re concentrating on i
 19. **Haste** - A creature moves with supernatural speed, doubles their Grit, and has d12 DEX for one minute. Afterwards, the creature is deprived until they can take a nappy wappy.
 20. **Ice Spear** -  A spear of ice emerges from a body of water or ice. Deals d10 damage if someone is in the way.
 21. **Immovable Mod** - An object the size of a cat (or smaller) becomes immovable and indestructible. 
-22. **Instigator** - Summon an alligator. You do not control the alligator. 
+22. **Instigator** - Summon an alligator. You do not control the alligator. It exists for 2d6 minutes (rolled secretly). 
 23. **Interrogator** - Summon an alligator which will attack anyone that tells a lie in its presence.
 24. **Loyal Lock** - Animate a lock and command it to remain open or closed. It will do so until someone manages to convince it otherwise.
 25. **Maximize Minimize** - Double a creature’s size for 1 minute, then quarter its size for another minute. You may choose which effect takes place first.

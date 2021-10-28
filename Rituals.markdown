@@ -25,7 +25,7 @@ The components listed in [brackets] are consumed by the ritual.
 10. **Flame Friend**  - [piece of charcoal] Eat the charcoal to summon an orb of flame that follows you for a day to provide illumination.
 11. **If These Walls Could Talk** - Draw a mouth on a wall using your own saliva. Using that mouth, the wall will answer one question to the best of its ability about something that occurred in its presence.
 12. **Invisibility** - [a flower] For the next ten minutes you’re invisible while you hold your breath.
-13. **Locate Object **- Concentrate on a specific object, you know the direction and distance to that object as well as its current state. Can be used with objects you do not have first hand knowledge of, but the less detailed the description the more vague the effects.
+13. **Locate Object** - Concentrate on a specific object, you know the direction and distance to that object as well as its current state. Can be used with objects you do not have first hand knowledge of, but the less detailed the description the more vague the effects.
 14. **Monstrous Melding** - Transplant a monster’s organ or limb into a willing subject. They gain some aspect of the power or abilities of the donor. Lasts for a week, but if this ritual is cast again during that duration the effect becomes permanent (some side effects may occur).
 15. **No Mask? No Mask!** - [clay] Smear a person’s face with clay to reshape their flesh as though it were putty (a reference will be needed if the goal is disguise). Lasts until sunrise.
 16. **Oathkeeper’s Light** - [white flower] Burn the flower while an oath is sworn. Flame will internally ignite any who break the oath, dealing them d6 Critical Damage every sunrise for a week.
