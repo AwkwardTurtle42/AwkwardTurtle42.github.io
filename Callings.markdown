@@ -39,6 +39,7 @@ You’ve always liked knowing things. Collecting information and stories like a 
  * Your Archive (bulky): Starts with one Topic of information based on your prior studies. 
  * Wire Rimmed Reading Glasses
  * Knife-Pen (d6) and Ink
+
 ### Your Archive
 Your Archive acts as a Grimoire, and can store spells and rituals in addition to storing your knowledge.
 The first time you encounter something that falls within a Topic recorded in your Archive, you may ask the GM a single question about it. Further questions will take time to look up, or require further research. It takes six hours to record a new Topic of information into your Archive from any source of knowledge.
@@ -57,6 +58,7 @@ A spirit of chaos, better known as a demon, has made its home in your head. In e
  * 4 Grit
  * **The Demon In Your Brain:** It knows one random spell and one random ritual, as well as one spell and one ritual of your choice.
  * An Unusual Choice of Clothing: Your Demon insists on it.
+
 ### Your Demon
 You have a spirit of chaos living within your brain. As a being of pure spirit it cannot exist or interact with the material world on its own, and requires your body to do either.
 **Magical Storage:** Your Demon stores spells and rituals as though it were a Grimoire. “Copying” new spells or rituals into it still removes them from the source as usual.
@@ -69,6 +71,7 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
  * **Backseat Driver:** If you are ever knocked unconscious or have your mind imparied in any way, you can choose to have your Demon take over and control your body instead.
  * **Primal Chaos:** You can release the raw, chaotic energies of your Demon as a d8 ranged attack.
  * **Demonic Expression:** Ongoing exposure to otherworldly energies has induced a unique mutation. For example: a demonic eye that sees true names, a scaled arm that steals secrets, or a translucent skin that let's you sink into shadows.
+
 ## Alchemist
 Through branch and root you know how to unlock the secrets of the earth. You use this knowledge to wrench the very world to will.
 ### Core Ability
@@ -88,6 +91,7 @@ The GM will tell you if it will work, or if one or more more of the following ar
  * It creates an unstable, volatile potion that must be used quickly or lose its efficacy.
  * The process is uncertain, and the final effect will depend on a random roll.
  * It will have an unintended side effect when consumed.
+
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
  * **Alchemic Distillation:** You can distill the Spells and Rituals in your Recipe Book into potions that can be released by drinking, pouring, or throwing. Spells can be distilled quickly, where rituals take as long to distill as they would to perform. Magic distilled in this way is removed from your Recipe Book until released.
@@ -103,6 +107,7 @@ When a *fragile* item is used, roll a d6 (for weapons and armor roll on Direct D
 1: It breaks immediately (and likely violently).
 2-3: It’s damaged, and will break next time.
 4-6: It’s fine for now.
+
 ### You Start With
  * 3 Grit
  * **Masterwork Weapon** (1d6)
@@ -110,6 +115,7 @@ When a *fragile* item is used, roll a d6 (for weapons and armor roll on Direct D
  * **Masterwork Item** (1 *Improvement*)
  * Distribute 3 *improvements* among your Masterworks.
  * Your Artificing Tools
+
 ### Improvements
  * **Deadly:** Step up damage die.
  * **Heavy:** Step up damage die, add bulky. Effective at damaging structures.
@@ -127,6 +133,7 @@ When a *fragile* item is used, roll a d6 (for weapons and armor roll on Direct D
  * **Sentient:** Has a mind of its own.
  * **Detecting:** Sense a specific thing, or grant a specific type of perception.
  * **Special:** A unique quality or ability.
+
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
  * **Mystical Graft:** You can graft enchantments and effects from magic items, weapons or armor onto something else. This destroys the original item.
@@ -142,6 +149,7 @@ You are devoted to something larger than yourself. It might be a deity, an organ
  * 4 Grit
  * Emblazoned Armor (1 Armor) and Shield (+1 Armor)
  * A d8 melee weapon
+
 ### Vows
 This applies only to you, not your companions.
  * **Honesty:** You may not tell a lie, or engage in dishonest tactics.
@@ -157,6 +165,7 @@ This applies only to you, not your companions.
  * **Weapon of Faith:** Choose an improvement from the Artificer’s Improvement list. Weapons you hold gain that Improvement.
  * **Healing Touch:** With a night’s focus restore one step of Attribute loss. Or make a WIL Save: Win: Immediately stabilize the wound and restore one step of Attribute loss. Lose: The wound is mirrored onto you. Tie: Both. 
  * **Minor Miracle:** You have the ability to perform a minor miracle related to your devotion.
+
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
  * **Doubly Devoted:** Take a second Vow, and gain a second Boon.
@@ -173,6 +182,7 @@ Name your Patron (the spirit, body, or source of water that has claimed you), an
  * 4 Grit
  * A waterskin
  * A small, impossible token from your Patron
+
 ### Water Blessing
 Choose the blessing your Patron grants you:
  * **Fluid Form:** Freely turn into water and back to your normal state.
@@ -181,6 +191,7 @@ Choose the blessing your Patron grants you:
  * **Thermo Regulation:** Freely change the state of water within your control (between gas, liquid, and solid).
  * **Tip Of The Iceberg:** Your volume of water you can control expands 10 fold.
  * **Healing Waters:** Stabilize wounds by pouring water over them. Submerge a wound in water for a watch to restore one step of Attribute loss.
+
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
  * **Twice Blessed:** Choose a second Water Blessing your Patron grants you.
@@ -200,6 +211,7 @@ Your companion starts with:
  * **Your Companion**
  * A Bag of Beast Snacks (whatever your companion prefers)
  * A Ranged Weapon (d6) or Paired Melee Weapons (d6,d6)
+
 ### Animal Companion Abilities
 Pick three abilities for your Companion:
  * **Big:** Step up STR and Attack.
@@ -213,6 +225,7 @@ Pick three abilities for your Companion:
  * **Marsupial:** Has a pouch which can carry a single bulky item.
  * **Perceptive:** Has some enhanced sense (smelling, hearing, echolocation, electroception, dowsing, night vision, etc.)
  * **Special:** Some other unique thing (good at digging, chromatophores, etc.)
+
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
  * **Level Up:** Through training, special diet, or ritual your companion has learned some new tricks. Pick two more abilities from the Animal Companion list.
@@ -230,6 +243,7 @@ Familiar at your side, you channel the forces of magic across the mystic bond th
  * A Grimoire (bulky), containing two
 spells and one ritual of your choice.
  * A Fanciful Hat or Ornamentation
+
 ### Your Familiar
 Your Familiar is a creature with 1 Grit, a d4 attack, d4 STR, d4 DEX, and d4 WIL. Choose two options from the Animal’s Companion Ability list to improve your Familiar.
 Casting a spell through your Familiar works the same as you casting a spell, except the Familiar pays the costs: it’s Grit is set to zero, or it must make a WIL Save. You must still be holding your Grimoire as usual while casting the spell.
@@ -249,6 +263,7 @@ You are a grimblade and you have a grimblade, a unique and very large weapon tha
  * 3 Grit
  * **Your Grimblade:** (d10, bulky),containing 2 spells of your choice.
  * Unusual Armor (1 Armor)
+
 ### Grimblade
 Your Grimblade acts as a Grimoire and can store spells and rituals with in. This could take the form of engraving arcane words onto the flat of a great two handed blade, embedding mystic energy into the crystalline head of a massive hammer, or simply bashing people about the head with a very large book.
 You cast spells and rituals from it as usual, but if you cast a spell while at zero Grit you roll the Save with your STR rather than your WIL.
@@ -270,6 +285,7 @@ The soul of a great beast lives within you, granting you it’s skills and form.
  * Melee Weapon (d6)
  * Ranged Weapon (d8, bulky)
  * A beneficial quirk and an inconvenient instinct from your Great Soul
+
 ### Your Great Soul
 Choose the animal whose Great Soul lives within you and pick three abilities from the Animal’s Companion list. When you transform into your animal form those abilities modify your existing stats.
 Grit and ability loss is maintained between your forms (you won’t magically heal by transforming).
@@ -292,6 +308,7 @@ Define the Domain of your god.
  * Your Small God
  * A ceremonial object (d6)
  * A d8 Domain Die
+
 ### Words of God
 When you attempt to make something true by speaking with the words of your god, you risk the universe rejecting your statement. Adjust your Domain Die based on your intended outcome. If the Die would step below a d4 the statement is impossible, if it would step above a d12 it happens without a roll. Otherwise, roll it as a normal Save:
 **Win:** The statement takes effect.
@@ -324,6 +341,7 @@ You are a runewright, you imbue and channel power through engraved symbols of po
  * Knowledge of 2 Elements, 2 Verbs, and 2 Subjects
  * Hammer (d6) and Chisel (d6)
  * Flawless handwriting
+
 ### Rune Components
 Runic magic is subtler than both Spells and Rituals, dealing mostly with modifying existing things. The effects are long lasting, but generally less powerful.
 When you inscribe a rune, tell the GM what your intended effect is and what components you plan to use to achieve that. They’ll tell you if that’s possible, or if you’ll have to do more to achieve your goal.
