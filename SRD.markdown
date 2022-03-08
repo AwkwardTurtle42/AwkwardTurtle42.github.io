@@ -245,10 +245,10 @@ In general roll when all possible results are interesting, and know what the res
 
 1. The player declares their intent, describing their goal and their approach.
 2. Determine if the action is possible. Consider the situation, the player’s approach, their tools, abilities, skills, background, if they have help, and any other relevant details. 
-  
-  a. If it’s impossible, tell the player. They can choose to revise their approach, or change their intended action.
-  
-  b. If it’s possible, continue to 3.
+#### a. 
+  If it’s impossible, tell the player. They can choose to revise their approach, or change their intended action.
+#### b. 
+  If it’s possible, continue to 3.
 3. If it’s possible, then consider if there are any risks to the action.
   
   a. If there are no risks, or the risks are fully mitigated, the player’s actions can go ahead without a roll.
