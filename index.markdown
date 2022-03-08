@@ -9,13 +9,13 @@ nav_order: 1
 
 Writing & Layout by David Lombardo ([twitter](https://twitter.com/AwkwardTurtle42),[itch.io](https://awkwardturtle.itch.io/))
 
-Fully laid out PDF version, feature Evlyn Moreau's artwork is available [here](https://awkwardturtle.itch.io/brighter-worlds).
+Fully laid out PDF version, featuring [Evlyn Moreau](https://www.patreon.com/evlynmoreau)'s artwork is available [here](https://awkwardturtle.itch.io/brighter-worlds).
 
 Brighter World’s text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 It is unfinished, currentliy at version 0.7.1
 
-Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](www.bastionland.com)), Cairn by Yochai Gal ([cairnrpg.org](cairnrpg.org])), and Macciato Monsters by Eric Nieudan (@surcapitaine).
+Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](www.bastionland.com)), Cairn by Yochai Gal ([cairnrpg.org](cairnrpg.org])), and Macciato Monsters by Eric Nieudan ([@surcapitaine](https://twitter.com/surcapitaine)).
 
 ## Recent changes
  * Spell and Ritual lists completed at 50 entries each
