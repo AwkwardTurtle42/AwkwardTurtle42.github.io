@@ -42,6 +42,7 @@ You’ve always liked knowing things. Collecting information and stories like a 
 
 ### Your Archive
 Your Archive acts as a Grimoire, and can store spells and rituals in addition to storing your knowledge.
+
 The first time you encounter something that falls within a Topic recorded in your Archive, you may ask the GM a single question about it. Further questions will take time to look up, or require further research. It takes six hours to record a new Topic of information into your Archive from any source of knowledge.
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
@@ -61,10 +62,14 @@ A spirit of chaos, better known as a demon, has made its home in your head. In e
 
 ### Your Demon
 You have a spirit of chaos living within your brain. As a being of pure spirit it cannot exist or interact with the material world on its own, and requires your body to do either.
+
 **Magical Storage:** Your Demon stores spells and rituals as though it were a Grimoire. “Copying” new spells or rituals into it still removes them from the source as usual.
+
 Anytime you spend XP, your Demon recalls a random spell or ritual (your choice) from a prior host.
+
 **Hands Free Spellcasting:** Using your Demon’s power you can cast spells while keeping your hands free for other activities. The effort of doing so still requires that you set your Grit to 0 or a make WIL Save as usual.
-Inherited Knowledge: Choose a Topic based on your Demon’s prior host. You may ask questions about that Topic as per the Archivist’s Archive.
+
+**Inherited Knowledge:** Choose a Topic based on your Demon’s prior host. You may ask questions about that Topic as per the Archivist’s Archive.
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
  * **Demonic Sight:** Your Demon has learned to share its sprititual senses with you, allowing you to sense the presence and nature of nearby magical or supernatural energies.
@@ -84,7 +89,9 @@ Through branch and root you know how to unlock the secrets of the earth. You use
 
 ### Potion Recipies
 A potion recipe must contain at least two dissimilar components along with a brewing process. Any potion effect is possible, but the required components and process may be esoteric or prohibitive.
+
 To create a new potion recipe, explain the desired effects along with the proposed recipe.
+
 The GM will tell you if it will work, or if one or more more of the following are true:
  * It will require one or more additional components.
  * It requires a laborious, time consuming, or difficult to achieve brewing process.
@@ -104,10 +111,14 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 Your habit of always taking things apart to learn how they worked didn’t always endear you to people. When you started putting things back together people were mollified. Once they realized the things you’d put back together were better than before? That’s when you got popular.
 ### Core Ability
 **Walking Workshop:** You can upgrade mundane objects or create new ones with a single improvement. They are *fragile*, unless significant time and effort is put into their production.
+
 When a *fragile* item is used, roll a d6 (for weapons and armor roll on Direct Damage):
-1: It breaks immediately (and likely violently).
-2-3: It’s damaged, and will break next time.
-4-6: It’s fine for now.
+
+**1:** It breaks immediately (and likely violently).
+
+**2-3:** It’s damaged, and will break next time.
+
+**4-6:** It’s fine for now.
 
 ### You Start With
  * 3 Grit
@@ -179,6 +190,7 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 Were you granted a boon by an ocean goddess? Are you the daughter of a river spirit? Perhaps you did some great deed for the guardian of a particular cove? Your watery patron granted you a part of itself and bound you to water. They are not a dominant presence in your journey, but their support is constant and you hear their voice in the patter of rain, the burble of a creek, or the crash of ocean waves.
 ### Core Ability
 **A Thing of the Sea:** You are equally at home in water as you are on land. You can freely control a volume of water about the same size as yourself, if employed as a weapon it deals d6 damage.
+
 Name your Patron (the spirit, body, or source of water that has claimed you), and choose the blessing it grants.
 ### You Start With
  * 4 Grit
@@ -205,8 +217,11 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 Ranger, beastmaster, wildspeaker, hunter… the labels don’t matter, what’s important is that your companion is by your side. Your bond extends to the ends of the world and beyond.
 ### Core Ability
 **Animal Companion:** You have formed a special bond with a creature. It will follow your commands and is unfailingly loyal. Should the worst happen, your companion will return to your side from beyond the Black River as a ghost.
+
 You can spend your own XP on your companion as you would on yourself.
+
 Your companion starts with:
+
 1 Grit, a d6 attack, d6 STR, d6 DEX, and d6 WIL
 ### You Start With
  * 4 Grit
@@ -248,7 +263,9 @@ spells and one ritual of your choice.
 
 ### Your Familiar
 Your Familiar is a creature with 1 Grit, a d4 attack, d4 STR, d4 DEX, and d4 WIL. Choose two options from the Animal’s Companion Ability list to improve your Familiar.
+
 Casting a spell through your Familiar works the same as you casting a spell, except the Familiar pays the costs: it’s Grit is set to zero, or it must make a WIL Save. You must still be holding your Grimoire as usual while casting the spell.
+
 So long as you are alive, your Familiar Bond prevents your Familiar from being permanently killed. You can always resummon your Familiar through an hour long ritual unique to you.
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
@@ -268,7 +285,9 @@ You are a grimblade and you have a grimblade, a unique and very large weapon tha
 
 ### Grimblade
 Your Grimblade acts as a Grimoire and can store spells and rituals with in. This could take the form of engraving arcane words onto the flat of a great two handed blade, embedding mystic energy into the crystalline head of a massive hammer, or simply bashing people about the head with a very large book.
+
 You cast spells and rituals from it as usual, but if you cast a spell while at zero Grit you roll the Save with your STR rather than your WIL.
+
 **Kinetic Spellcasting:** If you deal Direct Damage with your Grimblade you may immediately cast a spell ignoring the usual costs. You do not set your Grit to zero or make a Save. This works only for spells and cannot be used to perform rituals.
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
@@ -290,8 +309,11 @@ The soul of a great beast lives within you, granting you it’s skills and form.
 
 ### Your Great Soul
 Choose the animal whose Great Soul lives within you and pick three abilities from the Animal’s Companion list. When you transform into your animal form those abilities modify your existing stats.
+
 Grit and ability loss is maintained between your forms (you won’t magically heal by transforming).
+
 While not in animal form one beneficial quirk bleeds through. For example perfect balance for a cat’s soul, or excellent eyesight from an eagle’s.
+
 Your Great Soul allows you to speak to and understand the animal whose soul you share.
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
@@ -313,15 +335,21 @@ Define the Domain of your god.
 
 ### Words of God
 When you attempt to make something true by speaking with the words of your god, you risk the universe rejecting your statement. Adjust your Domain Die based on your intended outcome. If the Die would step below a d4 the statement is impossible, if it would step above a d12 it happens without a roll. Otherwise, roll it as a normal Save:
+
 **Win:** The statement takes effect.
+
 **Tie:** Making the statement true saps your god’s power, your Domain die steps down.
+
 **Lose:** The statement fails and your Domain die steps down.
+
 Domain Die loss is restored through offerings or religious rites for your God.
+
 Step down your Domain Die if the statement:
  * Impacts things outside of your line of sight.
  * Directly contradicts the natural working of the world.
  * Describes a long lasting effect (step up twice if permanent).
  * Is a poor fit for your god’s Domain.
+
 Step up your Domain Die if the statement:
  * Impacts only things you are touching.
  * Is copacetic with the natural working of the world.
@@ -348,6 +376,7 @@ You are a runewright, you imbue and channel power through engraved symbols of po
 
 ### Rune Components
 Runic magic is subtler than both Spells and Rituals, dealing mostly with modifying existing things. The effects are long lasting, but generally less powerful.
+
 When you inscribe a rune, tell the GM what your intended effect is and what components you plan to use to achieve that. They’ll tell you if that’s possible, or if you’ll have to do more to achieve your goal.
 #### Elements
  - **Air:** breath, wind

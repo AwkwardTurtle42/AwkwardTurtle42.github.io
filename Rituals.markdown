@@ -11,6 +11,7 @@ nav_order: 7
 
 ## Performing Rituals
 To perform a ritual, read it out of the Grimoire while performing any required actions and sacrificing any required [components]. 
+
 Performing a ritual takes at least ten minutes, unless otherwise specified. Rushing the process may be possible, but will always carry a degree of risk.
 ## d50 Rituals
  1. **Astral Projection** - Project your soul from your body. You are ethereal and are immune to physical attacks and hazards. Magical and spiritual effects still impact you, and could sunder you from your body.
