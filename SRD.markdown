@@ -8,9 +8,9 @@ nav_order: 3
 - [Core Rules](#core-rules)
 - [Magic](#magic)
 - [Combat](#combat)
-- [Injury & Recovery](#injury-recovery)
+- [Injury & Recovery](#injury--recovery)
 - [Death](#death)
-- [Items & Inventory](#items-inventory)
+- [Items & Inventory](#items--inventory)
 - [Growth](#growth)
 - [GM Guidance](#gm-guidance)
 
