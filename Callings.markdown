@@ -72,9 +72,9 @@ Anytime you spend XP, your Demon recalls a random spell or ritual (your choice) 
 **Inherited Knowledge:** Choose a Topic based on your Demon’s prior host. You may ask questions about that Topic as per the Archivist’s Archive.
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
- * **Demonic Sight:** Your Demon has learned to share its sprititual senses with you, allowing you to sense the presence and nature of nearby magical or supernatural energies.
- * **Backseat Driver:** If you are ever knocked unconscious or have your mind imparied in any way, you can choose to have your Demon take over and control your body instead.
- * **Primal Chaos:** You can release the raw, chaotic energies of your Demon as a d8 ranged attack.
+ * **Demonic Sight:** Your Demon has learned to share its spiritual senses with you, allowing you to sense the presence and nature of nearby magical or supernatural energies.
+ * **Backseat Driver:** If you are ever knocked unconscious or have your mind impaired in any way, you can choose to have your Demon take over and control your body instead.
+ * **Primal Chaos:**  Set your Grit to zero, or destroy a delicate, fragile, or complex object in your possession to hurl a d10 damage orb of pure chaos which will rust metal, rot wood, or decay what it touches.
  * **Demonic Expression:** Ongoing exposure to otherworldly energies has induced a unique mutation. For example: a demonic eye that sees true names, a scaled arm that steals secrets, or a translucent skin that let's you sink into shadows.
 
 ## Alchemist
