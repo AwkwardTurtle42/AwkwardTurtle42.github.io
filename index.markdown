@@ -15,7 +15,7 @@ Brighter World’s text is licensed under [CC-BY-SA 4.0](https://creativecommons
 
 It is unfinished, currentliy at version 0.7.1
 
-Rules based on Into the Odd by Chris McDowall (www.bastionland.com), Cairn by Yochai Gal (cairnrpg.org), and Macciato Monsters by Eric Nieudan (@surcapitaine).
+Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](www.bastionland.com)), Cairn by Yochai Gal ([cairnrpg.org](cairnrpg.org])), and Macciato Monsters by Eric Nieudan (@surcapitaine).
 
 ## Recent changes
  * Spell and Ritual lists completed at 50 entries each

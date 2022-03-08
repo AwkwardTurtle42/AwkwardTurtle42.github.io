@@ -5,9 +5,9 @@ permalink: /Callings/
 nav_order: 5
 ---
 #  Index
-### [Archivist](#archivist)
+### [Archivist](##archivist)
 A collector and collator of knowledge. For players who like to keep notes and read lore.
-### [Demonic Sorcerer](#demonic-sorcerer)
+### [Demonic Sorcerer](#callings##demonic-sorcerer)
 A magic specialist borrowing the skills of a spirit living in their head. For players who like to learn spells automatically, or like making pacts with dangerous beings.
 ### [Alchemist](#alchemist)
 A crafter distilling power from the natural world into potions. For players who like to plan ahead, collect ingredients, and play with potion effects.
