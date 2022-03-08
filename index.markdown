@@ -18,6 +18,8 @@ It is unfinished, currentliy at version 0.7.1
 Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](www.bastionland.com)), Cairn by Yochai Gal ([cairnrpg.org](cairnrpg.org])), and Macciato Monsters by Eric Nieudan ([@surcapitaine](https://twitter.com/surcapitaine)).
 
 ## Recent changes
+ * Martial Artist removed.
+   * Was unhappy with the calling, it'll likely return in the future once I've figured out how to rework it.
  * Spell and Ritual lists completed at 50 entries each
  * Classes are now named Callings
  * Everyone has slighlty more starting Grit now
