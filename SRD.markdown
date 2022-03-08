@@ -68,9 +68,13 @@ Spells are quick and easy to cast, but tend to have flashy and fleeting effects.
 To cast a spell, hold the Grimoire in both hands and read the spell aloud.
 If you have Grit, set your Grit to zero to cast the spell.
 If you have no Grit, make a WIS Save:
+
 **Win:** The spell is cast successfully.
+
 **Tie:** The spell is cast successfully, but your WIL is stepped down.
+
 **Lose:** Your WIL steps down. Either you are knocked unconscious, or the spell misfires (your choice).
+
 ## Spells In Combat
 When you cast a spell against a creature that is actively trying to avoid it, if the spell deals damage simply use that damage as a normal attack.
 If the spell does not deal damage, roll your WIL as though it were an attack. If that attack deals Direct Damage, your spell takes effect instead of causing a Critical Damage Save.
