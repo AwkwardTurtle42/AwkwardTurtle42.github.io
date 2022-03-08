@@ -255,18 +255,24 @@ In general roll when all possible results are interesting, and know what the res
   If it’s possible, continue to 3.
 3. If it’s possible, then consider if there are any risks to the action.
   
-  a. If there are no risks, or the risks are fully mitigated, the player’s actions can go ahead without a roll.
+#### a. 
+  If there are no risks, or the risks are fully mitigated, the player’s actions can go ahead without a roll.
   
-  b. If the action would entail unavoidable risks, tell the player what those consequences are. They can choose to accept them, or revise their approach.
+#### b. 
+  If the action would entail unavoidable risks, tell the player what those consequences are. They can choose to accept them, or revise their approach.
   
-  c. If there are potential but uncertain risks, continue to 4.
+#### c. 
+  If there are potential but uncertain risks, continue to 4.
 4. The player’s action requires them to make a Save to avoid the risks.
   
-  a. If the approach means that, at best, the risks will be only partly mitigated the Save is *imparied*.
+#### a. 
+  If the approach means that, at best, the risks will be only partly mitigated the Save is *imparied*.
   
-  b. If the approach means the risks are unlikely, but still possible, the Save is *enhanced*.
+#### b. 
+  If the approach means the risks are unlikely, but still possible, the Save is *enhanced*.
   
-  c. If neither a or b apply, the Save is rolled as normal.
+#### c. 
+  If neither a or b apply, the Save is rolled as normal.
 5. Tell the player the potential outcomes as far as their character could plausibly know them (always err on the side of giving too much information). The player can then choose to roll, or revise their approach.
 6. Roll the dice, and honor the results.
 
