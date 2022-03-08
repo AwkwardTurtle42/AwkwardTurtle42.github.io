@@ -5,20 +5,22 @@ layout: default
 title: Home
 nav_order: 1
 ---
+**Brighter Worlds** is a whimsical fantasy tabletop RPG with modular crunch.
 
-**Brighter Worlds** is a fantasy tabletop RPG with selective crunch created by David Lombardo ([twitter](https://twitter.com/AwkwardTurtle42), [itch.io](https://awkwardturtle.itch.io/)).
+Writing & Layout by David Lombardo ([twitter](https://twitter.com/AwkwardTurtle42),[itch.io](https://awkwardturtle.itch.io/))
 
-It draws heavily from Into the Odd, Cairn, Macchiato Monsters and Dungeon World.
+Fully laid out PDF version, feature Evlyn Moreau's artwork is available [here](https://awkwardturtle.itch.io/brighter-worlds).
 
-Brighter Worlds is unfinished (v. 0.6.2).
+Brighter World’s text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-A PDF version can be found [here](https://awkwardturtle.itch.io/brighter-worlds) although the PDF will often lag slightly behind in version (currently v. 0.6.1).
+It is unfinished, currentliy at version 0.7.1
 
-Most recent changes:
+Rules based on Into the Odd by Chris McDowall (www.bastionland.com), Cairn by Yochai Gal (cairnrpg.org), and Macciato Monsters by Eric Nieudan (@surcapitaine).
 
-* Archivist ability Method of Loci replcaed with Office Assistant.
-* Mark of Death optional rule made default.
-* Fixed Chaos Sorcerer core ability not showing up on site.
-* Archivist's Archive now works as a Grimoire.
-* Slightly tweaked some Blessed of Water abilities.
-* Fixed some wording issues in places.
+## Recent changes
+ * Spell and Ritual lists completed at 50 entries each
+ * Classes are now named Callings
+ * Everyone has slighlty more starting Grit now
+ * Significant reworking of Archivist, Demonic Sorcerer, and Blessed of Water Callings.
+ * Minor reworkings of the rest of the Callings
+ * Tweaks to damage/death/critical damage, "direct damage" is now defined.
