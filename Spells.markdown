@@ -11,14 +11,21 @@ nav_order: 6
 
 ## Casting Spells
 To cast a spell, hold the Grimoire in both hands and read the spell aloud.
+
 If you have Grit, set your Grit to zero to cast the spell.
+
 If you have no Grit, make a WIS Save:
+
 **Win:** The spell is cast successfully.
+
 **Tie:** The spell is cast successfully, but your WIL is stepped down.
+
 **Lose:** Your WIL steps down. Either you are knocked unconscious, or the spell misfires (your choice).
+
 If no duration is listed the spell lasts as long as you continue to hold your Grimoire and concentrate on it, but you’re deprived until you stop.
 ## Spells In Combat
 When you cast a spell against a creature that is actively trying to avoid it, if the spell deals damage simply use that damage as a normal attack.
+
 If the spell does not deal damage, roll your WIL as though it were an attack. If that attack deals Direct Damage, your spell takes effect instead of causing a Critical Damage Save.
 ## d50 Spells
  1. **Acid Fingers** - Your hands secrete acid for a minute. Step up the damage of your unarmed attacks, and degrade armor or equipment on Direct Damage.
