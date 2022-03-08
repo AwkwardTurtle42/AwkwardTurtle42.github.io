@@ -81,6 +81,7 @@ Through branch and root you know how to unlock the secrets of the earth. You use
  * **Recipe Book:** (bulky) Acts as a Grimoire that also stores your potion recipes. Contains two potion recipes.
  * Mortar (1d6) and Pestle
  * Potion Bandoleer: Contains one vial each of your starting potion recipes.
+
 ### Potion Recipies
 A potion recipe must contain at least two dissimilar components along with a brewing process. Any potion effect is possible, but the required components and process may be esoteric or prohibitive.
 To create a new potion recipe, explain the desired effects along with the proposed recipe.
@@ -158,6 +159,7 @@ This applies only to you, not your companions.
  * **Stability:** You must complete any task, journey, or quest you undertake.
  * **Nonviolence:** You may never initiate violence unless it is in defense of yourself or another.
  * **Observance:** You must complete a ritual or task (something inconvenient) in each location you visit.
+
 ### Boons
  * **By Will Sustained:** You do not need to eat, drink, breathe, or sleep.
  * **Unsullied Truth:** You always know if someone is lying, or if something is hidden by illusion or glamour in your presence.
@@ -325,6 +327,7 @@ Step up your Domain Die if the statement:
  * Is copacetic with the natural working of the world.
  * Describes a fleeting effect.
  * Is a perfect fit for your god’s Domain.
+
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
  * **Gemini:** Your god has a second Domain, complementary in some way to the first.
@@ -336,6 +339,7 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 You are a runewright, you imbue and channel power through engraved symbols of power. You are no wizard. You’re above running around shooting crude magic from your fingertips, blasting things with fireballs. Runes are sophisticated. Runes are subtler, slower, and longer lasting than spells. Anyone can pick up a spellbook and cast a spell, crafting runes takes refinement. And you are refined.
 ### Core Ability
 **Runic Magic:** You can inscribe runes that incorporate one Element, one Verb, and one Subject. Empower and activate an inscribed rune with a drop of fresh drop of your blood and a point of Max Grit. You can deactivate a rune at will to recover the spent Max Grit.
+
 ### You Start With
  * 4 Grit
  * Knowledge of 2 Elements, 2 Verbs, and 2 Subjects
@@ -346,20 +350,23 @@ You are a runewright, you imbue and channel power through engraved symbols of po
 Runic magic is subtler than both Spells and Rituals, dealing mostly with modifying existing things. The effects are long lasting, but generally less powerful.
 When you inscribe a rune, tell the GM what your intended effect is and what components you plan to use to achieve that. They’ll tell you if that’s possible, or if you’ll have to do more to achieve your goal.
 #### Elements
-**Air:** breath, wind
-**Fire:** burning, heat
-**Earth:** solidity, weight
-**Water:** liquid, change
+ - **Air:** breath, wind
+ - **Fire:** burning, heat
+ - **Earth:** solidity, weight
+ - **Water:** liquid, change
+
 #### Verbs
-**Enhance:** addition, amplification
-**Impair:** reduction, suppression
-**Move:** motive force, relocation
-**Create:** production, renewal
-**Destroy:** removal, decay
+ - **Enhance:** addition, amplification
+ - **Impair:** reduction, suppression
+ - **Move:** motive force, relocation
+ - **Create:** production, renewal
+ - **Destroy:** removal, decay
+
 #### Subjects
-**Self:** the element itself
-**Object:** an inanimate object
-**Creature:** a living thing
+ - **Self:** the element itself
+ - **Object:** an inanimate object
+ - **Creature:** a living thing
+
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
  * **Expansive Research:** Learn the remaining Elements, Verbs and Subjects from the standard lists.
