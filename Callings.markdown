@@ -87,7 +87,7 @@ Through branch and root you know how to unlock the secrets of the earth. You use
  * Mortar (1d6) and Pestle
  * Potion Bandoleer: Contains one vial each of your starting potion recipes.
 
-### Potion Recipies
+### Potion Recipes
 A potion recipe must contain at least two dissimilar components along with a brewing process. Any potion effect is possible, but the required components and process may be esoteric or prohibitive.
 
 To create a new potion recipe, explain the desired effects along with the proposed recipe.
