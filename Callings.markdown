@@ -67,7 +67,7 @@ You have a spirit of chaos living within your brain. As a being of pure spirit i
 
 Anytime you spend XP, your Demon recalls a random spell or ritual (your choice) from a prior host.
 
-**Hands Free Spellcasting:** Using your Demon’s power you can cast spells while keeping your hands free for other activities. The effort of doing so still requires that you set your Grit to 0 or a make WIL Save as usual.
+**Hands Free Spellcasting:** Using your Demon’s power you can cast spells while keeping your hands free for other activities. The effort of doing so still requires that you set your Grit to zero or a make WIL Save as usual.
 
 **Inherited Knowledge:** Choose a Topic based on your Demon’s prior host. You may ask questions about that Topic as per the Archivist’s Archive.
 ### Advanced Abilities
@@ -85,7 +85,7 @@ Through branch and root you know how to unlock the secrets of the earth. You use
  * 4 Grit
  * **Recipe Book:** (bulky) Acts as a Grimoire that also stores your potion recipes. Contains two potion recipes.
  * Mortar (1d6) and Pestle
- * Potion Bandoleer: Contains one vial each of your starting potion recipes.
+ * Potion Bandolier: Contains one vial each of your starting potion recipes.
 
 ### Potion Recipes
 A potion recipe must contain at least two dissimilar components along with a brewing process. Any potion effect is possible, but the required components and process may be esoteric or prohibitive.
@@ -150,8 +150,8 @@ When a *fragile* item is used, roll a d6 (for weapons and armor roll on Direct D
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
  * **Mystical Graft:** You can graft enchantments and effects from magic items, weapons or armor onto something else. This destroys the original item.
  * **An Eye for Engineering:** With careful study you can always discern the purpose and function of a mechanism, as well as the best way to break or repair it.
- * **Efficient Artificing:** You can use Walking Workshop to create volatile objects with two improvements, or non-volatile ones with one improvement.
- * **Mule:** You can carry up to four bulky things without penalty.
+ * **Efficient Artificing:** You can use Walking Workshop to create fragile objects with two improvements, or non-fragile ones with one improvement.
+ * **Mule:** You can carry up to four bulky items without penalty.
 
 ## Devoted
 You are devoted to something larger than yourself. It might be a deity, an organization, or simply an ideal. Whatever it is, your devotion to it grants you strength beyond mortal ken. Whether it is power granted to you, or pulled from within, your devotion guides your actions.
@@ -181,7 +181,7 @@ This applies only to you, not your companions.
 
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
- * **Doubly Devoted:** Take a second Vow, and gain a second Boon.
+ * **Doubly Devoted:** Take a second Vow, and gain two more Boons.
  * **Living Legend:** Word of your deeds always spreads far and wide. Tick an unticked entry in your Eulogy to force a strong reaction from an NPC: pick two from Fear, Hate, Respect, and Adoration. The GM will pick one of those two to be true.
  * **Constant Vigilance:** You are never taken by surprise. If there’s a question as to who acts first in a situation, the answer is you.
  * **Always Prepared:** You carry a bag which can be opened at any time to reveal a useful, mundane item of your choice. You can do so again once you’ve been somewhere you could have restocked it.
@@ -222,7 +222,7 @@ You can spend your own XP on your companion as you would on yourself.
 
 Your companion starts with:
 
-1 Grit, a d6 attack, d6 STR, d6 DEX, and d6 WIL
+3 Grit, a d6 attack, d6 STR, d6 DEX, and d6 WIL
 ### You Start With
  * 4 Grit
  * **Your Companion**
@@ -232,12 +232,12 @@ Your companion starts with:
 ### Animal Companion Abilities
 Pick three abilities for your Companion:
  * **Big:** Step up STR and Attack.
- * **Fast:** Step up DEX and gain +1 Grit
+ * **Fast:** Step up DEX and gain +2 Grit
  * **Smart:** Step up WIL, it can communicate with you flawlessly.
  * **Vicious:** Step up Attack, and gain an extra effect (e.g. poison, armor piercing, blast, etc.).
  * **Flying:** Through wings or other means.
- * **Tiny:** +1 Grit, can be easily concealed.
- * **Invertebrate:** No bones! +1 Grit and can fit into nearly any space.
+ * **Tiny:** +2 Grit, can be easily concealed.
+ * **Invertebrate:** No bones! +2 Grit and can fit into nearly any space.
  * **Durable:** +1 Armor (scales, plates, evasion, exoskeleton, etc.).
  * **Marsupial:** Has a pouch which can carry a single bulky item.
  * **Perceptive:** Has some enhanced sense (smelling, hearing, echolocation, electroception, dowsing, night vision, etc.)
@@ -277,7 +277,7 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 ## Grimblade
 You are a grimblade and you have a grimblade, a unique and very large weapon that you’ve learned the trick of putting spells into. Whether you physically inscribe it onto a meteor metal blade, or embed the spells into a crystal hammer, you find this eminently more practical than lugging a big book around.
 ### Core Ability
-**Grimblade:** You have a mystical weapon capable of storing spells and rituals as thorugh it were a Grimoire. It is any type of melee weapon, made of some unusual material. Your Grimblade is indestructible and you always know where it is.
+**Grimblade:** You have a mystical weapon capable of storing spells and rituals as though it were a Grimoire. It is any type of melee weapon, made of some unusual material. Your Grimblade is indestructible and you always know where it is.
 ### You Start With
  * 3 Grit
  * **Your Grimblade:** (d10, bulky),containing 2 spells of your choice.
@@ -297,7 +297,7 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
  * **I, Grimblade:** Whether through the magic stored within it or from some other means, your Grimblade has become sentient and ambulatory. It can float, act, and attack on its own.
 
 ## Great Soul Shaman
-The soul of a great beast lives within you, granting you it’s skills and form. Shamanic ritual prepares for such a transfer, layering soul upon soul for generations until an animal is ready to make a Shaman.
+The soul of a great beast lives within you, granting you its skills and form. Shamanic ritual prepares for such a transfer, layering soul upon soul for generations until an animal is ready to make a Shaman.
 ### Core Ability
 **Great Soul:** An unusually dense and powerful soul from some animal has been ritualistically implanted into you. This grants you some measure of that animal’s skills as well as the ability to freely transform into it.
 ### You Start With
@@ -359,14 +359,14 @@ Step up your Domain Die if the statement:
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
  * **Gemini:** Your god has a second Domain, complementary in some way to the first.
- * **Holy Site:** Spend a week and give a suitably impressive offering to create a holy site for your god. It shields those within from outside influence, and you may teleport yourself and your companions to between holy sites.
+ * **Holy Site:** Spend a week and give a suitably impressive offering to create a holy site for your god. It shields those within from outside influence, and you may teleport yourself and your companions between holy sites.
  * **Offerings:** Make offerings to step up the Domain Die. Minor offerings last for a single statement, significant ones last for a day, and major offerings like establishing a church and congregation last indefinitely.
  * **Divine Colleagues:** Your god can always tell you which (if any) god or spirit claims an area, as well as how to contact them.
 
 ## Runewright
 You are a runewright, you imbue and channel power through engraved symbols of power. You are no wizard. You’re above running around shooting crude magic from your fingertips, blasting things with fireballs. Runes are sophisticated. Runes are subtler, slower, and longer lasting than spells. Anyone can pick up a spellbook and cast a spell, crafting runes takes refinement. And you are refined.
 ### Core Ability
-**Runic Magic:** You can inscribe runes that incorporate one Element, one Verb, and one Subject. Empower and activate an inscribed rune with a drop of fresh drop of your blood and a point of Max Grit. You can deactivate a rune at will to recover the spent Max Grit.
+**Runic Magic:** You can inscribe runes that incorporate one Element, one Verb, and one Subject. Empower and activate an inscribed rune with a fresh drop of your blood and a point of Max Grit. You can deactivate a rune at will to recover the spent Max Grit.
 
 ### You Start With
  * 4 Grit

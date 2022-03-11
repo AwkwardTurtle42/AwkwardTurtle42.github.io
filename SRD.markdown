@@ -24,7 +24,7 @@ Characters have three Attributes represented by dice ranging in size from d4 to 
 
 **Willpower (WIL):** Represents mental focus, toughness, and endurance.
 
-These represent both a character’s prowess and current status. If STR ever drops below a d4 that character is at risk of death. If DEX drops below d4 the character is at risk of paralysis. If WIL drops below a d4 the character is at risk of catatonia.
+These represent both a character’s prowess and current status. If STR ever drops below a d4 the character is at risk of death. If DEX drops below d4 the character is at risk of paralysis. If WIL drops below a d4 the character is at risk of catatonia.
 ## Grit
 Grit is a character’s ability to avoid being harmed. It represents a combination of defensive capabilities, awareness, and luck. It is not a measure of health, and losing Grit does not indicate injury has occurred.
 ## Dice
@@ -57,7 +57,7 @@ Magic broadly comes in two categories: spells and rituals. Spells are immediate 
 
 Anyone can cast spells and perform rituals, they just need a Grimoire to store them in. Some other types of magic are unique to specific Callings. If another character wishes to learn them it would require finding an instructor or source in game.
 ## Grimoires
-Grimoires are bulky tomes which can store any number of spells and rituals. Spells and rituals can be copied from one Grimoire (or other source) to another, but doing so takes time (about an hour), resources (fancy pens and ink), and removes the magic from the original source.
+Grimoires are *bulky* tomes which can store any number of spells and rituals. Spells and rituals can be copied from one Grimoire (or other source) to another, but doing so takes time (about an hour), resources (fancy pens and ink), and removes the magic from the original source.
 ## Rituals
 Rituals can be powerful and long lasting, but are often time consuming and inconvenient to perform.
 
@@ -65,9 +65,12 @@ To perform a ritual, read it out of the Grimoire while performing any required a
 Performing a ritual takes at least ten minutes, unless otherwise specified. Rushing the process may be possible, but will always carry a degree of risk.
 ## Spells
 Spells are quick and easy to cast, but tend to have flashy and fleeting effects.
+
 To cast a spell, hold the Grimoire in both hands and read the spell aloud.
+
 If you have Grit, set your Grit to zero to cast the spell.
-If you have no Grit, make a WIS Save:
+
+If you have no Grit, make a WIL Save:
 
 **Win:** The spell is cast successfully.
 
@@ -77,6 +80,7 @@ If you have no Grit, make a WIS Save:
 
 ## Spells In Combat
 When you cast a spell against a creature that is actively trying to avoid it, if the spell deals damage simply use that damage as a normal attack.
+
 If the spell does not deal damage, roll your WIL as though it were an attack. If that attack deals Direct Damage, your spell takes effect instead of causing a Critical Damage Save.
 
 # Combat
@@ -85,13 +89,14 @@ When engaging in combat time is tracked in increments called Rounds. A Round las
 
 During each round, each side of a conflict takes a Turn to act. Within a side’s Turn, each individual can act in whatever order they choose, although all declared attacks are resolved simultaneously (see below). During a Turn a character can move about 40 feet, and perform one significant action (make an attack, use an item, cast a spell, etc.). Any actions that carry risk require a Save as usual, usually against the creature you’re engaged with.
 
-If it’s not clear which side should act first, initiative should be determined by the leader of each side should make DEX Saves against each other (enhancing or impairing the Save as usual).
+If it’s not clear which side should act first, each player should make a DEX Save vs the opposition to act before them.
+
 ## Attacking
 To make an attack, roll your weapon’s damage die. The target of the attack subtracts their armor and reduces their Grit by the remainder. If there is no excess damage, the target was able to avoid or otherwise defend against the attack. If there is more damage dealt than the remaining Grit, the excess damage becomes Direct Damage.
 
 When you receive Direct Damage you must then make a STR Save to avoid Critical Damage.
 ## Critical Damage
-When you recieve Direct Damage, make a STR Save against that amount to avoid Critical Damage:
+When you receive Direct Damage, make a STR Save against that amount to avoid Critical Damage:
 
 **Win:** The damage is minor, you are not significantly harmed.
 
@@ -211,7 +216,7 @@ Ammunition (arrows, bolts, bullets, etc.) are generally not tracked and consider
 
 Unique or specialty ammo is tracked individually.
 ## Wilderness Survival
-This is an option rules to add pressure to return to civilization or to focus the game on survival during long trips through the wilderness. It will make deciding what to carry and how many Supplies to bring a focal point of the game. Supplies (bulky) can be purchased in most settlements and cities, and are an abstraction of food, water, and general survival equipment.
+This is an optional mechanic to add pressure to return to civilization or to focus the game on survival during long trips through the wilderness. It will make deciding what to carry and how many Supplies to bring a focal point of the game. Supplies (bulky) can be purchased in most settlements and cities, and are an abstraction of food, water, and general survival equipment.
 
 Once a day while away from easy access to food and water, the party picks someone to lead the survival efforts. That person makes a Save with an Attribute based on their approach (fishing, hunting, scavenging, etc.).
 
@@ -245,7 +250,7 @@ Similarly, gaining access to new Callings is done within the narrative of the ga
 ## When to Roll
 The following process is to help the GM determine how to adjudicate situations, and when to call for Saves. It is intended as a helpful procedure rather than a strict set of rules to follow.
 
-In general roll when all possible results are interesting, and know what the results will be before dice hit the table.
+In general roll when all possible results are interesting, and decide what the results will be *before* dice hit the table.
 
 1. The player declares their intent, describing their goal and their approach.
 2. Determine if the action is possible. Consider the situation, the player’s approach, their tools, abilities, skills, background, if they have help, and any other relevant details. 

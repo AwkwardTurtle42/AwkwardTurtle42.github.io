@@ -14,7 +14,7 @@ To cast a spell, hold the Grimoire in both hands and read the spell aloud.
 
 If you have Grit, set your Grit to zero to cast the spell.
 
-If you have no Grit, make a WIS Save:
+If you have no Grit, make a WIL Save:
 
 **Win:** The spell is cast successfully.
 
@@ -30,7 +30,7 @@ If the spell does not deal damage, roll your WIL as though it were an attack. If
 ## d50 Spells
  1. **Acid Fingers** - Your hands secrete acid for a minute. Step up the damage of your unarmed attacks, and degrade armor or equipment on Direct Damage.
  2. **AntiGravity** - Gravity no longer affects a creature or object your size or smaller for a single round.
- 3. **Back Tentacles** - Black tentacles surge from a spot you choose, and make d6 attacks to attempt to grasp any creatures in range.
+ 3. **Black Tentacles** - Black tentacles surge from a spot you choose, and make d6 attacks to attempt to grasp any creatures in range.
  4. **Barrier** - Create a transparent, indestructible barrier of any shape with a total area of 10 square feet.
  5. **Black Ice** - Freeze a surface with slick, difficult to see ice. Lasts as long as ice would last given the ambient temperature.
  6. **Bleeding Edge** - Awaken bloodthirst in a bladed weapon. Its next strike deals max damage, but if that hit does not kill or incapacitate the target the blade deals the wielder d4 Direct Damage.
@@ -48,7 +48,7 @@ If the spell does not deal damage, roll your WIL as though it were an attack. If
  18. **Finger Flare** - Make finger guns and fire a bright, but harmless, magical flare.
  19. **Fireball** - Cause an existing flame to explode in a d10 damage blast.
  20. **Fire Bolt** - Shoot a d10 bolt of fire from your finger, ignite the target on Direct Damage.
- 21. **Freezing Missile** - Fire a d8 magical dart, Direct Damage freezes them in place for a turn. Concentrate to hold them longer (WIL Save vs their STR).
+ 21. **Freezing Missile** - Fire a d8 magical dart, Direct Damage freezes the target in place for a turn. Concentrate to hold them longer (WIL Save vs their STR).
  22. **Good Vibes** - A creature chills out until ill intent is shown.
  23. **Grease** - Launch a blob of slippery, flammable grease the size of your fist.
  24. **Haste** - Triple a creature’s speed.
@@ -61,7 +61,7 @@ If the spell does not deal damage, roll your WIL as though it were an attack. If
  31. **Loyal Lock** - Command a lock to remain open or closed. It will do so until someone manages to convince it otherwise.
  32. **Maximize Minimize** - Double a creature’s size for 1 minute, then quarter its size for another minute. You may choose to reverse the order of the effects.
  33. **Mum’s the Word** - Silence all sound you, and anyone in contact with you, creates.
- 34. **Noxious Fog** - Fill the area with a thick, foul smelling fog.
+ 34. **Noxious Fog** - Fill the area with a thick, foul-smelling fog.
  35. **Painful Truths** - Shout a true statement about the target to deal it damage based on how concealed the information was. d4 for common knowledge, d12 for something they wouldn’t think it possible you could know.
  36. **Salamander’s Lock Pick** - Superheat a small piece of metal to weaken or melt it.
  37. **Sorcerous Interference** - Negate another spell cast in your presence. Optionally make a WIL Save vs their WIL. Win: Turn the spell against its caster. Tie: Negate the spell. Lose: The spell takes effect as the caster intended.

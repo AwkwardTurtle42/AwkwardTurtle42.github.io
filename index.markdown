@@ -15,7 +15,7 @@ Brighter World’s text is licensed under [CC-BY-SA 4.0](https://creativecommons
 
 It is unfinished, currently at version 0.7.1
 
-Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](www.bastionland.com)), Cairn by Yochai Gal ([cairnrpg.org](cairnrpg.org])), and Macciato Monsters by Eric Nieudan ([@surcapitaine](https://twitter.com/surcapitaine)).
+Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](www.bastionland.com)), Cairn by Yochai Gal ([cairnrpg.com](cairnrpg.com)), and Macchiato Monsters by Eric Nieudan ([@surcapitaine](https://twitter.com/surcapitaine)).
 
 ## Recent changes
  * Martial Artist removed.
