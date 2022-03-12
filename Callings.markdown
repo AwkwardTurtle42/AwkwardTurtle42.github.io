@@ -347,7 +347,7 @@ Domain Die loss is restored through offerings or religious rites for your God.
 Step down your Domain Die if the statement:
  * Impacts things outside of your line of sight.
  * Directly contradicts the natural working of the world.
- * Describes a long lasting effect (step up twice if permanent).
+ * Describes a long lasting effect (step down twice if permanent).
  * Is a poor fit for your god’s Domain.
 
 Step up your Domain Die if the statement:
