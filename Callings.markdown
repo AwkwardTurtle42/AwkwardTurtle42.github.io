@@ -204,7 +204,7 @@ Choose the blessing your Patron grants you:
  * **Water Sight:** Once per day when you immerse yourself in a body of water you may ask your Patron one question about something that water touches.
  * **Thermo Regulation:** Freely change the state of water within your control (between gas, liquid, and solid).
  * **Tip Of The Iceberg:** Your volume of water you can control expands 10 fold.
- * **Healing Waters:** Stabilize wounds by pouring water over them. Submerge a wound in water for a watch to restore one step of Attribute loss.
+ * **Healing Waters:** Stabilize wounds by pouring water over them. Submerge a wound in water for six hours to restore one step of Attribute loss.
 
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
