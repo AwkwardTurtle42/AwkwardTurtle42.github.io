@@ -30,9 +30,9 @@ If the spell does not deal damage, roll your WIL as though it were an attack. If
 ## d50 Spells
  1. **Acid Fingers** - Your hands secrete acid for a minute. Step up the damage of your unarmed attacks, and degrade armor or equipment on Direct Damage.
  2. **AntiGravity** - Gravity no longer affects a creature or object your size or smaller for a single round.
- 3. **Black Tentacles** - Black tentacles surge from a spot you choose, and make d6 attacks to attempt to grasp any creatures in range.
- 4. **Barrier** - Create a transparent, indestructible barrier of any shape with a total area of 10 square feet.
- 5. **Black Ice** - Freeze a surface with slick, difficult to see ice. Lasts as long as ice would last given the ambient temperature.
+ 3. **Barrier** - Create a transparent, indestructible barrier of any shape with a total area of 10 square feet.
+ 4. **Black Ice** - Freeze a surface with slick, difficult to see ice. Lasts as long as ice would last given the ambient temperature.
+ 5. **Black Tentacles** - Black tentacles surge from a spot you choose, and make d6 attacks to attempt to grasp any creatures in range.
  6. **Bleeding Edge** - Awaken bloodthirst in a bladed weapon. Its next strike deals max damage, but if that hit does not kill or incapacitate the target the blade deals the wielder d4 Direct Damage.
  7. **Bone Bomb** - Make a (dead) skeleton explode into shrapnel. Deals blast damage relative to the size of the skeleton. Can be used on skeletons with flesh on them, but the result is wetter and deals less damage.
  8. **Bonus Limbs** - Grant a creature d4 extra limbs (of your choice).
