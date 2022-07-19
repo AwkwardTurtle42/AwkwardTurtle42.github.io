@@ -29,11 +29,18 @@ A steward of a beast’s soul, able to transform into that creature through anci
 The only priest of a tiny deity whose words can change reality. For players who prefer freeform magic over spell lists.
 ### [Runewright](#runewright-1)
 A crafter of precise and unique magics, based on runic grammar and logic. For players who like to assemble unique effects out of a limited set of components.
+### [Bag of Bones](#runewright-1)
+A walking, talking skeleton. For players who don’t want to be at risk of dying easily.
+### [Sneaky Bastard](#runewright-1)
+An expert in self cloning and underhanded tricks. For players who like plans within plans, and to be in two places at once.
+
 # Callings
 ## Archivist
 You’ve always liked knowing things. Collecting information and stories like a squirrel collecting nuts for the winter. Frustrated with incomplete, inconsistent, and obviously biased records you’ve emerged from your study to do first hand research and correct the record.
-### Core Ability
+### Core Abilities
 **Expert Reader:** No matter the language, culture, code, cypher, or style you can always quickly discern the intent and meaning of any written language.
+
+**Deep Lore:** You are a master at collecting and collating information. Any Topic stored within your Archive is always at your fingertips.
 ### You Start With
  * 4 Grit
  * Your Archive (bulky): Starts with one Topic of information based on your prior studies. 
@@ -41,13 +48,14 @@ You’ve always liked knowing things. Collecting information and stories like a 
  * Knife-Pen (d6) and Ink
 
 ### Your Archive
-Your Archive acts as a Grimoire, and can store spells and rituals in addition to storing your knowledge.
+Your Archive acts as a Grimoire, and can store spells and rituals in addition to storing your knowledge. 
 
-The first time you encounter something that falls within a Topic recorded in your Archive, you may ask the GM a single question about it. Further questions will take time to look up, or require further research. It takes six hours to record a new Topic of information into your Archive from any source of knowledge.
+**Deep Lore:** The first time you encounter something that falls within a Topic recorded in your Archive, you may ask the GM a single question about it. Further questions will take time to look up, or require further research. It takes six hours to record a new Topic of information into your Archive from any source of knowledge. 
+
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
  * **Office Assistant:** Whether due to accumulated knowledge or through some arcane rite, your Archive has awoken into a sentient, floating being. Casting spells still requires you to hold the Archive to read from it.
- * **Monster Manual:** Thoroughly examine a creature to record it as a Topic in your Archive. When you take the time to lecture from your notes, you and any who listen gain +1 armor against a recorded creature during the next combat.
+ * **Monster Manual:** Thoroughly examine a creature to record it as a Topic in your Archive. When you take the time to lecture from your notes, you and any who listen gain +1 armor against those creatures during the next combat, and can easily identify weaknesses.
  * **Psychometry:** You can read an object’s history just by touching it. When you handle an object you can sense events that have happened to it. Emotionally charged and recent events take precedence, but with careful study you may ask specific questions.
  * **Leap of Logic:** Your years of study have developed into a startlingly accurate intuition. When you closely examine a situation (or person), you may ask the GM a single yes or no question about it (or them).
 
@@ -69,7 +77,7 @@ Anytime you spend XP, your Demon recalls a random spell or ritual (your choice) 
 
 **Hands Free Spellcasting:** Using your Demon’s power you can cast spells while keeping your hands free for other activities. The effort of doing so still requires that you set your Grit to zero or a make WIL Save as usual.
 
-**Inherited Knowledge:** Choose a Topic based on your Demon’s prior host. You may ask questions about that Topic as per the Archivist’s Archive.
+**Inherited Knowledge:** Choose a Topic based on your Demon’s prior host. You may ask questions about that Topic as per the Archivist’s Deep Lore ability.
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
  * **Demonic Sight:** Your Demon has learned to share its spiritual senses with you, allowing you to sense the presence and nature of nearby magical or supernatural energies.
@@ -189,7 +197,7 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 ## Blessed of Water
 Were you granted a boon by an ocean goddess? Are you the daughter of a river spirit? Perhaps you did some great deed for the guardian of a particular cove? Your watery patron granted you a part of itself and bound you to water. They are not a dominant presence in your journey, but their support is constant and you hear their voice in the patter of rain, the burble of a creek, or the crash of ocean waves.
 ### Core Ability
-**A Thing of the Sea:** You are equally at home in water as you are on land. You can freely control a volume of water about the same size as yourself, if employed as a weapon it deals d6 damage.
+**One With The Water:** You are equally at home in water as you are on land. You can freely control a volume of water about the same size as yourself, if employed as a weapon it deals d6 damage.
 
 Name your Patron (the spirit, body, or source of water that has claimed you), and choose the blessing it grants.
 ### You Start With
@@ -211,7 +219,7 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
  * **Twice Blessed:** Choose a second Water Blessing your Patron grants you.
  * **Water Walk:** You (and any companions you choose to bring with you) may leap into a body of water, and emerge from the most recent body of water you were fully submerged in.
  * **Water Tongue:** You can communicate with any creature that claims water as its home.
- * **Liquid Construction:** You can shape water into *fragile* (See: Artificer) tools and equipment. Weapons deal d8 damage, created armor provides 1 Armor.
+ * **Liquid Construction:** You can shape water into tools and equipment. Weapons deal d8 damage, armor provides 1 Armor. You can maintain a number of Liquid Constructions equal to twice the number of Advanced Abilities you have.
 
 ## Animal's Companion
 Ranger, beastmaster, wildspeaker, hunter… the labels don’t matter, what’s important is that your companion is by your side. Your bond extends to the ends of the world and beyond.
@@ -220,9 +228,6 @@ Ranger, beastmaster, wildspeaker, hunter… the labels don’t matter, what’s 
 
 You can spend your own XP on your companion as you would on yourself.
 
-Your companion starts with:
-
-3 Grit, a d6 attack, d6 STR, d6 DEX, and d6 WIL
 ### You Start With
  * 4 Grit
  * **Your Companion**
@@ -230,7 +235,12 @@ Your companion starts with:
  * A Ranged Weapon (d6) or Paired Melee Weapons (d6,d6)
 
 ### Animal Companion Abilities
-Pick three abilities for your Companion:
+Construct your Companion by combining three abilities with these base stats:
+
+3 Grit, a d6 attack, d6 STR, d6 DEX, and d6 WIL
+
+*(A bird or other flying Companion requires you to choose the Flying Ability.)*
+
  * **Big:** Step up STR and Attack.
  * **Fast:** Step up DEX and gain +2 Grit
  * **Smart:** Step up WIL, it can communicate with you flawlessly.
@@ -262,14 +272,18 @@ spells and one ritual of your choice.
  * A Fanciful Hat or Ornamentation
 
 ### Your Familiar
-Your Familiar is a creature with 1 Grit, a d4 attack, d4 STR, d4 DEX, and d4 WIL. Choose two options from the Animal’s Companion Ability list to improve your Familiar.
+Create your Familiar by combining two options from the Animal’s Companion Ability list (Pg 29) with these base stats:
+
+1 Grit, a d4 attack, d4 STR, d4 DEX, and d4 WIL
+
+*(A bird or other flying Familiar requires you to choose the Flying Ability from that list)*
 
 Casting a spell through your Familiar works the same as you casting a spell, except the Familiar pays the costs: it’s Grit is set to zero, or it must make a WIL Save. You must still be holding your Grimoire as usual while casting the spell.
 
 So long as you are alive, your Familiar Bond prevents your Familiar from being permanently killed. You can always resummon your Familiar through an hour long ritual unique to you.
 ### Advanced Abilities
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
- * **Witch’s Curse:** Make eye contact with a character and pronounce doom against them. Make a WIL Save vs their WIL: Success: Bad fortune befalls them immediately. Tie: Soon. Fail: Eventually. If you take time to make a proper curse (with a rhyming incantation and rare ingredients) you can create a lasting effect, although there must always be a way to break it.
+ * **Wild Spellcapture:** You know the ancient secrets of binding wild magic into spells and rituals. By disintegrating your familiar into raw magic while it interacts with a natural magical phenomenon, your Familiar Bond creates a direct link to the magic allowing you to bind it into your Grimoire (you'll have to re-summon your Familiar afterwards). Work with the GM to determine the details of the spell or ritual you create.
  * **Familiar Sights:** You can borrow the senses of your familiar and guide them remotely.
  * **Unfamiliar Familiar:** Each time you resummon your Familiar you can choose a new animal form for it to take (adjusting the Animal’s Companion options as needed).
  * **Witch Steed:** In your hands a broom, cauldron, or other household object becomes a flying steed.
@@ -406,3 +420,55 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
  * **Esoteric Elements:** You’ve learned to manipulate the following two elements in your runes:
    * **Time:** dealing with speeding or slowing things
    * **Space:** dealing with locations and distances
+
+## Bag of Bones
+You're a walking, talking skeleton. Devoid of life and yet alive. Perhaps your state is the result of a run-in with a grumpy necromancer. Or maybe a ritual for lichdom went badly. Or did you get bored of guarding a dungeon, and decide to try your luck with a life of adventure? Your status as a bag of bones means you'r harder to kill (a second time) but making friends is perhaps a bit more difficult now.
+### Core Ability
+**Living Death:** You're a skeleton. You're made of bones and animated by some supernatural force. You’re hard to kill, and don’t stay down for long.
+### You Start With
+ * 4 Grit
+ * A Lack of Flesh
+ * A Fearsome Visage
+ * A Scavenged Weapon (d6)
+
+### No Body To Love
+Your **Lack of Flesh** grants you +1 Armor against physical damage. 
+Your **Fearsome Visage** will be initially frightening to most creatures, unless you take measures to obscure your form.
+You do not require food, water, or sleep. 
+As long as your skull remains intact, you cannot fully die. Instead of being incapacitated by Critical Damage, parts of your body are knocked off. You do not restore STR by resting, but instead by collecting or replacing lost or damaged bones.
+
+### Advanced Abilities
+Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
+ * **No Bones About It:** You can incorporate other bones into your body to grant yourself an innate ability of the original creature. Unless extreme measures are taken the grafted bones are Fragile (See: Artificer Pg 23) and risk breaking after activing the borrowed ability.
+ * **Your Bones Are Your Money:** You can remove bones from your body to offer in trade (causing a loss of STR). The person receiving your bones will believe they are valuable and greatly desirable. This lasts until midnight at which point the glamour is removed and they become aware they received nothing more than old bones.
+ * **Humerus Presence:** You've developed a way of walking and talking that changes you from frightening to funny. Rather than an initial reaction of fear, most creatures first impression of your will be that of a harmless and hilarious bony jester.
+ * **Skeleton Crew:** Animate a dead creature's skeleton as a mount, minion, or pet. It has stats as it did in life, but falls apart and must be reainmated upon taking Critical Damage. Follows orders but otherwise has the intelligence of a moderately bright dog. You can maintain a number of animated skeletons equal to the number of Advanced Abilities you have.
+
+## Sneaky Bastard
+You’ve always been up to something. When people look one way, you’re going the other. There’s always at least one more ace up your sleeve. Of course all this has a tendency to ruffle feathers, so it’s a good thing you’ve got the perfect partner to watch your back… yourself.
+### Core Ability
+**Self Cloning Technique:** You have the ability to split apart or create copies of yourself. Choose the style of cloning you use:
+ * Split Self, divide your physical self in two.
+ * Shadow Clone, you and your shadow can act dependently.
+ * Illusory, create flawless illusions of yourself.
+
+### You Start With
+ * 4 Grit
+ * Daggers (d6), you always manage to have another one secreted about your person.
+ * Ring of 6 Bump Keys, roll a d6 to open a lock: (1: the lock and key break, 2-3: the lock or key breaks, 4-6: nothing breaks).
+ * A Dramatic Looking Cloak
+
+### Self Cloning Technique
+
+**Split Self:** Divide yourself in two. Your split starts with your Grit and a d4 in all Attributes. You may step down your own Attributes to step up the corresponding Attribute of your clone. If either half dies the missing Attributes are lost, although you may heal back to your maximums as usual. You are both halves of yourself at all times, and you both have access to your inventory although only one half may use a specific item at any given time.
+
+**Shadow Clone:** You can separate your shadow from your physical self. Your shadow is insubstantial and immaterial, but cannot pass through opaque objects. It is immune to physical damage, but vulnerable to magic and bright lights. Your shadow can hide in the shadow of another creature, and while there you can read their surface thoughts, and communicate to them mentally.
+
+**Illusory:** Create a number of illusory clones up to the number of advanced abilities you have. Your clones are insubstantial and intangible but are otherwise indistinguishable from your real self. You do not have to declare which of you is real until it matters, and you share the senses of all clones simultaneously. When attacking with clones if you would deal Direct Damage you must either declare the clone is actually you or reveal it as an illusion.
+
+### Advanced Abilities
+Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have.
+ * **Multifarious Copies:** When you create your clone you may change its physical appearance.
+ * **For He Can Creep:** Your footsteps make no sound, and you are impossible to see by mundane means if you are motionless in shadow. You may extend this effect to anyone you choose within 10 feet of you.
+ * **Snap:** Recall your clone to yourself, or yourself to your clone from any distance. Anyone touching you while you do so is carried along.
+ * **Pick Pocket:** While a creature is totally unaware of your presence (discounting clones) you may swap an object they carry with an object of similar size and heft.

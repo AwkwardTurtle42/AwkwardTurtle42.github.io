@@ -13,16 +13,16 @@ Fully laid out PDF version, featuring [Evlyn Moreau](https://www.patreon.com/evl
 
 Brighter World’s text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-It is unfinished, currently at version 0.7.1
+It is unfinished, currently at version 0.8
 
 Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](www.bastionland.com)), Cairn by Yochai Gal ([cairnrpg.com](cairnrpg.com)), and Macchiato Monsters by Eric Nieudan ([@surcapitaine](https://twitter.com/surcapitaine)).
 
 ## Recent changes
- * Martial Artist removed.
-   * Was unhappy with the calling, it'll likely return in the future once I've figured out how to rework it.
- * Spell and Ritual lists completed at 50 entries each
- * Classes are now named Callings
- * Everyone has slightly more starting Grit now
- * Significant reworking of Archivist, Demonic Sorcerer, and Blessed of Water Callings.
- * Minor reworkings of the rest of the Callings
- * Tweaks to damage/death/critical damage, "direct damage" is now defined.
+ * Added new Calling: Bag of Bones!
+ * Added new Calling: Sneaky Bastard!
+ * Update Blessed of Water watery construction ability.
+ * Renamed the Blessed of Water's core ability.
+ * Replaced Witch's Curse with Wild Spellcapture.
+ * Slight update to Archivist's core abilities to high light the Deep Lore ability and to adjust Monster Manual.
+ * Updated wording in Animal's Companion and Witch for clarification.
+ * Updated wording in character creation to note that modifying the Callings is encouraged.
