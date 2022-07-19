@@ -29,9 +29,9 @@ A steward of a beast’s soul, able to transform into that creature through anci
 The only priest of a tiny deity whose words can change reality. For players who prefer freeform magic over spell lists.
 ### [Runewright](#runewright-1)
 A crafter of precise and unique magics, based on runic grammar and logic. For players who like to assemble unique effects out of a limited set of components.
-### [Bag of Bones](#runewright-1)
+### [Bag of Bones](#bag-of-bones-1)
 A walking, talking skeleton. For players who don’t want to be at risk of dying easily.
-### [Sneaky Bastard](#runewright-1)
+### [Sneaky Bastard](#sneaky-bastard-1)
 An expert in self cloning and underhanded tricks. For players who like plans within plans, and to be in two places at once.
 
 # Callings
@@ -433,8 +433,11 @@ You're a walking, talking skeleton. Devoid of life and yet alive. Perhaps your s
 
 ### No Body To Love
 Your **Lack of Flesh** grants you +1 Armor against physical damage. 
+
 Your **Fearsome Visage** will be initially frightening to most creatures, unless you take measures to obscure your form.
+
 You do not require food, water, or sleep. 
+
 As long as your skull remains intact, you cannot fully die. Instead of being incapacitated by Critical Damage, parts of your body are knocked off. You do not restore STR by resting, but instead by collecting or replacing lost or damaged bones.
 
 ### Advanced Abilities
@@ -459,6 +462,8 @@ You’ve always been up to something. When people look one way, you’re going t
  * A Dramatic Looking Cloak
 
 ### Self Cloning Technique
+
+Choose one as your technique:
 
 **Split Self:** Divide yourself in two. Your split starts with your Grit and a d4 in all Attributes. You may step down your own Attributes to step up the corresponding Attribute of your clone. If either half dies the missing Attributes are lost, although you may heal back to your maximums as usual. You are both halves of yourself at all times, and you both have access to your inventory although only one half may use a specific item at any given time.
 
