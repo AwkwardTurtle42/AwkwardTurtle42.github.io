@@ -238,7 +238,7 @@ Deciding as a table what counts towards earning XP is a way to help set the tone
 ## Calling Advancement
 Spend XP to unlock abilities and make your character stronger. Spending XP represents your character’s ability to grow and improve using only their own practice, experience, and training.
  * Spend 1 XP to gain +1 Maximum Grit (to a Max of 12)
- * Spend 2 XP to increase a d4 Attribute to a d6. Each further step requires 2 additional XP to advance (4 XP to increase from d6 to d8, etc.). Attributes cannot be raised higher than a d12.
+ * Spend 1 XP to increase a d4 Attribute to a d6. Each further step requires 1 additional XP to advance (2 XP to increase from d6 to d8, etc.). Attributes cannot be raised higher than a d12.
  * Spend XP equal to twice the number of Advanced Abilities you currently have to gain another Advanced Ability from your Calling.
 
 ## Foreground Growth
