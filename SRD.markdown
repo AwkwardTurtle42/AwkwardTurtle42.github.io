@@ -25,6 +25,7 @@ Characters have three Attributes represented by dice ranging in size from d4 to 
 **Willpower (WIL):** Represents mental focus, toughness, and endurance.
 
 These represent both a character’s prowess and current status. If STR ever drops below a d4 the character is at risk of death. If DEX drops below d4 the character is at risk of paralysis. If WIL drops below a d4 the character is at risk of catatonia.
+
 ## Grit
 Grit is a character’s ability to avoid being harmed. It represents a combination of defensive capabilities, awareness, and luck. It is not a measure of health, and losing Grit does not indicate injury has occurred.
 ## Dice
@@ -37,8 +38,9 @@ Dice cannot be larger than a d12, a die stepped down below a d4 is at zero.
 When you want to do something, describe how you go about it and the GM will tell you if it’s possible, and inform you of any obvious consequences of your action.
 
 If the action carries risk or uncertainty, you’ll make a Save by rolling your appropriate Attribute die and trying to beat:
-» a 4, if the risk comes from the environment.
-» another creature’s Attribute die if they’re directly opposing you.
+
+ * a 4, if the risk comes from the environment.
+ * another creature’s Attribute die if they’re directly opposing you.
 
 If you **win** by rolling higher, you’ll get what you want and avoid the risks.
 
