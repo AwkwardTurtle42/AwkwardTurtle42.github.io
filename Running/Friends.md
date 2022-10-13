@@ -25,7 +25,7 @@ This creates a slowly expanding cast of characters, ensuring familiar faces appe
 
 ## Making New Friends
 
-The Cast & Crew chapter makes an excellent starting pool of Friends. Pick your favorites or roll randomly to select when you need to fill an empty slot.
+The [Cast & Crew](/Cast/) chapter makes an excellent starting pool of Friends. Pick your favorites or roll randomly to select when you need to fill an empty slot.
 
 Likewise NPCs from adventures you run can be added to the pool. In particular any character your players take a particular shine to or decide they hate. It’s a great way to keep fun characters, often developed at the spur of the moment, involved in the campaign.
 

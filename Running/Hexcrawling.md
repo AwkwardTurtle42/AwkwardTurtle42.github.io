@@ -44,8 +44,8 @@ The light colored die shows what it is:
 
 *(If on a road roll twice and keep the lower.)*
 
-1.	Friend!
-2.	Friend!
+1.	[Friend!](/Running/Friends)
+2.	[Friend!](/Running/Friends)
 3.	Local Quest, something from the rumors or quest hooks of any nearby locations.
 4.	A Local, someone from around here.
 5.	Wildlife or a Local

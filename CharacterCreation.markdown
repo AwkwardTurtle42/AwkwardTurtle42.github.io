@@ -19,7 +19,7 @@ All characters are generalists. Everyone can swing a sword, sneak around, or cas
 
 [Choose a Calling](/Callings/). 
 
-You may want to make tweaks to a Calling’s abilities or items to make it fit your concept. Talk with the GM and look at the Cast & Crew to see examples of modified Callings.
+You may want to make tweaks to a Calling’s abilities or items to make it fit your concept. Talk with the GM and look at the [Cast & Crew](/Cast/) to see examples of modified Callings.
 
 ## Grit
 

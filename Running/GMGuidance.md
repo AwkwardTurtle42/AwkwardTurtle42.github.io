@@ -13,7 +13,7 @@ In Brighter Worlds, time is tracked at different levels of granularity depending
 
 Most of the time, in free play, time is not tracked at all. 
 
-In combat, or other intense situations where seconds matter time, is tracked in 10 second Combat Rounds. See the Combat Rules for more details (Pg 10).
+In combat, or other intense situations where seconds matter time, is tracked in 10 second Combat Rounds. See the [Combat Rules](/Rules/Combat) for more details.
 
 While exploring dungeons or other dangerous environments time is tracked in 10 minute Exploration Turns.  Any time the rules of Brighter Worlds reference a 10 minute block of time, that's the same as saying 1 Turn (e.g. Rituals take a Turn to perform).  “10 minutes” is used in the text rather than a Turn to reduce the up front vocabulary needed while reading. See [Dungeon Crawling](/Running/DungeonCrawling) for more details. 
 
