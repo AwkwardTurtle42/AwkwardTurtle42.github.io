@@ -10,10 +10,13 @@ nav_order: 7
 [Random Ritual](https://perchance.org/bw-rituals)
 
 ## Performing Rituals
+
 To perform a ritual, read it out of the Grimoire while performing any required actions and sacrificing any required [components]. 
 
-Performing a ritual takes at least ten minutes, unless otherwise specified. Rushing the process may be possible, but will always carry a degree of risk.
+Performing a ritual takes at least ten minutes, unless otherwise specified. 
+
 ## d50 Rituals
+
  1. **Astral Projection** - Project your soul from your body. You are ethereal and are immune to physical attacks and hazards. Magical and spiritual effects still impact you, and could sunder you from your body.
  2. **Augury** - Toss bones, draw cards, or otherwise cast lots to immediately divine the outcome of a specific action. There is a 3 in 6 chance of a meaningful answer of weal, woe or uncertain. If the roll fails it is always uncertain. Increase the chance of a meaningful answer by 1 in 6 for each of: burning an offering, taking 10 minutes, involving a living creature.
  3. **Be Our Guest** - [drop of blood] Grant temporary life and sentience to an inanimate object. It will follow the first command you give it, but act according to its nature for the remaining 10 minutes of its life.
@@ -43,7 +46,7 @@ Performing a ritual takes at least ten minutes, unless otherwise specified. Rush
  27. **No Mask? No Mask!** - [clay] Smear a person’s face with clay to reshape their flesh as though it were putty. Lasts until sunrise.
  28. **Oathkeeper’s Light** - [white flower] Burn the flower while an oath is sworn. Flame will internally ignite any who break the oath, dealing them d6 Direct Damage every sunrise for a week.
  29. **Pearl’s Pocket Paradise** - [money] Draw a door on a flat surface. The door opens only for you, and into an inn room with a simple sleeping pad. If you sacrifice money while performing this ritual, the quality and quantity of the amenities increases. The increase in quality is cumulative with the money sacrificed during each performance of the ritual.
- 30. **Perfect Divination** - [beast’s heart] Consume the still warm heart of a beast to be granted a perfect vision of the next day. Once, at any point during the next 24 hours, you may declare that what has happened was not reality, but actually part of your vision of the future. “Rewind” to a point of your choosing between your performance of the ritual and now.
+ 30. **Perfect Divination** - [beast’s heart] Consume the still warm heart of a beast to be granted perfect knowledge of the next day. Once, at any point during the next 24 hours, you may declare that what just happened was not reality, but actually part of your vision of the future. “Rewind” time by up to 10 minutes. Cannot be performed again until the initial 24 hour period has passed.
  31. **Planar Summoning** - [offering] Draw a summoning circle then speak the true name of an extra planar creature and give a suitably tempting offering to summon it. The circle will keep the creature contained until you release it, or the circle is broken from without. This ritual does not grant any control or influence over the summoned creature.
  32. **Pocket Container** - [chest] The first time you perform this ritual, the chest is hidden in a pocket dimension. Afterward, this ritual resummons that chest.
  33. **Polymorph** - [blood] Transform into the creature whose blood you drank during the ritual until the next sunrise.

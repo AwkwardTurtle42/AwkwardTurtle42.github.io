@@ -13,16 +13,10 @@ Fully laid out PDF version, featuring [Evlyn Moreau](https://www.patreon.com/evl
 
 Brighter World’s text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-It is unfinished, currently at version 0.8
+It is unfinished, currently at version 0.9.1
 
 Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](https://www.bastionland.com/)), Cairn by Yochai Gal ([cairnrpg.com](https://cairnrpg.com/)), and Macchiato Monsters by Eric Nieudan ([@surcapitaine](https://twitter.com/surcapitaine)).
 
 ## Recent changes
- * Added new Calling: Bag of Bones!
- * Added new Calling: Sneaky Bastard!
- * Update Blessed of Water watery construction ability.
- * Renamed the Blessed of Water's core ability.
- * Replaced Witch's Curse with Wild Spellcapture.
- * Slight update to Archivist's core abilities to high light the Deep Lore ability and to adjust Monster Manual.
- * Updated wording in Animal's Companion and Witch for clarification.
- * Updated wording in character creation to note that modifying the Callings is encouraged.
+ * Too many to list!
+ * See the devlog here: 
