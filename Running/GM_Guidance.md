@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GM Guidance
-parent: Running
+parent: Running the Game
 nav_order: 1
 ---
 

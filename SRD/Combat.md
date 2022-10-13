@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Combat
-parent: SRD
+parent: Rules
 nav_order: 3
 ---
 

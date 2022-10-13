@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Harm & Healing
-parent: SRD
+parent: Rules
 nav_order: 4
 ---
 

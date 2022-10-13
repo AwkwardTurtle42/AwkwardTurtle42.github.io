@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Death
-parent: SRD
+parent: Rules
 nav_order: 5
 ---
 

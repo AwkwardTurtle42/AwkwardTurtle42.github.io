@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Magic
-parent: SRD
+parent: Rules
 nav_order: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Core Rules
-parent: SRD
+parent: Rules
 nav_order: 1
 ---
 

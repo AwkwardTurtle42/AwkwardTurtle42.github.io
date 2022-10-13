@@ -97,36 +97,6 @@ A magician of ancient secrets, assisted by their magically bonded familiar.
 
 For players who want to cast spells and also have an adorable pet.
 
-
-### [Archivist](#archivist-1)
-A collector and collator of knowledge. For players who like to keep notes and read lore.
-### [Demonic Sorcerer](#demonic-sorcerer-1)
-A magic specialist borrowing the skills of a spirit living in their head. For players who like to learn spells automatically, or like making pacts with dangerous beings.
-### [Alchemist](#alchemist-1)
-A crafter distilling power from the natural world into potions. For players who like to plan ahead, collect ingredients, and play with potion effects.
-### [Artificer](#artificer-1)
-A builder of weapons, armor, and tools. For players who like to assemble mechanics like lego bricks, or crafting items.
-### [Devoted](#devoted-1)
-Dedicated to an ideal. A paladin empowered through their faith and belief. For players who like their character to live by a code.
-### [Blessed of Water](#blessed-of-water-1)
-Empowered through spiritually bonding with an aquatic place or ideal. For players who like freeform elemental effects, or want to play a water bender.
-### [Animal’s Companion](#animals-companion-1)
-A bonded pair of person and beast, facing the world side by side. For players who want a cool pet or to ride a bear.
-### [Witch](#witch-1)
-A magician of the secret ways, assisted by their magically bonded familiar. For players who want to cast spells and also have an adorable pet.
-### [Grimblade](#grimblade-1)
-Owner of a mystic weapon. For players who want to hit things and cast spells simultaneously.
-### [Great Soul Shaman](#great-soul-shaman-1)
-A steward of a beast’s soul, able to transform into that creature through ancient rites. For players who want to be an animal sometimes.
-### [Cleric of Small Gods](#cleric-of-small-gods-1)
-The only priest of a tiny deity whose words can change reality. For players who prefer freeform magic over spell lists.
-### [Runewright](#runewright-1)
-A crafter of precise and unique magics, based on runic grammar and logic. For players who like to assemble unique effects out of a limited set of components.
-### [Bag of Bones](#bag-of-bones-1)
-A walking, talking skeleton. For players who don’t want to be at risk of dying easily.
-### [Sneaky Bastard](#sneaky-bastard-1)
-An expert in self cloning and underhanded tricks. For players who like plans within plans, and to be in two places at once.
-
 # Callings
 
 ## Alchemist

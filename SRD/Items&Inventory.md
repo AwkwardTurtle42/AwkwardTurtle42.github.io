@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Items & Inventory
-parent: SRD
+parent: Rules
 nav_order: 6
 ---
 

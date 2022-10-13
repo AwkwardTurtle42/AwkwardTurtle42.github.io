@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Growth
-parent: SRD
+parent: Rules
 nav_order: 7
 ---
 
