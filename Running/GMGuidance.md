@@ -15,9 +15,9 @@ Most of the time, in free play, time is not tracked at all.
 
 In combat, or other intense situations where seconds matter time, is tracked in 10 second Combat Rounds. See the Combat Rules for more details (Pg 10).
 
-While exploring dungeons or other dangerous environments time is tracked in 10 minute Exploration Turns.  Any time the rules of Brighter Worlds reference a 10 minute block of time, that's the same as saying 1 Turn (e.g. Rituals take a Turn to perform).  “10 minutes” is used in the text rather than a Turn to reduce the up front vocabulary needed while reading. See Dungeon Crawling for more details. 
+While exploring dungeons or other dangerous environments time is tracked in 10 minute Exploration Turns.  Any time the rules of Brighter Worlds reference a 10 minute block of time, that's the same as saying 1 Turn (e.g. Rituals take a Turn to perform).  “10 minutes” is used in the text rather than a Turn to reduce the up front vocabulary needed while reading. See [Dungeon Crawling](/Running/DungeonCrawling) for more details. 
 
-When traveling long distances time is tracked in 6 hour Watches. When the rules reference a 6 hour block of time, that’s the same as saying 1 Watch. See Hex Crawling for more details.
+When traveling long distances time is tracked in 6 hour Watches. When the rules reference a 6 hour block of time, that’s the same as saying 1 Watch. See [Hex Crawling](/Running/Hexcrawling) for more details.
 
 ## Perception
 
