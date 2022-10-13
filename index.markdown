@@ -19,4 +19,4 @@ Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](https://www
 
 ## Recent changes
  * Too many to list!
- * See the devlog here: 
+ * See the devlog here: https://awkwardturtle.itch.io/brighter-worlds/devlog/439150/update-to-091-big-changes
