@@ -19,7 +19,7 @@ Spend XP to unlock abilities and make your character stronger. Spending XP repre
 
 Spend 1 XP to gain +1 Max Grit (to a Max of 12)
 
-Spend 1 XP to increase a d4 Attribute to a d6, 3 XP from d8 to d10, and 4 XP from d10 to d12. Attributes cannot be raised higher than d12.
+Spend 1 XP to increase a d4 Attribute to a d6, 2 XP from d6 to d8, 3 XP from d8 to d10, and 4 XP from d10 to d12. Attributes cannot be raised higher than d12.
 
 Spend XP equal to twice the number of Advanced Abilities you currently have to gain another Advanced Ability from your Calling. 
 
