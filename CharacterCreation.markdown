@@ -11,8 +11,6 @@ nav_order: 4
 
 Attributes represent both a character’s prowess and current status. Assign d4, d6, and d8 to your Attributes (STR, DEX, and WIL).
 
-Then step up one of your Attributes.
-
 ## Callings
 
 All characters are generalists. Everyone can swing a sword, sneak around, or cast a spell (given access to a Grimoire). Callings define the things that put you ahead of the pack, give you an extra edge or let you break the rules. 
@@ -98,4 +96,6 @@ If you start with a Grimoire, or something that acts as one, choose the spells o
 
 ## Finishing Touches
 
-Decide your character's name, tell the table a bit about them, and figure out how they fit into the adventuring party.
+Finally, choose a name and write a Eulogy Entry that describes a previous exploit of your character. Either gain 1 XP, or roll d10s on any equipment table to see what you gained from that adventure.
+
+*If you gain XP here, you can choose to immediately spend it to gain +1 Grit, or to step you d4 Attribute up to a d6. See [Growth](/SRD/Growth)*

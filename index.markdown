@@ -13,7 +13,7 @@ Fully laid out PDF version, featuring [Evlyn Moreau](https://www.patreon.com/evl
 
 Brighter World’s text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-It is unfinished, currently at version 0.9.1
+It is unfinished, currently at version 0.9.2
 
 Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](https://www.bastionland.com/)), Cairn by Yochai Gal ([cairnrpg.com](https://cairnrpg.com/)), and Macchiato Monsters by Eric Nieudan ([@surcapitaine](https://twitter.com/surcapitaine)).
 

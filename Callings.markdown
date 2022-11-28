@@ -506,7 +506,7 @@ These apply only to you, not your companions.
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
 
 * **Doubly Devoted:** Take a second Vow, and gain two additional Boons.
-* **Living Legend:** Word of your deeds always spreads far and wide. Tick an unticked entry in your Eulogy to force a strong reaction from an NPC: pick two from Fear, Hate, Respect, and Adoration. The GM will pick one of those two to be true.
+* **Living Legend:** Choose your Name, Oath, or a Eulogy Entry you haven't previously chosen and put a tick next to it. Based on the chosen element, force a strong reaction from an NPC: pick two from Fear, Hate, Respect, and Adoration. The GM will pick one of those two to be true.
 * **Constant Vigilance:** You are never taken by surprise. If there’s a question as to who acts first in a situation, the answer is you.
 * **Always Prepared:** You carry a bag which can be opened at any time to reveal a useful, mundane item of your choice. You can do so again once you’ve been somewhere you could have restocked it.
 
