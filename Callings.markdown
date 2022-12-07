@@ -164,7 +164,7 @@ Construct your Companion by combining three abilities with these base stats:
 
  * **Big:** Step up STR and Attack.
  * **Fast:** Step up DEX and gain +2 Grit
- * **Clever:** Step up WIL, it can communicate with anyway flawlessly.
+ * **Clever:** Step up WIL, it can communicate with anyone flawlessly.
  * **Vicious:** Step up Attack, and gain an extra effect (e.g. poison, armor piercing, blast, etc.).
  * **Flying:** Through wings or other means.
  * **Tiny:** +2 Grit, can be easily concealed.
