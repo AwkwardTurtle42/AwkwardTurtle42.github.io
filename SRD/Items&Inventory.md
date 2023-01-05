@@ -9,7 +9,7 @@ nav_order: 6
 
 ## Bulky Items
 
-You can carry as much as makes sense in your inventory without tracking it. However, if you are carrying more than two *bulky* items you have zero Grit are deprived.
+You can carry as much as makes sense in your inventory without tracking it. However, if you are carrying more than two *bulky* items you have zero Grit and are deprived.
 
 *Bulky* items are heavy or awkwardly sized, requiring two hands to hold.
 
