@@ -50,11 +50,12 @@ Making a habit of using Reaction Rolls is a good way to avoid having every encou
 If your players wish to play as something other than humans, it’s usually fine to do so without changing anything else. As Brighter Worlds does not start from a place of balance or resource tracking, minor abilities like darkvision, water breathing, or similar do not require any “compensation” for balance.
 
 If they want more significant species abilities like flight, consider creating a custom Advanced Ability to reflect that and have the player choose that as their initial, free choice.
-Player Rumors
+
+## Player Rumors
 
 Although not for every group, letting players contribute to building the world the game takes place in can be a great way to increase investment and inject ideas you’d never have arrived at yourself.
 
-Player generated rumors is a simple way to incorporate this idea, while both not being overwhelming and maintaining the sense of discovering and already extant world.
+Player generated rumors is a simple way to incorporate this idea, while both not being overwhelming and maintaining the sense of discovering an already extant world.
 
 The first time a new location, creature, or significant NPC is mentioned in game ask each player to share a rumor their character has “heard”. Note down each rumor, and secretly determine which are true, which are derived from something true, and which are complete confabulations. This can work especially well when prompting players for rumors based on their Calling. A Witch might have heard of some ancient magics, a Cleric might know about a local deity, or an Artificer might be aware of some material unique to the area.
 
