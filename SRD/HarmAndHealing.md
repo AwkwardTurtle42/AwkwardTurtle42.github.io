@@ -7,7 +7,7 @@ nav_order: 4
 
 # Harm & Healing
 
-## Atribute Damage
+## Attribute Damage
 
 By default all Direct Damage is dealt to STR. In some circumstances mystical energies or psychic horror might deal Direct Damage to WIL, whereas attacks that seek to entangle or slow might deal Direct Damage to DEX.
 
