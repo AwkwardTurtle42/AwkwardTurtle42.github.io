@@ -59,7 +59,7 @@ Will appraise any small object placed in its grip and communicate its fair marke
 
 ## Aroma-Alchemy Candle
 
-When planed in or on a material with alchemical properties and lit, the essence of the material is wicked up into the candle and dispersed through the area with a decreased effect. For example if placed within a sleeping potion it would result in a smell that encourages drowsiness and keeps those already asleep from waking. 
+When placed in or on a material with alchemical properties and lit, the essence of the material is wicked up into the candle and dispersed through the area with a decreased effect. For example if placed within a sleeping potion it would result in a smell that encourages drowsiness and keeps those already asleep from waking. 
 
 ## Blindfold of the Nightwalker
 
