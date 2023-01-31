@@ -14,7 +14,8 @@ When exploring a dungeon or other dangerous environment divided into rooms, time
 It takes the party a Turn to explore a new room, examine the current room, or perform some other action.
 
 This represents the party traveling slowly and carefully. While moving this way, the party is automatically on the lookout for hidden dangers such as enemies, traps, and secrets.
-Traps and Secrets
+
+## Traps and Secrets
 
 Hidden dangers should be telegraphed while exploring, with indicators or tells that there might be something hidden here (but not necessarily what is hidden). Brighter Worlds' characters are assumed to be competent explorers and are unlikely to stumble into a trap without prior warning. The fun is seeing how players interact with secrets, not finding out if they know they exist at all.
 
