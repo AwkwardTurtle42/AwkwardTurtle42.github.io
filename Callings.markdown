@@ -177,10 +177,10 @@ Construct your Companion by combining three abilities with these base stats:
 
 Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
 
-* Level Up: Through training, special diet, or ritual your companion has learned some new tricks. Pick two more abilities from the Animal Companion list.
-* Tag Team: When fighting the same enemy, you and your Animal Companion may make a maneuver alongside your attacks (tripping, disarming, etc.).
-* Mind Meld: You can share thoughts and senses with your Animal Companion from any distance.
-* Blink Bud: You can teleport to your Animal Companion, teleport your Animal Companion to you, or swap places no matter the distance.
+* **Level Up:** Through training, special diet, or ritual your companion has learned some new tricks. Pick two more abilities from the Animal Companion list.
+* **Tag Team:** When fighting the same enemy, you and your Animal Companion may make a maneuver alongside your attacks (tripping, disarming, etc.).
+* **Mind Meld:** You can share thoughts and senses with your Animal Companion from any distance.
+* **Blink Bud:** You can teleport to your Animal Companion, teleport your Animal Companion to you, or swap places no matter the distance.
 
 
 ## Archivist
@@ -412,7 +412,7 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 
 Discharge a Storage Crystal to perform the attuned ritual immediately (a single combat round rather than 10 minutes), and without needing to sacrifice any components. Once discharged, a crystal must be attuned to a ritual to be used again.
 
-Creating a new Arcane Storage Crystals costs 1 permanent Max Grit. Each crystal is bound to you (either physically or magically) and cannot be lost or stolen.
+Creating a new Arcane Storage Crystal costs 1 permanent Max Grit. Each crystal is bound to you (either physically or magically) and cannot be lost or stolen.
 
 **Crystal Grimoire:** Your Grimoire is mystically bonded to a crystal embedded somewhere on your body. When not in use, the Grimoire is stored within the crystal, and if destroyed or lost it will reform within that crystal in an hour.
 
