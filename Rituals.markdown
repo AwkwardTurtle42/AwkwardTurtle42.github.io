@@ -50,7 +50,7 @@ Performing a ritual takes at least ten minutes, unless otherwise specified.
  32. **Pocket Container** - [chest] The first time you perform this ritual, the chest is hidden in a pocket dimension. Afterward, this ritual resummons that chest.
  33. **Polymorph** - [blood] Transform into the creature whose blood you drank during the ritual until the next sunrise.
  34. **Purifying Flame** - Name a specific poison, disease, or enchantment to purge it from an individual. Use is still possible without knowing the specific name, but results may be inconsistent or have side effects.
- 34.    Reflexive Invisibility [bio sample] - Consume a sample from the target (a bit of hair, drop of blood, etc). You and the target cannot see one another. Lasts until you perform this ritual again.
+ 34. **Reflexive Invisibility** - [bio sample] Consume a sample from the target (a bit of hair, drop of blood, etc). You and the target cannot see one another. Lasts until you perform this ritual again.
  35. **Resizing Loop** - Tie thread around something, and tighten the loop as you perform this ritual. As the loop shrinks, whatever is tied also shrinks with it. Lasts until the thread is broken.
  36. **Soul Stone** - [diamond] As this ritual is performed the subject of the ritual consumes a diamond. If they are killed, their mind and soul is preserved within the diamond. They’ll still need a new body though.
  37. **Spectral Torment** - [hair] Burn a tuft of hair as the sun sets. Until the sun rises, the owner of the hair is ceaselessly harassed by ghosts and spirits.

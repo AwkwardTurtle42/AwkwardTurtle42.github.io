@@ -16,7 +16,7 @@ nav_order: 9
 
 **Wants:** To be left alone, and to eat anyone who doesn’t respect that.
 
-**Often Found:**: 1d6 (1: Basking, 2: Napping, 3: Hissing, 4-5: Lying in Ambush, 6: Aggressing).
+**Often Found:** 1d6 (1: Basking, 2: Napping, 3: Hissing, 4-5: Lying in Ambush, 6: Aggressing).
 
 ## Fire God's Shame
 
@@ -30,7 +30,7 @@ Peck (d6), sets cloth smoldering on Direct Damage.
 
 **Wants:** Respect and bread crumbs.
 
-**Often Found:**: Harassing random passersby.
+**Often Found:** Harassing random passersby.
 
 ## Fourteen Eyed Watcher
 
@@ -42,7 +42,7 @@ Peck (d6), sets cloth smoldering on Direct Damage.
 
 **Wants:** To witness change.
 
-**Often Found:**: Eyes glinting in the night, peering unsettlingly at whatever has attracted its attention.
+**Often Found:** Eyes glinting in the night, peering unsettlingly at whatever has attracted its attention.
 
 ## Half-Dead Cat
 
@@ -56,7 +56,7 @@ Claws (d6), Bite (d6), deals Direct Damage to WIL on odd damage rolls.
 
 **Wants:** All the things a normal cat wants, if a normal cat was capable of sharpening its claws on your soul.
 
-**Often Found:**: Hunting mice, then toying with their souls.
+**Often Found:** Hunting mice, then toying with their souls.
 
 ## Incubus Butterfly
 
@@ -70,7 +70,7 @@ Somnolescent Dust (d6, blast), deals Direct Damage to WIL. Enhanced if target is
 
 **Wants:** To sup upon your dreams.
 
-**Often Found:**: Luring unsuspecting travelers to an area already saturated with its Dust.
+**Often Found:** Luring unsuspecting travelers to an area already saturated with its Dust.
 
 ## Notiavore
 
@@ -85,7 +85,7 @@ Bite (d10), consumes a memory and restores d6 Grit on Critical Damage
 
 **Wants:** Your most cherished memory.
 
-**Often Found:**: Lurking in the dark corners of libraries and scriptoriums.
+**Often Found:** Lurking in the dark corners of libraries and scriptoriums.
 
 ## Snackoon
 
@@ -97,7 +97,7 @@ Bite (d10), consumes a memory and restores d6 Grit on Critical Damage
 
 **Wants:** To eat your trash but not be eaten in turn.
 
-**Often Found:**: Hiding in populated places searching for snacks.
+**Often Found:** Hiding in populated places searching for snacks.
 
 ## Styrge Sphynx
 
@@ -112,7 +112,7 @@ Blood Sucking Proboscis (d8), steps up STR on Critical Damage
 
 **Wants:** To absolutely stump someone with a cracker of a riddle, then drain them of blood.
 
-**Often Found:**: Raiding book stores looking for new books of riddles.
+**Often Found:** Raiding book stores looking for new books of riddles.
 
 ## Vulture Hydra
 
@@ -125,4 +125,4 @@ Blood Sucking Proboscis (d8), steps up STR on Critical Damage
 
 **Wants:** Some tasty, sun warmed organ meat. As a snack.
 
-**Often Found:**: Fiercely defending a found corpse from threats (real or imagined).
+**Often Found:** Fiercely defending a found corpse from threats (real or imagined).
