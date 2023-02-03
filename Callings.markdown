@@ -67,12 +67,6 @@ Dedicated to an ideal. A paladin empowered through their faith and belief.
 
 For players who like their character to live by a code.
 
-## [Great Soul Shaman](#great-soul-shaman-1)
-
-A steward of a beast’s soul, able to transform into that creature through ancient rites. 
-
-For players who want to be an animal sometimes.
-
 ## [Grimblade](#grimblade-1)
 
 Owner of a mystic weapon. 
@@ -90,6 +84,12 @@ For players who like to assemble unique effects out of logical or grammatical co
 An expert in self cloning and underhanded tricks. 
 
 For players who like plans within plans, and to be in two places at once.
+
+## [Soulbearer](#soulbearer-1)
+
+A steward of a beast’s soul, able to transform into that creature through ancient rites. 
+
+For players who want to be an animal sometimes.
 
 ## [Witch](#witch-1)
 
@@ -109,8 +109,7 @@ For players who want to cast spells and also have an adorable pet.
 
 ### You Start With
 
- * 4 Grit
- * Recipe Book: (bulky) Acts as a Grimoire that also stores your potion recipes. Contains two potion recipes.
+ * Recipe Book: (bulky) Acts as a Grimoire that also stores your potion recipes. Contains two potion recipes and the Locate Object ritual.
  * Alchemy Supplies
  * One complete potion for each of your starting recipes.
 
@@ -150,7 +149,6 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 
 ### You Start With
 
- * 4 Grit
  * Your Companion
  * A Bag of Beast Snacks (whatever your companion prefers)
 
@@ -197,15 +195,17 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 
 ### You Start With
 
-* 4 Grit
-* Your Archive (*bulky*): Starts with one Topic of information based on your prior studies.
-* An extra random starting WIL item.
+* Your Archive (*bulky*): Acts as a Grimoire that also stores your Topics. Starts with one Topic of information based on your prior studies and one ritual of your choice.
+
+* An extra piece of WIL Starting Equipment, rolled with d10s.
 
 ### Your Archive
 
 Your Archive acts as a Grimoire, and can store spells and rituals in addition to storing your knowledge. 
 
-**Deep Lore:** The first time you encounter something that falls within a Topic recorded in your Archive, you may ask the GM a single question about it. Further questions will take time to look up, or require further research. It takes six hours to record a new Topic of information into your Archive from any source of knowledge. 
+**Deep Lore:** The first time you encounter something that falls within a Topic recorded in your Archive, you may ask the GM a single question about it. Further questions will take time to look up, or require further research. 
+
+It takes six hours to record a new Topic of information into your Archive from any source of knowledge. 
 
 ### Advanced Abilities
 
@@ -214,7 +214,7 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 * **Office Assistant:** Whether due to accumulated knowledge or through some arcane rite, your Archive has awoken into a sentient, floating being. Casting spells still requires you to hold the Archive to read from it.
 * **Monster Manual:** Thoroughly examine a creature to record it as a Topic in your Archive. When you take the time to lecture from your notes, you and any who listen gain +1 armor against those creatures during the next combat, and can easily identify weaknesses.
 * **Psychometry:** You can read an object’s history just by touching it. When you handle an object you can sense events that have happened to it. Emotionally charged and recent events take precedence, but with careful study you may ask specific questions.
-* **Leap of Logic:** Your years of study have developed into a startlingly accurate intuition. When you closely examine a situation (or person), you may ask the GM a single yes or no question about it (or them).
+* **Leap of Logic:** Your years of study have developed into a startlingly accurate intuition. The first time you encounter a situation (or person), you may ask the GM a single yes or no question about it (or them).
 
 
 ## Artificer
@@ -233,7 +233,6 @@ When a fragile item is used, roll a d6 (for weapons and armor roll on Direct Dam
 
 ### You Start With
 
-* 3 Grit
 * Your Artificing Tools
 * **Masterwork Weapon** (1d6)
 * **Masterwork Armor** (1 Armor)
@@ -278,7 +277,6 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 
 ### You Start With
 
-* 4 Grit
 * A **Lack of Flesh**
 * A **Fearsome Visage**
 
@@ -318,7 +316,6 @@ Name your Patron (the spirit, body, or source of water that has claimed you), an
 
 ### You Start With
 
-* 4 Grit
 * A waterskin
 * A small, impossible token from your Patron
 
@@ -354,9 +351,9 @@ Define the Domain of your god.
 
 ### You Start With
 
-* 4 Grit
 * Your Small God
 * A d8 Domain Die
+* Holy Vestments
 
 ### Words of God
 
@@ -406,7 +403,6 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 
 ### You Start With
 
-* 4 Grit
 * Your **Crystal Grimoire** Containing 1 Spell and 2 Rituals of your Choice.
 * An **Arcane Storage Crystal** attuned to a Ritual in your Grimoire.
 
@@ -416,7 +412,7 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 
 Discharge a Storage Crystal to perform the attuned ritual immediately (a single combat round rather than 10 minutes), and without needing to sacrifice any components. Once discharged, a crystal must be attuned to a ritual to be used again.
 
-Creating new Arcane Storage Crystals costs 1 permanent Max Grit each. Each crystal is bound to you (either physically or magically) and cannot be lost or stolen.
+Creating a new Arcane Storage Crystals costs 1 permanent Max Grit. Each crystal is bound to you (either physically or magically) and cannot be lost or stolen.
 
 **Crystal Grimoire:** Your Grimoire is mystically bonded to a crystal embedded somewhere on your body. When not in use, the Grimoire is stored within the crystal, and if destroyed or lost it will reform within that crystal in an hour.
 
@@ -441,7 +437,6 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 
 ### You Start With
 
-* 4 Grit
 * **The Demon In Your Brain:** It knows one random spell and one random ritual, as well as one spell and one ritual of your choice.
 * An Unusual Choice of Clothing (Your Demon insists on it).
 
@@ -478,8 +473,8 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 
 ### You Start With
 
-* 4 Grit
 * Decorated Armor (1 Armor) 
+* An extra piece of STR Starting Equipment, rolled with d10s.
 
 ### Vow
 
@@ -510,39 +505,6 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 * **Constant Vigilance:** You are never taken by surprise. If there’s a question as to who acts first in a situation, the answer is you.
 * **Always Prepared:** You carry a bag which can be opened at any time to reveal a useful, mundane item of your choice. You can do so again once you’ve been somewhere you could have restocked it.
 
-## Great Soul Shaman
-
-*The soul of a great beast lives within you, granting you its skills and form. Shamanic ritual prepares for such a transfer, layering soul upon soul for generations until an animal is ready to make a Shaman.*
-
-### Core Ability
-
-**Great Soul:** An unusually dense and powerful soul from some animal has been ritualistically implanted into you. This grants you some measure of that animal’s skills as well as the ability to freely transform into it.
-
-### You Start With
-
-* 4 Grit
-* **Your Great Soul**
-* A beneficial quirk and an inconvenient instinct from your Great Soul
-
-### Your Great Soul
-
-Choose the animal whose Great Soul lives within you and pick three abilities from the [Animal’s Companion list](#animals-companion-1). When you transform into your animal form those abilities modify your existing stats.
-
-Grit and Ability loss is maintained between your forms (you won’t magically heal by transforming).
-
-While not in animal form one beneficial quirk bleeds through. For example perfect balance for a cat’s soul, or excellent eyesight from an eagle’s. One inconvenient instinct also remains to get you into trouble.
-
-Your Great Soul allows you to speak to and understand the animal whose soul you share. 
-
-### Advanced Abilities
-
-Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
-
-* **Soul Sight:** Temporarily blind yourself to the material world to see creature’s souls. You can see, through all but the most powerful of illusions, what sort of creature they are as well as their current mood.
-* **Spiritual Resistance:** Your Great Soul gives you a spiritual density and fullness that makes it difficult for outside forces to influence you. You are immune to charm, sleep, fear, mind control, and other similar supernatural effects. 
-* **Speaker to the Dead:** You can consult with the lingering souls and spirits of those who died nearby. Recalcitrant spirits may require offerings or favors before being willing to assist.
-* **Psychopomp:** When you are attendant to the death of a creature (whether caused by you or not) you may take temporary custody of its soul. You can use your Great Soul ability to take that creature’s form once, but afterwards the soul passes beyond the Black River.
-
 ## Grimblade
 
 *You are a grimblade and you have a grimblade, a unique and very large weapon that you’ve learned the trick of putting spells into. Whether you physically inscribe it onto a meteor metal blade, or embed the spells into a crystal hammer, you find this eminently more practical than lugging a big book around.*
@@ -553,7 +515,6 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 
 ### You Start With
 
-* 3 Grit
 * **Your Grimblade:** (d10, *bulky*), containing 2 spells of your choice.
 
 ### Grimblade
@@ -583,8 +544,8 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 
 ### You Start With
 
-* 4 Grit
 * Knowledge of 2 **Elements**, 2 **Verbs**, and 2 **Subjects**
+* Etching or Drawing Tools
 * Flawless handwriting
 
 ### Rune Components
@@ -641,14 +602,13 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 
 ### You Start With
 
-* 4 Grit
 * Daggers (d6), you always manage to have another one secreted about your person.
 * Ring of 6 Bump Keys, roll a d6 to open a lock: (1: the lock and key break, 2-3: the lock or key breaks, 4-6: nothing breaks).
 * A Dramatic Looking Cloak
 
 ### Self Cloning Technique
 
-* **Split Self:** Divide yourself in two. Your split starts with your Grit and a d4 in all Attributes. You may step down your own Attributes to step up the corresponding Attribute of your clone. If either half dies the missing Attributes are lost, although you may heal back to your maximums as usual. You are both halves of yourself at all times, and you both have access to your inventory although only one half may use a specific item at any given time.
+* **Split Self:** Divide yourself in two. Your split starts with your Grit and a d4 in all Attributes. You may step down your own Attributes to step up the corresponding Attribute of your clone. If either half dies the missing Attributes are lost, although you may heal back to your maximums as usual. You are both halves of yourself at all times and you both have access to your inventory, although only one half may use a specific item at any given time.
 * **Shadow Clone:** You can separate your shadow from your physical self. Your shadow is insubstantial and immaterial, but cannot pass through opaque objects. It is immune to physical damage, but vulnerable to magic and bright lights. Your shadow can hide in the shadow of another creature, and while there you can read their surface thoughts, and communicate to them mentally.
 * **Illusory:** Create a number of illusory clones up to the number of advanced abilities you have. Your clones are insubstantial and intangible but are otherwise indistinguishable from your real self. You do not have to declare which of you is real until it matters, and you share the senses of all clones simultaneously. When attacking with clones if you would deal Direct Damage you must either declare the clone is actually you or reveal it as an illusion.
 
@@ -661,6 +621,38 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 * **Snap:** Recall your clone to yourself, or yourself to your clone from any distance. Anyone touching you while you do so is carried along.
 * **Pick Pocket:** While a creature is totally unaware of your presence (discounting clones) you may swap an object they carry with an object of similar size and heft.
 
+## Soulbearer
+
+*The soul of a great beast lives within you, granting you its skills and form. Shamanic ritual prepares for such a transfer, layering soul upon soul for generations until an animal is ready to make a Soulbearer.*
+
+### Core Ability
+
+**Great Soul:** An unusually dense and powerful soul from some animal has been ritualistically implanted into you. This grants you some measure of that animal’s skills as well as the ability to freely transform into it.
+
+### You Start With
+
+* **Your Great Soul**
+* A beneficial quirk and an inconvenient instinct from your Great Soul
+
+### Your Great Soul
+
+Choose the animal whose Great Soul lives within you and pick three abilities from the [Animal’s Companion list](#animals-companion-1). When you transform into your animal form those abilities modify your existing stats.
+
+Grit and Ability loss is maintained between your forms (you won’t magically heal by transforming).
+
+While not in animal form one beneficial quirk bleeds through. For example perfect balance for a cat’s soul, or excellent eyesight from an eagle’s. One inconvenient instinct also remains to get you into trouble.
+
+Your Great Soul allows you to speak to and understand the animal whose soul you share. 
+
+### Advanced Abilities
+
+Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
+
+* **Soul Sight:** Temporarily blind yourself to the material world to see creature’s souls. You can see, through all but the most powerful of illusions, what sort of creature they are as well as their current mood.
+* **Spiritual Resistance:** Your Great Soul gives you a spiritual density and fullness that makes it difficult for outside forces to influence you. You are immune to charm, sleep, fear, mind control, and other similar supernatural effects. 
+* **Speaker to the Dead:** You can consult with the lingering souls and spirits of those who died nearby. Recalcitrant spirits may require offerings or favors before being willing to assist.
+* **Psychopomp:** When you are attendant to the death of a creature (whether caused by you or not) you may take temporary custody of its soul. You can use your Great Soul ability to take that creature’s form once, but afterwards the soul passes beyond the Black River.
+
 ## Witch
 
 *Familiar at your side, you channel the forces of magic across the mystic bond that connects you. You are a shepherd to ancient secrets, passed from person to person to keep them safe from forces who would rather see it lost.*
@@ -671,7 +663,6 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 
 ### You Start With
 
-* 4 Grit
 * **Your Familiar**
 * A Grimoire (bulky), containing two spells and one ritual of your choice.
 * A Fanciful Hat or Ornamentation

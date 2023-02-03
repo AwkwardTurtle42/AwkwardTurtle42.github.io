@@ -13,10 +13,20 @@ Fully laid out PDF version, featuring [Evlyn Moreau](https://www.patreon.com/evl
 
 Brighter World’s text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-It is unfinished, currently at version 0.9.2
+It is unfinished, currently at version 0.9.3
 
 Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](https://www.bastionland.com/)), Cairn by Yochai Gal ([cairnrpg.com](https://cairnrpg.com/)), and Macchiato Monsters by Eric Nieudan ([@surcapitaine](https://twitter.com/surcapitaine)).
 
 ## Recent changes
- * Too many to list!
- * See the devlog here: https://awkwardturtle.itch.io/brighter-worlds/devlog/439150/update-to-091-big-changes
+
+Pre-gens for each Calling + specific GM Guidance for each Calling are currently being written, but I didn't want to hold up these other changes until they're done.
+
+* Great Soul Shaman renamed to Soulbearer (thanks Evlyn) and features new artwork (thanks again Evlyn).
+* Tweaked character creation to avoid there being an "optimal" choice.
+    * Now you write a Eulogy entry immediately and either get an extra equipment roll, or +1 XP to start the game.
+* Tweaked the Devoted's Living Legend advanced ability to make it more immediately usable.
+* Added the Reflexive Invisibility ritual, it replaces the Bone Sense ritual (which I hate so much and regret writing).
+* All Callings now start with 3 Grit across the board. Not enough utility in making it variable to be worth it. Makes things easier to just start with one number. 
+* Added some items to some of the Callings to make the "You Start With" sections look less empty with the lack of Grit listed.
+* Tweaked the Archivist's "Leap of Logic" ability so it works more in line with Deep Lore.
+* Added "Environmental Damage" to the GM Guidance chapter. This whole chapter needs to be organized/expanded.

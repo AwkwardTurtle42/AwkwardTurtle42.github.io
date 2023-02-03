@@ -27,6 +27,12 @@ Always err on the side of giving more information than you think is necessary. S
 
 For GMs coming from games with those types of rolls, try the following. When a player says they look at or examine something in a way where you’d normally call for a roll, instead simply tell them what they’d have learned had they succeeded at that roll. If there’s some risk involved, tell them what they can figure out from where they are and explain how moving closer, interacting more, or further examination might be risky. Ask what they want to do, and use the guidance for When To Roll as usual.
 
+## Environmental Damage
+
+Environmental damage like lava, fire, acid pits, etc. scales from d4 to d12 depending on severity and should usually bypass Grit and be dealt as Direct Damage.
+
+Example: If a character falls into an acid pit they take d8 Direct Damage each round, with a random carried item destroyed upon taking Critical Damage.
+
 ## Reaction Rolls
 
 When you’re unsure how a new character or creature might feel about the party, roll 2d6:

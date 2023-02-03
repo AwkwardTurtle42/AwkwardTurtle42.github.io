@@ -22,7 +22,6 @@ Performing a ritual takes at least ten minutes, unless otherwise specified.
  3. **Be Our Guest** - [drop of blood] Grant temporary life and sentience to an inanimate object. It will follow the first command you give it, but act according to its nature for the remaining 10 minutes of its life.
  4. **Bird’s Eye View** - Summon a flock of nearby birds to perform surveillance for you. They will follow your instructions for a day and report to you what they find, although they will not put themselves in harm’s way. For each additional day of service the flock will require a large quantity of bird feed.
  5. **Bloody Bane** - [blood] Mark a weapon with blood. The weapon bypasses any armor and supernatural defenses of the creature whose blood was used until the blood washes off.
- 6. **Bone Sense** - [a bone] Crush a bone to know the direction and density of all nearby collections of bones for 10 minutes.
  7. **Bottled Weather** - Capture the current weather in a bottle as you perform a ritual. Open the bottle to release the weather.
  8. **Celestial Interruption** - Halt the passage of time, it remains whatever time of day it was when you performed the ritual. As long as the effect lasts everyone is deprived, wounds do not heal, and souls cannot cross the Black River. When you release your grip, suffer d12 Direct Damage to WIL, plus an additional d12 for each skipped day as time snaps back into motion.
  9. **Chain of Unseeing** - Enclose an area in a chain of precious metal. Until something crosses the chain, everything within is shielded from mundane and magical sight.
@@ -51,6 +50,7 @@ Performing a ritual takes at least ten minutes, unless otherwise specified.
  32. **Pocket Container** - [chest] The first time you perform this ritual, the chest is hidden in a pocket dimension. Afterward, this ritual resummons that chest.
  33. **Polymorph** - [blood] Transform into the creature whose blood you drank during the ritual until the next sunrise.
  34. **Purifying Flame** - Name a specific poison, disease, or enchantment to purge it from an individual. Use is still possible without knowing the specific name, but results may be inconsistent or have side effects.
+ 34.    Reflexive Invisibility [bio sample] - Consume a sample from the target (a bit of hair, drop of blood, etc). You and the target cannot see one another. Lasts until you perform this ritual again.
  35. **Resizing Loop** - Tie thread around something, and tighten the loop as you perform this ritual. As the loop shrinks, whatever is tied also shrinks with it. Lasts until the thread is broken.
  36. **Soul Stone** - [diamond] As this ritual is performed the subject of the ritual consumes a diamond. If they are killed, their mind and soul is preserved within the diamond. They’ll still need a new body though.
  37. **Spectral Torment** - [hair] Burn a tuft of hair as the sun sets. Until the sun rises, the owner of the hair is ceaselessly harassed by ghosts and spirits.

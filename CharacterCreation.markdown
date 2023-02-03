@@ -23,7 +23,7 @@ You may want to make tweaks to a Calling’s abilities or items to make it fit y
 
 Grit is a character’s mental concentration and ability to avoid being harmed. It represents a combination of defensive capabilities, awareness, and luck.
 
-Note the Maximum Grit listed in your Calling.
+You start with 3 Maximum Grit.
 
 ## Core Ability
 
@@ -96,6 +96,6 @@ If you start with a Grimoire, or something that acts as one, choose the spells o
 
 ## Finishing Touches
 
-Finally, choose a name and write a Eulogy Entry that describes a previous exploit of your character. Either gain 1 XP, or roll d10s on any equipment table to see what you gained from that adventure.
+Choose a name and write a Eulogy entry about a previous exploit of your character. Gain 1 XP, or roll d10s on any Starting Equipment table to see what you gained from that adventure.
 
 *If you gain XP here, you can choose to immediately spend it to gain +1 Grit, or to step you d4 Attribute up to a d6. See [Growth](/SRD/Growth)*
