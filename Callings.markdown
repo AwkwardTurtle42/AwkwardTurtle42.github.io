@@ -669,7 +669,7 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 
 ### Your Familiar
 
-Create your Familiar by combining two options from the [Animal’s Companion Ability list]((#animals-companion-1)) with these base stats:
+Create your Familiar by combining two options from the [Animal’s Companion Ability list](#animal-companion-abilities) with these base stats:
 
 1 Grit, a d4 attack, d4 STR, d4 DEX, and d4 WIL
 
