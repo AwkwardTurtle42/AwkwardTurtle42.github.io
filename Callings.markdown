@@ -636,7 +636,7 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 
 ### Your Great Soul
 
-Choose the animal whose Great Soul lives within you and pick three abilities from the [Animal’s Companion list](#animals-companion-1). When you transform into your animal form those abilities modify your existing stats.
+Choose the animal whose Great Soul lives within you and pick three abilities from the [Animal’s Companion list](#animal-companion-abilities). When you transform into your animal form those abilities modify your existing stats.
 
 Grit and Ability loss is maintained between your forms (you won’t magically heal by transforming).
 
