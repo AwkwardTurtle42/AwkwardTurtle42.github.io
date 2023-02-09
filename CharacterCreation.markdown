@@ -43,6 +43,8 @@ Most Callings start with equipment, weapons, or other useful items.  Make any it
 
 Then roll your Attributes on each Starting Equipment list to see what else you’re carrying.
 
+Roll each of your starting Attributes twice, then choose either combination of Flair and Item from their respective lists. For example if you roll your d6 STR and get a 2 and 6 you can either have a Repaired Spear or a Colorful Staff.
+
 ### STR (Weapons)
 
 | STR | Flair           | Item                    |
