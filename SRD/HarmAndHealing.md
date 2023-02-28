@@ -15,7 +15,7 @@ In these circumstances make a Direct Damage Save as usual, but using the affecte
 
 ## Attribute Loss
 
-Injury is represented by Attribute dice being stepped won from their Maximum size.
+Injury is represented by Attribute dice being stepped down from their Maximum size.
 
 Dropping to zero dice in any Attribute means risking serious and lasting consequences.
 
