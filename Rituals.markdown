@@ -40,7 +40,7 @@ Performing a ritual takes at least ten minutes, unless otherwise specified.
  22. **Living Weapon** - Enchant a weapon to float behind you and attack at your command. It deals its own damage, and has 3 Grit. Lasts until it takes Direct Damage or you perform this ritual again.
  23. **Locate Object** - Concentrate on a specific object. You know the direction and distance to that object as well as its current state. Can be used with objects you do not have first hand knowledge of, but the less detailed the description the more vague the effects.
  24. **Midnight Market** - Perform this ritual at midnight to open a portal to the Midnight Market, a fae gathering where nearly anything can be purchased for the right price. Remaining in the Market past sunrise runs the risk of being trapped.
- 25. **Mindlink** - Your and any number of willing creatures you touch form a telepathic link and may speak to each other from any distance until the next sunrise.
+ 25. **Mindlink** - You and any number of willing creatures you touch form a telepathic link and may speak to each other from any distance until the next sunrise.
  26. **Monstrous Melding** - Take 6 hours to transplant a monster’s organ or limb into a willing subject. They gain some aspect of the power or abilities of the donor. Lasts for a week, unless the ritual is performed again during that duration in which case the effect becomes permanent (some side effects may occur).
  27. **No Mask? No Mask!** - [clay] Smear a person’s face with clay to reshape their flesh as though it were putty. Lasts until sunrise.
  28. **Oathkeeper’s Light** - [white flower] Burn the flower while an oath is sworn. Flame will internally ignite any who break the oath, dealing them d6 Direct Damage every sunrise for a week.

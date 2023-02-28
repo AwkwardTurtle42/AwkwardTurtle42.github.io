@@ -21,7 +21,7 @@ A d4 is weak, d6 is average, d8 is noteworthy, d10 is strong and d12 is legendar
 
 ## Grit
 
-Grit is a character’s mental concentration and ability to avoid harm. Grit is lost when being attacked, performing complex tasks like casting Spells, or attempting to carrying too much. It is not a measure of  physical health, and and lost Grit is restored quickly.
+Grit is a character’s mental concentration and ability to avoid harm. Grit is lost when being attacked, performing complex tasks like casting Spells, or attempting to carry too much. It is not a measure of physical health, and lost Grit is restored quickly.
 
 ## Dice
 

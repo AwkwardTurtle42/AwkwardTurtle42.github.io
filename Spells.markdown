@@ -36,7 +36,7 @@ If the spell does not deal damage, roll your WIL as though it were an attack. If
  3. **Barrier** - Create a transparent, indestructible barrier of any shape with a total area of 10 square feet.
  4. **Black Ice** - Freeze a surface with slick, difficult to see ice. Lasts as long as ice would last given the ambient temperature.
  5. **Black Tentacles** - Black tentacles surge from a spot you choose, and make d6 attacks to attempt to grasp any creatures within 10 feet.
- 6. **Bleeding Edge** - Awaken bloodthirst in a bladed weapon. Its next strike deals max damage, but if that hit does not cause Critical Damage the target the blade deals the wielder d4 Direct Damage.
+ 6. **Bleeding Edge** - Awaken bloodthirst in a bladed weapon. Its next strike deals max damage, but if that hit does not cause Critical Damage to the target the blade deals the wielder d4 Direct Damage.
  7. **Bone Bomb** - Make a (dead) skeleton explode into shrapnel. Deals blast damage relative to the size of the skeleton. Can be used on skeletons with flesh on them, but the result is wetter and deals less damage.
  8. **Bonus Limbs** - Grant a creature d4 extra limbs (of your choice).
  9. **Burning Gaze** - Your eyes burst into flames, dealing d6 damage to everyone in your sight. Critical Damage sets creatures aflame. Small, flammable objects in view will also be set aflame.
@@ -63,7 +63,7 @@ If the spell does not deal damage, roll your WIL as though it were an attack. If
  30. **Lighting Bolt** - Shoot a d10 damage bolt of electricity. Impair the next attack or Save on Critical Damage.
  31. **Loyal Lock** - Command a lock to remain open or closed. It will do so until someone manages to convince it otherwise.
  32. **Maximize Minimize** - Double a creature’s size for 1 minute, then quarter its size for another minute. You may choose to reverse the order of the effects.
- 33. **Mum’s the Word** - Silence all sound you, and anyone in contact with you, creates.
+ 33. **Mum’s the Word** - Silence all sound created by you, and anyone in contact with you.
  34. **Noxious Fog** - Fill the area with a thick, foul-smelling fog.
  35. **Painful Truths** - Shout a true statement about the target to deal it damage based on how concealed the information was. d4 for common knowledge, d12 for something they wouldn’t think it possible you could know.
  36. **Salamander’s Lock Pick** - Superheat a small piece of metal to weaken or melt it.
