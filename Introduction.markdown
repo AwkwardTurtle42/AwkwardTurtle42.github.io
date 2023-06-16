@@ -25,7 +25,7 @@ My solution was to make the character options and mechanics primarily player fac
 
 Part of what this game is designed for is to appeal to players who like to build characters by assembling options and making choices, as well as players who like having their own little “fiddly bits” of rules and mechanics to muck around with.
 
-However, not every player wants this and for more complex rule sets with interlocking mechanics, each new ability or class feature contributes to the overall word count and complexity of the game. My solution here is to try and give each Calling isolated mechanics. That is, a Calling can have a fiddly crunchy mechanics, but they’re self contained and the other players at the table don’t have to know how they works. They also doesn’t require much from the GM aside from a final thumbs up, or suggested alteration.
+However, not every player wants this and for more complex rule sets with interlocking mechanics, each new ability or class feature contributes to the overall word count and complexity of the game. My solution here is to try and give each Calling isolated mechanics. That is, a Calling can have a fiddly crunchy mechanics, but they’re self contained and the other players at the table don’t have to know how they works. They also don’t require much from the GM aside from a final thumbs up, or suggested alteration.
 
 A big part of the goal for the structure of the Callings is to allow players to say, “yeah this is something I care about and want to be doing,” and choose a Calling that will support that type of play.
 
