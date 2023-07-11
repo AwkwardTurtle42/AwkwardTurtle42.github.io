@@ -15,7 +15,7 @@ During a Round, each side of a conflict acts together. Each individual on a side
 
 Any actions that carry risk require a Save as usual, usually against the creature you’re engaged with.
 
-If it’s not clear which side should act first, make a DEX Save vs the opposition to act before them.
+The players' side always acts first in a Round. However, if the players are at risk of being surprised or caught flat footed, each player should make a DEX Save versus the opponent. Failure means they do not take an action during the first round, success means they act first as usual.
 
 ## Attacking
 
@@ -27,7 +27,9 @@ Direct Damage represents the attack making physical contact with the target, and
 
 After receiving Direct Damage, make a STR Save and roll higher than that amount to avoid Critical Damage.
 
-If you suffer multiple attacks simultaneously, make your Save against their combined Direct Damage, rather than making separate Saves. Armor still applies to each attack individually.
+This Save can be *impaired* due to being overwhelmed by multiple attackers, hit with a specific bane or weakness, or other particularly harmful attacks. This Save can be *enhanced* due to being focused on defense, being attacked with something you're resistant to, or other beneficial circumstances.
+
+This Save defaults to STR, but attacks or weapons that indicate they deal Direct Damage DEX or WIL caused Critical Damage Saves with the respective attribute. 
 
 ## Critical Damage
 
@@ -35,7 +37,7 @@ If you suffer Critical Damage, step down your STR and suffer any Critical Damage
 
 If your STR steps down below a d4 (zero STR) you become *incapacitated*. An *incapacitated* creature can only weakly crawl, and will die in an hour without assistance. First aid from an ally gets you back on your feet, but doesn’t restore your STR.
 
-Taking Direct Damage, or trying to step down your die at zero STR is lethal.
+Taking Direct Damage, or trying to step down your die, at zero STR is lethal.
 
 ## Overflow Damage
 
@@ -75,18 +77,20 @@ GM: Sure, make a DEX Save against it, succeed and your attack is enhanced, fail 
 
 Sam: Sweet! I stab it in the back.
 
-*Sam rolls a d6 and a d12 for her enhanced attack and gets a 3 and an 11. The Troll has 1 Armor and 2 remaining Grit so 8 Direct Damage is dealt.*
+*Sam rolls a d6 and a d12 for her enhanced attack and gets a 3 and an 10. The Troll has 1 Armor and 2 remaining Grit so 7 Direct Damage is dealt.*
+
+*The Troll rolls its d10 STR and gets a 6, failing to beat the 7 Direct Damage and dropping its STR to d8.*
 
 GM: Yeah, that’ll do a number on it. You wiped out it’s Grit and it does real damage even through its tough skin.
 
 Sam: My dagger sinks in and I feel it hit something important before I roll away.
 
-Pete: Okay, as I see Sam go in for a stab I fire at its chest, trying to time the shot to match.
+Pete: Okay, as I see Sam go in for a stab I fire my Great Bow at its chest, trying to time the shot to match.
 
-*Pete rolls a 7, for 6 Direct Damage after 1 Armor.*
+*Pete rolls a 9, for 8 Direct Damage after 1 Armor.*
 
 GM: The arrow *thwaps* into its muscly pecs.
 
-*As the attacks were closely timed, the GM totals of the Direct Damage taken by the troll, 8 + 6 for 14. The Troll has a 10 STR, so it immediately takes Critical Damage and 4 overflows. The Troll rolls his now 8 STR and fails with a 4, suffering Critical Damage again and dropping to 6 STR. It makes a Morale Save, and succeeds with a 5.*
+*The Troll currently only has a d8 STR, so it immediately takes Critical Damage and drops to a d6 STR, although none overflows so doesn't have to make an additional Save. As the Troll suffered Critical Damage, it makes a Morale Save to see if it flees. It rolls a 4 with its d6 WIL to stay in the fight.*
 
 GM: You see the Troll stagger from the rapid injuries, but then gathers itself and **ROARS** still very much in the fight!

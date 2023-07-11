@@ -17,15 +17,17 @@ Deciding what counts towards earning XP is a way to help set the tone of the gam
 
 Spend XP to unlock abilities and make your character stronger. Spending XP represents your character’s ability to grow and improve with only their own experience and training.
 
-Spend 1 XP to gain +1 Max Grit (to a Max of 12)
+Spend 2 XP to increase a d4 Attribute to a d6, 3 XP from d6 to d8, 4 XP from d8 to d10, and 5 XP from d10 to d12. Attributes cannot be raised higher than d12.
 
-Spend 1 XP to increase a d4 Attribute to a d6, 2 XP from d6 to d8, 3 XP from d8 to d10, and 4 XP from d10 to d12. Attributes cannot be raised higher than d12.
+Raising your Max DEX and WIL also raises your Max Grit which is always the total steps of DEX and WIL.
 
-Spend XP equal to twice the number of Advanced Abilities you currently have to gain another Advanced Ability from your Calling. 
+Advanced Abilities are potential ways your Calling can grow and advance from practice and experience.
 
-0 XP → 2 XP → 4 XP → 6 XP
+Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two.
 
-It is possible to take Advanced Abilities from other Callings. However, Foreground Growth may be more appropriate. Talk to the GM.
+2 XP → 4 XP → 6 XP → 8 XP 
+
+*You may want to tune these costs depending on how fast you expect to gain XP, and how long you expect your campaign to last. See XX for some suggestions.*
 
 ## Foreground Growth
 

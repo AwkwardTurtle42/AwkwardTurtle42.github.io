@@ -132,7 +132,7 @@ The GM will tell you if it will work, or if one or more more of the following ar
 
 ### Advanced Abilities
 
-Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
+Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 
  * **Dungeon Delicatessen:** You always know the best way to break down and prepare any creature for the safest and tastiest dining experience. When you cook and eat a monster organ temporarily gain a lessened version of an associated trait or ability. Lasts until you eat your next meal.
  * **Fine Palate:** You are (optionally) immune to the effects of anything you imbibe, and can identify all ingredients it contains.
@@ -175,7 +175,7 @@ Construct your Companion by combining three abilities with these base stats:
 
 ### Advanced Abilities
 
-Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
+Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 
 * **Level Up:** Through training, special diet, or ritual your companion has learned some new tricks. Pick two more abilities from the Animal Companion list.
 * **Tag Team:** When fighting the same enemy, you and your Animal Companion may make a maneuver alongside your attacks (tripping, disarming, etc.).
@@ -209,7 +209,7 @@ It takes six hours to record a new Topic of information into your Archive from a
 
 ### Advanced Abilities
 
-Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
+Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 
 * **Office Assistant:** Whether due to accumulated knowledge or through some arcane rite, your Archive has awoken into a sentient, floating being. Casting spells still requires you to hold the Archive to read from it.
 * **Monster Manual:** Thoroughly examine a creature to record it as a Topic in your Archive. When you take the time to lecture from your notes, you and any who listen gain +1 armor against those creatures during the next combat, and can easily identify weaknesses.
@@ -231,12 +231,14 @@ When a fragile item is used, roll a d6 (for weapons and armor roll on Direct Dam
 **2-3:** It’s damaged, and will break next time.
 **4-6:** It’s fine for now.
 
+Your **Masterwork** items are always repairable back to their original state if broken.
+
 ### You Start With
 
 * Your Artificing Tools
 * **Masterwork Weapon** (1d6)
 * **Masterwork Armor** (1 Armor)
-* **Masterwork Item** (1 Improvement)
+* **Masterwork Tool** (1 Improvement)
 * Distribute 3 additional improvements among your Masterworks.
 
 ### Improvements
@@ -260,9 +262,9 @@ When a fragile item is used, roll a d6 (for weapons and armor roll on Direct Dam
 
 ### Advanced Abilities
 
-Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
+Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 
-* **Mystical Graft:** You can graft enchantments and effects from magic items, weapons or armor onto something else. This destroys the original item.
+* **Mystical Graft:** You can graft enchantments and effects from magic tools, weapons, or armor onto other items. This destroys the original item.
 * **An Eye for Engineering:** With careful study you can always discern the purpose and function of a mechanism, as well as the best way to break or repair it.
 * **Efficient Artificing:** You can use Walking Workshop to create fragile objects with two improvements, or non-fragile ones with one improvement.
 * **Mule:** You can carry up to four *bulky* items without penalty.
@@ -296,7 +298,7 @@ You may temporarily step down your STR to detach parts of your body which you re
 
 ### Advanced Abilities
 
-Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
+Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 
 * **No Bones About It:** You can incorporate other bones into your body to grant yourself an innate ability of the original creature. Unless extreme measures are taken the grafted bones are [fragile]((#artificer-1)) and risk breaking after activating the borrowed ability.
 * **Your Bones Are Your Money:** You can remove bones from your body to offer in trade (causing a loss of STR). The person receiving your bones will believe they are valuable and greatly desirable. This lasts until midnight at which point the glamour is removed and they become aware they received nothing more than old bones.
@@ -332,7 +334,7 @@ Choose the blessing your Patron grants you
 
 ### Advanced Abilities
 
-Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
+Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 
 * **Twice Blessed:** Choose a second Water Blessing your Patron grants you.
 * **Liquid Construction:** You can shape water into tools and equipment. Weapons deal d8 damage, and armor provides 1 Armor. You can maintain a number of items equal to twice the number of Advanced Abilities you have. Additionally, step up the damage your water does while using One With the Water offensively. 
@@ -385,7 +387,7 @@ Step up your Domain Die if the statement:
 
 ### Advanced Abilities
 
-Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
+Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 
 * **Gemini:** Your god has a second Domain, complementary in some way to the first.
 * **Holy Site:** Spend a week and give a suitably impressive offering to create a holy site for your god. It shields those within from outside influence, and you may teleport yourself and your companions between holy sites.
@@ -420,9 +422,9 @@ Creating a new Arcane Storage Crystal costs 1 permanent Max Grit. Each crystal i
 
 ### Advanced Abilities
 
-Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
+Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 
-* **Crystal Sight:** Embed a “third eye” crystal onto your body, allowing you to see mystical, spiritual, and other non-physical entities and effects.
+* **Crystal Vibes:** You can pick up on the mystic vibrations caused by the single most intense emotional, spiritual, or magical nearby presence. This could be the mood of a crowd, the nature of an ongoing ritual, the presence of an angry spirit, or some other non-physical effect. With time, preparation, and the correct crystals, you can suppress or enhance these vibrations.
 * **Soul Cage:** Store your soul in your Crystal Grimoire. You cannot die as long as it’s intact. If your body is destroyed transferring the crystal into a new body allows you to inhabit it.
 * **Telegraphic Crystals:** You can pair crystals such that things which effect one will effect the other. Sound, sight, and magic or other mystical effects are transmitted.
 * **Capture Crystals:** Create special Capture Crystals by spending 1 permanent Max Grit. Use these crystals to capture the souls of recently killed creatures, or weakened or subservient spirits. Summon the captured creatures as you would cast a spell (setting your Grit to 0 or making a WIL Save). You are deprived as long as you maintain the summon. Particularly powerful souls and spirits may take additional resources or incentive to capture, or be difficult to control.
@@ -456,9 +458,9 @@ You can have your Demon cast spells for you by stepping your WIL down instead of
 
 ### Advanced Abilities
 
-Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
+Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 
-* **Demonic Sight:** Your Demon has learned to share its spiritual senses with you, allowing you to sense the presence and nature of nearby magical or supernatural energies.
+* **Demonic Sense:** Pick taste, smell, or touch. Your Demon can detect nearby supernatural objects or entities using that sense. It will pass along impressions of the nature of what it finds, but only in terms of the chosen sense (tasting notes for taste, aromas for smell, textures for touch).
 * **Backseat Driver:** If you are ever knocked unconscious or have your mind impaired in any way, you can choose to have your Demon take over and control your body instead.
 * **Primal Chaos:**  Set your Grit to zero, or destroy a delicate, fragile, or complex object in your possession, to hurl a d10 damage orb of pure chaos which will rust metal, rot wood, or decay what it touches.
 * **Demonic Expression:** Ongoing exposure to otherworldly energies has induced a unique mutation. For example: a demonic eye that sees true names, a scaled arm that steals secrets, or translucent skin that let's you sink into shadows.
@@ -498,7 +500,7 @@ These apply only to you, not your companions.
 
 ### Advanced Abilities
 
-Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
+Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 
 * **Doubly Devoted:** Take a second Vow, and gain two additional Boons.
 * **Living Legend:** Choose your Name, Oath, or a Eulogy Entry you haven't previously chosen and put a tick next to it. Based on the chosen element, force a strong reaction from an NPC: pick two from Fear, Hate, Respect, and Adoration. The GM will pick one of those two to be true.
@@ -527,7 +529,7 @@ You can still cast spells from it as usual, but if you cast a spell while at zer
 
 ### Advanced Abilities
 
-Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
+Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 
 * **Hammerspace:** You can store your Grimblade in a sub dimensional space (a Mary Poppins bag, a small portal, a tattoo, etc.) where it can be retrieved instantly.
 * **Spell Disruption:** You can destroy weak (and disrupt powerful) ongoing spells and enchantments with your Grimblade. If there is risk of magical backlash, make a STR Save to avoid it.
@@ -577,7 +579,7 @@ When you inscribe a rune, tell the GM what your intended effect is and what comp
 
 ### Advanced Abilities
 
-Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
+Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 
 * **Expansive Research:** Learn the remaining Elements, Verbs and Subjects from the standard lists.
 * **Rune Logic:** You’ve learned to add Modifiers as a fourth component of a rune:
@@ -614,7 +616,7 @@ Pick one Advanced Ability at character creation. Gain more by spending XP equal 
 
 ### Advanced Abilities
 
-Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
+Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 
 * **Multifarious Copies:** When you create your clone you may freely change its physical appearance.
 * **For He Can Creep:** Your footsteps make no sound, and you are impossible to see by mundane means while you are motionless in shadow. You may extend this effect to anyone you choose within 10 feet of you.
@@ -646,9 +648,9 @@ Your Great Soul allows you to speak to and understand the animal whose soul you 
 
 ### Advanced Abilities
 
-Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
+Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 
-* **Soul Sight:** Temporarily blind yourself to the material world to see creature’s souls. You can see, through all but the most powerful of illusions, what sort of creature they are as well as their current mood.
+* **Soul Sight:** Temporarily blind yourself to the material world to see souls. Based on a soul, you can tell what sort of creature they are as well as their current mood. Your sight pierces most illusions, but is blocked by mundane materials such as stone or earth.
 * **Spiritual Resistance:** Your Great Soul gives you a spiritual density and fullness that makes it difficult for outside forces to influence you. You are immune to charm, sleep, fear, mind control, and other similar supernatural effects. 
 * **Speaker to the Dead:** You can consult with the lingering souls and spirits of those who died nearby. Recalcitrant spirits may require offerings or favors before being willing to assist.
 * **Psychopomp:** When you are attendant to the death of a creature (whether caused by you or not) you may take temporary custody of its soul. You can use your Great Soul ability to take that creature’s form once, but afterwards the soul passes beyond the Black River.
@@ -681,7 +683,7 @@ So long as you are alive, your Familiar Bond prevents your Familiar from being p
 
 ### Advanced Abilities
 
-Pick one Advanced Ability at character creation. Gain more by spending XP equal to twice the number of Advanced Abilities you currently have (0 XP → 2 XP → 4 XP → 6 XP).
+Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 
 * **Wild Spellcapture:** You know the ancient secrets of binding wild magic into spells and rituals. By disintegrating your familiar into raw magic while it interacts with a natural magical phenomenon, your Familiar Bond creates a direct link to the magic allowing you to bind it into your Grimoire (you'll have to re-summon your Familiar afterwards). Work with the GM to determine the details of the spell or ritual you create.
 * **Familiar Sights:** You can borrow the senses of your familiar and guide them remotely.

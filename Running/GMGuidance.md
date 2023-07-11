@@ -45,7 +45,7 @@ When you’re unsure how a new character or creature might feel about the party,
 
 **8-10:**	Negative
 
-**12:**	Extremely negative
+**11-12:**	Extremely negative
 
 The party’s approach, the NPC’s proclivities, and other circumstances may modify this roll. In those cases either roll twice and take the higher/lower result, or shift the roll one step in the relevant direction. 
 
@@ -69,9 +69,11 @@ The degree to which the GM and players share narrative control of the world shou
 
 ## NPCs and Monsters
 
-A starting point for any NPC is 3 Grit, a d6 weapon, d4 STR, d6 DEX, and d6 WIL. 
+A starting point for any NPC is 4 Grit, a d6 weapon, d6 STR, d6 DEX, and d6 WIL. 
 
 Attributes: d4 is weak, d6 is average, d8 is noteworthy, d10 is strong and d12 is legendary. Adjust attributes only for significant exceptions to the average.
+
+Set Grit equal to the total steps in DEX and WIL. Subtract 2 if the creature is meek or untrained in combat, add 2 if they're alert or skilled in combat.
 
 High STR in particular should be used sparingly, each step up is a significant increase in durability. Overuse of high STR, Grit, and Armor can cause combat to drag. 
 
@@ -79,15 +81,18 @@ Use flavor and style to make NPCs stand out, not everything needs unique attribu
 
 Making monster abilities that trigger on Direct Damage is a good way to emphasize the threat or strangeness of aggressive NPCs.
 
-Remember that Grit is the ability to avoid harm, not health. It’s a measure of resilience and gumption, not meat.
-
 ## Conversions
 
-In general making exact conversions is unnecessary, and following the above guidance will be sufficient. However stat blocks from Into the Odd, Cairn, and other similar games can be used nearly as written.
+In general making exact conversions is unnecessary, and following the above guidance will be sufficient. However stat blocks from Into the Odd, Cairn, and other similar games can be easily converted.
 
-Abilities from 0-7 are a d4, 8-10 a d6, 11-14 a d8, 15-18 a d10, and 18+ a d12. 
+Abilities:
+ * 1-9 are a d4
+ * 10-13 a d6
+ * 14-15 a d8
+ * 16-17 a d10
+ * and 18+ a d12. 
 
-Damage and armor can be used as is, HP can be converted directly into Grit.
+Damage and armor can be used as is, Grit is set as usual (equal to total steps of DEX and WIL), but can also be set equal to HP for convenience.
 
 Most spells can be used as is, but be aware that casting spells is functionally free. Spells that heal attributes, generate resources, have long lasting effects, or specific requirements for casting become Rituals.
 
@@ -99,4 +104,4 @@ Spells, by design, are limited in scope and harder to modify than a ritual, espe
 
 Rituals are more open ended and flexible than spells, making it easier for players to modify them to their own ends. If players wish to simply amplify a ritual, that is make them last longer, effect a larger area, or have a stronger effect, it is often enough to either significantly increase the time required to perform the ritual or to increase the quantity or quality of any required components. On the other hand, changing the effect of a ritual should require new or different components, or add a new restriction or step to the performance of a ritual. 
 
-If the ritual modification seems like it would carry some risk with it, add a WIL Save to avoid a bad outcome.
+If the ritual modification carries risk, add a WIL Save to avoid a bad outcome.

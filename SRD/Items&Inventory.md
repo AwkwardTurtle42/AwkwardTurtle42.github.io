@@ -18,7 +18,7 @@ You can carry as much as makes sense in your inventory without tracking it. Howe
 Armor (i.e. 1 Armor) subtracts its score from the result of damage rolls against you. Items, such as shields, that grant bonus armor only apply while the item is held (i.e. +1 Armor).
 You cannot have more than Armor 3 in total.
 
-Single pieces of armor that grants 2 Armor are rare, and usually carry some sort of drawback or limitation.
+Single pieces of equipment that grant 2 Armor are rare, and usually carry some sort of drawback or limitation.
 
 ## Ammo
 
@@ -27,12 +27,32 @@ Unique or specialty ammo is tracked individually where appropriate.
 
 ## Wilderness Survival
 
-This is an optional mechanic to add pressure to return to civilization or to focus the game on survival during long trips through the wilderness. It will make deciding what to carry and how many Supplies to bring a focal point of the game. 
+When you make camp check for survival requirements:
 
-Supplies (*bulky*) can be purchased in most settlements and cities, and are an abstraction of food, water, and general survival equipment. A single *bulky* unit of Supplies supports the entire party for a full day.
+ * Good Food
+ * Clean Water
+ * Warm Shelter
 
-Once a day while away from easy access to food and water, the party picks someone to lead the survival efforts. That person makes a Save with an Attribute based on their approach (fishing, hunting, scavenging, etc.).
+With all three after 6 hours you are rested and can heal 1 step of 1 attribute.
 
-Succeed and you find enough resources to feed the party. Fail and the party must consume Supplies to avoid deprivation.
+If you have two you'll be rested, but cannot heal.
 
-This Save can be *enhanced* or *impaired* as usual based on the hospitality (or lack thereof) of the environment or weather conditions.
+If you have one you'll be *deprived* the next day.
+
+If you have none you'll be *deprived* the next day, and you lose 1 step of 1 attribute (your choice) due to exhaustion.
+
+## Craft
+
+Each character can make one attempt at providing Food, Water, or Shelter for themselves and their group when making camp.
+
+Make a Save using an appropriate Attribute.
+
+If you have appropriate tools, abilities, or skills you can provide for the whole group on a success, and for only yourself on a failures. Otherwise you can provide for yourself on a success, and no one on a failure.
+
+Adverse weather, sparse or abundant surroundings, and other factors can *enhance* or *impair* this Save as usual. Particular extreme situations might make them entirely impossible, or succeed automatically.
+
+## Supplies
+
+Supplies are a *bulky* item with three uses. They can be purchased for 30 coins almost anywhere (or refilled at 10 coins per use). They represent water, preserved food, and simple shelter.
+
+Each use of Supplies can replace one missing requirement of Food, Water, or Shelter while making camp.

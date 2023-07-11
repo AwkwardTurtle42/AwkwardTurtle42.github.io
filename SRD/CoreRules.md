@@ -17,15 +17,17 @@ Characters have three Attributes represented by dice ranging in size from d4 to 
 
 **Willpower (WIL):** Represents focus, alacrity, and concentration.
 
-A d4 is weak, d6 is average, d8 is noteworthy, d10 is strong and d12 is legendary.
-
 ## Grit
 
 Grit is a character’s mental concentration and ability to avoid harm. Grit is lost when being attacked, performing complex tasks like casting Spells, or attempting to carry too much. It is not a measure of physical health, and lost Grit is restored quickly.
 
+Grit is equal to total "steps" of DEX and WIL. A character with high DEX and WIL will have high Grit, due to good reflexes and situational awareness.
+
 ## Dice
 
-Dice range in size from d4 to d12. If an effect tells you to step a die up or down, move it right or left along this track:
+Dice have five steps starting at d4 and ending at d12. A d4 is weak, d6 is average, d8 is noteworthy, d10 is strong and d12 is legendary.
+
+If an effect tells you to step a die up or down, move it right or left along this track:
 
 d4 ↔ d6 ↔ d8 ↔ d10 ↔ d12
 
@@ -48,6 +50,7 @@ When you’re directly opposed by another character or creature, you’ll roll a
 
 If you have to make a Save with an Attribute whose die is below a d4 (at zero), you automatically fail.
 
+When taking damage in combat you'll need to roll higher than the amount you suffered to avoid consequences. See Combat for more details.
 
 ## Save Modifiers
 
