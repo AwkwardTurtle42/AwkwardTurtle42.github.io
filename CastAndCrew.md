@@ -9,7 +9,7 @@ nav_order: 9
 
 This Cast & Crew are a collection of pre-generated characters, one for each Calling. They can be used as pre-made characters for players in quick start games (just roll each of your Attribute Dice on the Starting Equipment Tables), or NPCs for GM use to populate the world (or as Friends!). They also serve as examples for how a given Calling might be changed, modified, tweaked, or twisted into a slightly different shape to fit a player’s character concept.
 
-## Alchemist - Miss Strawberry Shroom
+## Alchemist - Piksel, 
 
 4 Grit, d6 STR, d6 DEX, d8 WIL
 

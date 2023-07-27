@@ -7,25 +7,23 @@ nav_order: 1
 
 # Alchemst
 
-*Through branch and root you know how to unlock the secrets of the earth. You use this knowledge to wrench the very world to will.*
+## You Are An Alchemist
 
-## Summary
+An expert at distillation and brewing. Via chemical and magical means you are able to unlock the potential of natural substances and combine them to create power effects. Nothing is beyond your means, so long as you're able to find sufficiently powerful ingredients.
 
-**Branch and Bone:** You can distill plants, minerals, animal parts, and other ingredients into potion components. With the necessary components, you can brew doses of any potion whose recipe you know.
+You'll start with a **Recipe Book** (*bulky*) which holds your potion recipes. If you obtain Spells or Rituals in the future, this book also acts as a Grimoire which can store magic. 
 
-### You Start With
+Create **two potion recipes** to start with, you have **3 Vials** of each of those potions already brewed. 
 
- * Recipe Book: (bulky) Acts as a Grimoire that also stores your potion recipes. Contains two potion recipes and the Locate Object ritual.
- * Alchemy Supplies
- * One complete potion for each of your starting recipes.
+### Core Ability - Potion Making
 
-### Potion Recipies
+A potion is a liquid substance consumed or applied in some way to create a magical effect.
 
-A potion recipe must contain at least two dissimilar components along with a brewing process. Any potion effect is possible, but the required components and process may be esoteric or prohibitive. 
+You can distill plants, minerals, animal parts, and other ingredients into potion components. With the necessary components, you can brew doses of any potion whose recipe you know.
 
-You start with two recipes already contained in your Recipe Book.
+With time and effort you can develop new potion recipes. Explain the desired effects along with the proposed recipe. A potion recipe must contain at least two dissimilar components along with a brewing process. Brewing will usually take at least an hour and will produce 3 doses of the potion.
 
-To create a new potion recipe, explain the desired effects along with the proposed recipe. 
+Any potion effect is possible, but the required components and process may be esoteric or prohibitive. 
 
 The GM will tell you if it will work, or if one or more more of the following are true:
 
@@ -43,4 +41,4 @@ Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Abili
  * **Dungeon Delicatessen:** You always know the best way to break down and prepare any creature for the safest and tastiest dining experience. When you cook and eat a monster organ temporarily gain a lessened version of an associated trait or ability. Lasts until you eat your next meal.
  * **Fine Palate:** You are (optionally) immune to the effects of anything you imbibe, and can identify all ingredients it contains.
  * **Homebrewer:** You can brew alcoholic beverages with mild potion effects. Beverage recipes require only one component plus a fermentable (grain, fruit, sugar, etc.). 
- * **Topical Treatment:** You can produce potions that are applied in ways other than drinking, such as breathable fumes, topical ointments, or smeared onto weapons.
+ * **Complex Compounding:** You can produce non-liquid potions that take the form of solids or gasses.
