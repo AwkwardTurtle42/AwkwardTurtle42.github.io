@@ -15,7 +15,7 @@ You'll start with a **Recipe Book** (*bulky*) which holds your potion recipes. I
 
 Create **two potion recipes** to start with, you have **3 Vials** of each of those potions already brewed. 
 
-### Core Ability - Potion Making
+## Core Ability - Potion Making
 
 A potion is a liquid substance consumed or applied in some way to create a magical effect.
 
@@ -34,7 +34,7 @@ The GM will tell you if it will work, or if one or more more of the following ar
  * The process is uncertain, and the final effect will depend on a random roll.
  * It will have an unintended side effect when consumed.
 
-### Advanced Abilities
+## Advanced Abilities
 
 Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 

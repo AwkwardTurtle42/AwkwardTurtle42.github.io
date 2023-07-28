@@ -7,24 +7,23 @@ nav_order: 2
 
 # Animal's Companion
 
-*Ranger, beastmaster, wildspeaker, hunter… the labels don’t matter, what’s important is that your companion is by your side. Your bond extends to the ends of the world and beyond.*
-
 ## You Are An Animal's Companion
 
-**Animal Companion:** You have formed a special bond with a creature. It will follow your commands and is unfailingly loyal. Should the worst happen, your companion will return to your side from beyond the Black River as a ghost. You can spend your own XP on your companion as you would on yourself.
+You have formed a special bond with a creature. It will follow your commands and is unfailingly loyal. 
 
-### You Start With
+You start with your **Animal Companion** and a bag of their favorite snacks.
 
- * Your Companion
- * A Bag of Beast Snacks (whatever your companion prefers)
+## Core Ability - Animal Companion
 
-### Core Ability - Animal Companion
-
-Construct your Companion by combining three abilities with these base stats:
+Construct your Companion by combining three perks with these base stats:
 
 3 Grit, d6 STR, d6 DEX, and d6 WIL, and a d6 attack
 
 *(A bird or other flying Companion requires you to choose the Flying Ability.)*
+
+Should the worst happen, your companion will return to your side from beyond the Black River as a ghost. You can spend your own XP on your companion as you would on yourself.
+
+### Companion Perks
 
  * **Big:** Step up STR and Attack.
  * **Fast:** Step up DEX and gain +2 Grit
@@ -39,7 +38,7 @@ Construct your Companion by combining three abilities with these base stats:
  * **Tricky:** +2 Grit and a special skill.
  * **Special:** Some other unique thing (good at digging, chromatophores, is a swarm, etc.)
 
-### Advanced Abilities
+## Advanced Abilities
 
 Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 
