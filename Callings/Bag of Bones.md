@@ -21,9 +21,9 @@ Your **Fearsome Visage** will be initially frightening to most creatures, unless
 
 You do not require food, water, or sleep and as long as your skull remains intact you cannot fully die.
 
-Direct Damage you suffer never overflows, instead Critical Damage causes a limb (or other significant part of your body) to fly off in addition to stepping down the relevent die. You don’t restore Attribute Dice by resting, but instead by replacing lost or damaged bones.
+Direct Damage you suffer never overflows, instead Critical Damage causes a limb (or other significant part of your body) to fly off in addition to stepping down the relevant die. You don’t restore Attribute Dice by resting, but instead by replacing lost or damaged bones.
 
-If you willingly detatch a limb, you remain in control of it (but are still at risk of losing STR if those detached parts are broken).
+If you willingly detach a limb, you remain in control of it (but are still at risk of losing STR if those detached parts are broken).
 
 ## Advanced Abilities
 

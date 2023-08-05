@@ -30,7 +30,7 @@ Choose the blessing your Patron grants you
 * **Tip Of The Iceberg:** Your volume of water you can control expands 10 fold.
 * **Healing Waters:** Stabilize wounds by pouring water over them. Restore a damaged Attribute to maximum after 6 hours.
 
-### Advanced Abilities
+## Advanced Abilities
 
 Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 

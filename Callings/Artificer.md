@@ -11,7 +11,7 @@ nav_order: 4
 
 You're good at taking things apart and putting them back together, *usually* leaving them better than they started.
 
-You start with three **Masterwork Items** you're particularly proud of a **Weapon** (1d6 damage), **Armor** (1 Armor), and a **Tool** (1 Improvement). Distribute 3 additional Improvements amongst these items and decide what exactly they are.
+You start with three **Masterwork Items** you're particularly proud of a **Weapon** (1d6 damage), **Armor** (1 Armor), and a **Tool** (1 Improvement). Distribute 3 additional Improvements among these items and decide what exactly they are.
 
 ## Core Ability - Walking Workshop
 
@@ -44,7 +44,7 @@ Your **Masterwork** items return to their original state if broken.
 * **Detecting:** Sense a specific thing, or grant a specific type of perception.
 * **Special:** A unique quality or ability.
 
-### Advanced Abilities
+## Advanced Abilities
 
 Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 
