@@ -13,7 +13,7 @@ You are devoted to something larger than yourself. It might be a deity, an organ
 
 Declare what it is you are devoted to, then choose a **Vow** you must live by, and two **Boons** your devotion grants you. 
 
-You start with a piece of Armor (1 Armor) decorated, indicative, or otherwise emblematic of your Devotion.
+You start with a piece of **Armor** (1 Armor) decorated, indicative, or otherwise emblematic of your Devotion.
 
 ## Core Ability - Oath of Devotion
 

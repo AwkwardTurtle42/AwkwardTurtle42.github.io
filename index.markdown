@@ -5,15 +5,18 @@ layout: default
 title: Home
 nav_order: 1
 ---
+
+[![Brighter Worlds](TitleImage.png "Brighter Worlds RPG")](https://awkwardturtle.itch.io/brighter-worlds)
+
 **Brighter Worlds** is a whimsical fantasy tabletop RPG with modular crunch.
 
-Writing & Layout by David Lombardo ([twitter](https://twitter.com/AwkwardTurtle42),[itch.io](https://awkwardturtle.itch.io/))
+Writing & Layout by David Lombardo ([AwkwardTurtle Games](https://awkwrdturtle.games))
 
-Fully laid out PDF version, featuring [Evlyn Moreau](https://www.patreon.com/evlynmoreau)'s artwork is available [here](https://awkwardturtle.itch.io/brighter-worlds).
+Fully illustrated PDF version, featuring [Evlyn Moreau](https://www.patreon.com/evlynmoreau)'s artwork, is available [free on itch.io](https://awkwardturtle.itch.io/brighter-worlds). This PDF is **not** currently at version parity with this SRD, instead it matches the [live site's alpha version 0.9.3](https://brighterworldsrpg.com/).
+
+It is unfinished, currently at Beta Version 0.1, but approaching feature completeness.
 
 Brighter World’s text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-
-It is unfinished, currently at version 0.9.3
 
 Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](https://www.bastionland.com/)), Cairn by Yochai Gal ([cairnrpg.com](https://cairnrpg.com/)), and Macchiato Monsters by Eric Nieudan ([@surcapitaine](https://twitter.com/surcapitaine)).
 

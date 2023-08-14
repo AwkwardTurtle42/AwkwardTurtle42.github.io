@@ -55,7 +55,7 @@ Making a habit of using Reaction Rolls is a good way to avoid having every encou
 
 If your players wish to play as something other than humans, it’s usually fine to do so without changing anything else. As Brighter Worlds does not start from a place of balance or resource tracking, minor abilities like darkvision, water breathing, or similar do not require any “compensation” for balance.
 
-If they want more significant species abilities like flight, consider creating a custom Advanced Ability to reflect that and have the player choose that as their initial, free choice.
+If they want more significant species abilities, consider creating a custom Advanced Ability to reflect that and have the player either take it as their first unlock, or potentially go into "XP Debt" to start the game with it already unlocked.
 
 ## Player Rumors
 
@@ -69,13 +69,21 @@ The degree to which the GM and players share narrative control of the world shou
 
 ## NPCs and Monsters
 
-A starting point for any NPC is 4 Grit, a d6 weapon, d6 STR, d6 DEX, and d6 WIL. 
+The default NPC is 3 Grit, a d6 weapon, d6 STR, d6 DEX, and d6 WIL. This will work for almost everything, especially in a pinch.
+
+Otherwise, start at 1 Grit, and d4 in each Attribute.
 
 Attributes: d4 is weak, d6 is average, d8 is noteworthy, d10 is strong and d12 is legendary. Adjust attributes only for significant exceptions to the average.
 
-Set Grit equal to the total steps in DEX and WIL. Subtract 2 if the creature is meek or untrained in combat, add 2 if they're alert or skilled in combat.
+High STR is for strong and durable enemies, low is for fragile and frail.
 
-High STR in particular should be used sparingly, each step up is a significant increase in durability. Overuse of high STR, Grit, and Armor can cause combat to drag. 
+High DEX is for fast and nimble enemies, low is for slow and clumsy.
+
+High WIL is for clever and brave enemies, low is for dull and cowardly.
+
+Increase Grit for each time DEX and WIL are stepped above d4. Subtract 2 Grit if the creature is meek or untrained in combat, add 2 Grit if they're alert or skilled in combat.
+
+High STR should be used sparingly as each step up is a significant increase in durability. Overuse of high STR, Grit, and Armor can cause combat to drag.
 
 Use flavor and style to make NPCs stand out, not everything needs unique attributes or abilities.
 
@@ -94,7 +102,7 @@ Abilities:
 
 Damage and armor can be used as is, Grit is set as usual (equal to total steps of DEX and WIL), but can also be set equal to HP for convenience.
 
-Most spells can be used as is, but be aware that casting spells is functionally free. Spells that heal attributes, generate resources, have long lasting effects, or specific requirements for casting become Rituals.
+Most spells can be used as is, but be aware that casting spells is functionally free. Spells that heal attributes, generate resources, have long lasting effects, or specific requirements for casting should become Rituals.
 
 ## Adjudicating Magic
 
