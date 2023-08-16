@@ -11,7 +11,7 @@ nav_order: 7
 
 The only priest of a small god you carry with you. The god's smallness may be in the scope of its domain, the narrowness of what it controls, or the degree to which it can excert its power. Regardless you are bound to it, and may speak with its words to alter the world around you.
 
-Name your god, and define the Domain it rules over. This Domain dictates the scope of the freeform magic your God gives you access to.
+Name your god, define the **Domain** it rules over, and describe the small physical form it has manifested as. The Domain dictates the scope of the freeform magic your God gives you access to.
 
 You start with a **d8 Domain Die** and **Holy Vestments** which indicate your station.
 

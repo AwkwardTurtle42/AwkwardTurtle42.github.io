@@ -29,15 +29,17 @@ After receiving Direct Damage, make a STR Save and roll higher than that amount 
 
 This Save can be *impaired* due to being overwhelmed by multiple attackers, hit with a specific bane or weakness, or other particularly harmful attacks. This Save can be *enhanced* due to being focused on defense, being attacked with something you're resistant to, or other beneficial circumstances.
 
-This Save defaults to STR, but attacks or weapons that indicate they deal Direct Damage DEX or WIL caused Critical Damage Saves with the respective attribute. 
+This Save defaults to STR, but attacks or weapons that indicate they deal Direct Damage DEX or WIL causes Critical Damage Saves with the respective attribute. 
 
 ## Critical Damage
 
-If you suffer Critical Damage, step down your STR and suffer any Critical Damage effects from your attackers.
+If you suffer Critical Damage, step down your STR and suffer any Critical Damage effects from your attackers. (If you made your Critical Damage Save with something other than STR, step that Attribute down instead).
 
 If your STR steps down below a d4 (zero STR) you become *incapacitated*. An *incapacitated* creature can only weakly crawl, and will die in an hour without assistance. First aid from an ally gets you back on your feet, but doesn’t restore your STR.
 
 Taking Direct Damage, or trying to step down your die, at zero STR is lethal.
+
+See [Harm and Healing](/Rules/Harm & Healing) for more details.
 
 ## Overflow Damage
 
@@ -54,6 +56,14 @@ If you attack while disadvantaged (through cover, while blind, unarmed, etc.) it
 ## Blast
 
 Attacks with the *blast* quality affect all targets in the area. This can refer to actual explosions, fireballs, whirling blades, or to a giant swinging a club in a wide arc.
+
+## Non-Combat Damage
+
+While not in combat, damage ignores Grit and is dealt directly as Critical Damage.
+
+For example, if a player fails a DEX Save to avoid being hit by a trap they immediately take Critical Damage and their STR step's down.
+
+This is to avoid rolling two or more Saves for a given situation. If the character has already failed a Save to avoid a trap or danger, they're wounded rather than rolling a second time to see if there was *really* a consequence to the failure.
 
 ## Morale Saves
 

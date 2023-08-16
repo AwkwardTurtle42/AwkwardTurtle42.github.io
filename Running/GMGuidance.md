@@ -27,11 +27,15 @@ Always err on the side of giving more information than you think is necessary. S
 
 For GMs coming from games with those types of rolls, try the following. When a player says they look at or examine something in a way where you’d normally call for a roll, instead simply tell them what they’d have learned had they succeeded at that roll. If there’s some risk involved, tell them what they can figure out from where they are and explain how moving closer, interacting more, or further examination might be risky. Ask what they want to do, and use the guidance for When To Roll as usual.
 
-## Environmental Damage
+## Out of Combat Damage
 
-Environmental damage like lava, fire, acid pits, etc. scales from d4 to d12 depending on severity and should usually bypass Grit and be dealt as Direct Damage.
+Damage out of combat causes Critical Damage directly. That is, failing a Save to avoid a swinging axe trap instantly drops STR by one step.
 
-Example: If a character falls into an acid pit they take d8 Direct Damage each round, with a random carried item destroyed upon taking Critical Damage.
+Environmental damage like lava, fire, acid pits, etc. likely deals Critical Damage each Round it's present. Characters should usually have an opportunity or Save prior to avoid it entirely.
+
+For minor injuries out of combat, *deprive* the character or *impair* one Attribute until it's treated. 
+
+This is all to avoid double dipping: don't roll a Save to avoid harm, then roll a damage die, then have them roll *another* Save to avoid Critical damage. Once a Save to avoid harm fails, inflict the harm immediately as Critical Damage.
 
 ## Reaction Rolls
 
