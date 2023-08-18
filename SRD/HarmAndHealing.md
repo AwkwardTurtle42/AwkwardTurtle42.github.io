@@ -11,7 +11,7 @@ nav_order: 4
 
 By default all Direct Damage is dealt to STR. In some circumstances mystical energies or psychic horror might deal Direct Damage to WIL, whereas attacks that seek to entangle or slow might deal Direct Damage to DEX.
 
-In these circumstances make a Direct Damage Save as usual, but using the affected Attribute rather than STR.
+In these circumstances make a Critical Damage Save as usual, but using the affected Attribute rather than STR.
 
 ## Attribute Loss
 

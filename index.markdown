@@ -10,7 +10,7 @@ nav_order: 1
 
 [![Brighter Worlds](TitleImage.png "Brighter Worlds RPG")](https://awkwardturtle.itch.io/brighter-worlds)
 
-Expect unedited text, typos, and missing hyperlinks. If you're looking for the current stable version go [here](https://brighterworldsrpg.com/).
+Expect unedited text, typos, and missing hyperlinks. If you're looking for the current stable version go [here](https://brighterworldsrpg.com/). If you have feedback, please get in touch with me on the itch page (or anywhere else you can find me).
 
 **Brighter Worlds** is a whimsical fantasy tabletop RPG with modular crunch.
 

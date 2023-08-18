@@ -21,8 +21,6 @@ You may attune your **Arcane Storage Crystals** with a ritual from your Grimoire
 
 Discharge a Storage Crystal to perform the attuned ritual immediately (a single combat round rather than 10 minutes), and without needing to sacrifice any components. Once discharged, a crystal must be attuned to a ritual to be used again.
 
-Creating a new Arcane Storage Crystal costs 1 permanent Max Grit. Each crystal is bound to you (either physically or magically) and cannot be lost or stolen.
-
 Anytime you spend XP you may convert an appropriate crystal in your posession into a new Storage Crystal. When you do, choose a new ritual to add to your Grimoire.
 
 ## Advanced Abilities

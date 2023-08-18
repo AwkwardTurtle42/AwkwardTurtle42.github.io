@@ -49,7 +49,7 @@ You start with:
 
  * A purse with 50 coins.
  * A bundle of torches.
- * A pack of Supplies (bulky) (see Pg XX for details)
+ * A pack of [Supplies (bulky)](/SRD/Items&Inventory#supplies)
 
 Most Callings grand additional equipment, weapons, or other useful items.  Make any item selections or choices required by your Calling.
 
@@ -83,7 +83,7 @@ Roll each of your starting Attributes twice, then choose either combination of F
 | 5.  | Concealable                                 | Lockpick Set |
 | 6.  | Wearable                                    | Rope (100ft) |
 | 7.  | Multi-Function (roll two items and combine) | Air Bladder  |
-| 8.  | Weaponized (roll on STR table and combine)  | Compass      |
+| 8.  | Weaponized (d6 Damage)  					| Compass      |
 
 ### WIL (Miscellanea)
 

@@ -13,21 +13,23 @@ nav_order: 6
 
 Spells are quick and easy to cast, but tend to have flashy and fleeting effects.
 
-To cast a spell chant it aloud while using both hands to channel the magic. You must have your Grimoire or a Scroll on your person.
+To cast a Spell chant it aloud while using both hands to channel the magic. You must have your Grimoire or a Scroll on your person.
 
 If you have Grit, set it to zero.
 
-If you don’t have Grit, make a WIL Save. If you fail, step down your WIL and choose if you are knocked unconscious or the spell fails.
+If you don’t have Grit, make a WIL Save. If you fail, step down your WIL and choose if you are knocked unconscious or the Spell fails.
 
-If a spell does not list a duration it lasts as long as you concentrate on, it but you are deprived as long as you do so. 
+If a Spell does not list a duration it lasts as long as you concentrate on, it but you are [*deprived*](/SRD/HarmAndHealing.html#deprivation) as long as you do so. 
 
-Both hands must be involved in casting the spell. You can be holding an object related to the spellcasting (a Grimoire, wand, magic staff, etc.), but you *cannot* cast while holding weapons or other unrelated objects. 
+Both hands must be involved in casting the spell. This includes holding wands, staffs, the Grimoire, or other related objects, but *not* weapons or similar. Put your sword away before casting magic! 
+
+If casting a Spell from a scroll, the scroll is discharged afterwards and cannot be used for a full day.
 
 ## Spells In Combat
 
-When you cast a spell against a creature that is actively trying to avoid it, if the spell deals damage use that damage as a normal attack.
+When you cast a Spell against a creature that is actively trying to avoid it, if the Spell deals damage use that damage as a normal attack.
 
-If the spell does not deal damage, roll your WIL as though it were an attack. If that attack deals Direct Damage, your spell takes effect instead of causing a Critical Damage Save.
+If the Spell does not deal damage, roll your WIL as though it were an attack. If that attack deals Direct Damage, your Spell takes effect instead of causing a Critical Damage Save.
 
 ## d50 Spells
 

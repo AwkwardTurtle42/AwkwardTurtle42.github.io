@@ -21,7 +21,7 @@ Characters have three Attributes represented by dice ranging in size from d4 to 
 
 Grit is a character’s mental concentration and ability to avoid harm. Grit is lost when being attacked, performing complex tasks like casting Spells, or attempting to carry too much. It is not a measure of physical health, and lost Grit is restored quickly.
 
-Grit is equal to total "steps" of DEX and WIL. A character with high DEX and WIL will have high Grit, due to good reflexes and situational awareness.
+Grit is equal to 1, +1 for each time Max DEX and WIL have been stepped up. A character with high DEX and WIL will have high Grit, due to good reflexes and situational awareness.
 
 ## Dice
 
