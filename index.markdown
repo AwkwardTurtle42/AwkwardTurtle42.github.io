@@ -6,13 +6,17 @@ title: Home
 nav_order: 1
 ---
 
+# DEVELOPMENT BRANCH - THIS SRD IS A WORK IN PROGRESS AND INCOMPLETE. 
+
 [![Brighter Worlds](TitleImage.png "Brighter Worlds RPG")](https://awkwardturtle.itch.io/brighter-worlds)
+
+Expect unedited text, typos, and missing hyperlinks. If you're looking for the current stable version go [here](https://brighterworldsrpg.com/).
 
 **Brighter Worlds** is a whimsical fantasy tabletop RPG with modular crunch.
 
 Writing & Layout by David Lombardo ([AwkwardTurtle Games](https://awkwrdturtle.games))
 
-Fully illustrated PDF version, featuring [Evlyn Moreau](https://www.patreon.com/evlynmoreau)'s artwork, is available [free on itch.io](https://awkwardturtle.itch.io/brighter-worlds). This PDF is **not** currently at version parity with this SRD, instead it matches the [live site's alpha version 0.9.3](https://brighterworldsrpg.com/).
+A fully illustrated PDF, featuring [Evlyn Moreau](https://www.patreon.com/evlynmoreau)'s artwork, is available [free on itch.io](https://awkwardturtle.itch.io/brighter-worlds). This PDF is **not** currently at version parity with this SRD, instead it matches the [live site's alpha version 0.9.3](https://brighterworldsrpg.com/).
 
 It is unfinished, currently at Beta Version 0.1, but approaching feature completeness.
 

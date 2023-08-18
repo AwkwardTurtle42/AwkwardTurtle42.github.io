@@ -21,7 +21,7 @@ You have been hired by a relative of Velma Cranberry, a recent graduate of Wizar
 
 ## Encounter Table (d6)
 
-Using the [Encounter Roll](/Running/DungeonCrawling) rules.
+Using the [Dungeon Crawling](/Running/DungeonCrawling) rules.
 
 1. **Unpaid Intern** - Scurrying around carrying documents, cups of coffee, or on random errands for the Board. Not-hostile to players under any circumstances.
 2. **Skeleton Staff** - Raised from the Hiring Pool, resentful of the company. Will attempt to help the players to the extent that their contract allows. 

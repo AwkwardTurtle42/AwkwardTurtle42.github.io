@@ -19,9 +19,9 @@ Spend XP to unlock abilities and make your character stronger. Spending XP repre
 
 Spend 2 XP to increase a d4 Attribute to a d6, 3 XP from d6 to d8, 4 XP from d8 to d10, and 5 XP from d10 to d12. Attributes cannot be raised higher than d12.
 
-Raising your Max DEX and WIL also raises your Max Grit which is always the total steps of DEX and WIL.
+Each time you step up your Max DEX and WIL your Max Grit also increases by 1.
 
-Advanced Abilities are potential ways your Calling can grow and advance from practice and experience.
+Advanced Abilities are ways your Calling can grow and advance from practice and experience.
 
 Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two.
 
