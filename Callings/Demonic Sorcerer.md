@@ -23,7 +23,7 @@ Anytime you spend XP, your Demon recalls a random spell or ritual from a prior h
 
 You may cast or perform any Spells or Rituals your demon knows as though it were a Grimoire. It can learn new Spells and Rituals the same way you would transfer them into a normal Grimoire. 
 
-By stepping down your WIL you can let your Demon to cast a Spell for you. Doing so no longer requires use of your hands, or paying the usual costs (setting your Grit to zero or making a WIL Save).
+By stepping down any of your Attributes you can let your Demon to cast a Spell for you. Doing so no longer requires use of your hands, or paying the usual costs (setting your Grit to zero or making a WIL Save) and does not take up your action in combat.
 
 ## Advanced Abilities
 

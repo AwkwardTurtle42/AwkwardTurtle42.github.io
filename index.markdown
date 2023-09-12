@@ -28,9 +28,13 @@ Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](https://www
 
 * Additions (current and planned)
     * Unfinished Business is a small "dungeon" adventure intended to be an introduction to the playstyle and tone of Brighter Worlds.
-    * Example of Play running through said adventure still a WIP but will be added soon.
-    * Players now start with Coins, and there *will soon* be an actual price list/cost guideline included.
-    * Pre-Gens, which I'm counting as an addition because I'm scrapping all current ones and starting over.
+    * 3rd Party License and Logo
+
+* To Do
+    * Example of Play running through Unfinished Business 
+    * Price list to reflect the addition of Coins
+    * Pre-Gens, current ones are being scrapped and replaced.
+
 
 * Changes
     * Grit is now derived from DEX and WIL. Grit starts at 1 and goes up by one each time Max DEX or WIL is stepped up. This is intended to serve multiple purposes.

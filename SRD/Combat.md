@@ -15,7 +15,7 @@ During a Round, each side of a conflict acts together. Each individual on a side
 
 Any actions that carry risk require a Save as usual, usually against the creature you’re engaged with.
 
-The players' side always acts first in a Round. However, if the players are at risk of being surprised or caught flat footed, each player should make a DEX Save versus the opponent. Failure means they do not act during the first round, success means they act first as usual.
+The players' side always goes first in a Round. However, if it's not obvious that the players would be able to act before their opponents each player should make a DEX Save versus the opponent. Failure means they do not act during the first round, success means they act first as usual.
 
 ## Attacking
 

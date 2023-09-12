@@ -7,6 +7,10 @@ nav_order: 10
 
 # Unfinished Business
 
+[![Unfinished Business Map](/Images/UnfinishedBusinessMapSmall.png "Click For Full Size")](/Images/UnfinishedBusinessMap.png)
+
+*Map by Evlyn Moreau, scroll to bottom for player facing version with secret room hidden.*
+
 Unfinished Business is a small "dungeon" intended as a short intro adventure for Brighter Worlds. It is designed to allow for many approaches to problem solving: from sneaking, negotiating, magic, fighting, to clever planning. An Example of Play is provided to show both how the rules work at the table as well as an indication of how the game is intended to be run.
 
 ## Premise (Context for the GM)
@@ -31,10 +35,6 @@ Using the [Dungeon Crawling](/Running/DungeonCrawling) rules.
 6. **Head Hunter** -  Dullahan recruiter who will drag talented prospects to the Hiring Pool.
 
 ## Locations
-
-[![Unfinished Business Map](/Images/UnfinishedBusinessMap.png "Click For Full Size")](/Images/UnfinishedBusinessMap.png)
-
-*Map by Evlyn Moreau*
 
 The interior of TSI has the appearance of a modern corporate building but rendered in damp, dank dungeon stone. It is all well-lit, with magical lighting tubes affixed to the ceiling. All the trappings of a modern office building are found embedded in the setting of a classic fantasy dungeon.
 
@@ -150,3 +150,7 @@ Company Policy (1d4):
 2. Casual Friday! Everyone must be wearing at least one "fun" article of clothing.
 3. Wellness Wednesday! To prevent injury, it is prohibited to carry more than one *bulky* item.
 5. Re-Org! Each player is randomly assigned another player as their manager. All actions must receive verbal or written permission from a manager.
+
+## Player Facing Map
+
+[![Unfinished Business Map](/Images/UnfinishedBusinessPlayerSmall.png "Click For Full Size")](/Images/UnfinishedBusinessPlayer.png)

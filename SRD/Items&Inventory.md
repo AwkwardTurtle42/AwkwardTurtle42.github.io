@@ -16,7 +16,7 @@ You can carry as much as makes sense in your inventory without tracking it. Howe
 ## Armor
 
 Armor (i.e. 1 Armor) subtracts its score from the result of damage rolls against you. Items, such as shields, that grant bonus armor only apply while the item is held (i.e. +1 Armor).
-You cannot have more than Armor 3 in total.
+You cannot have more than 3 Armor in total.
 
 Single pieces of equipment that grant 2 Armor are rare, and usually carry some sort of drawback or limitation.
 

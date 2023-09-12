@@ -21,7 +21,7 @@ You also start with a bag of their favorite snacks.
 
 ## Core Ability - Animal Companion
 
-Your familiar is unfailingly loyal and will follow your commands.
+Your companion is unfailingly loyal and will follow your commands.
 
 Should the worst happen, your companion will return to your side from beyond the Black River as a ghost. 
 
