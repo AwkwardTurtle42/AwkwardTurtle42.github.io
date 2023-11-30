@@ -15,14 +15,6 @@ All three of your Attributes start at a d4.
 
 Step up one Attribute twice (to a d8), and another Attribute once (to a d6).
 
-## Callings
-
-All characters are generalists. Everyone can swing a sword, sneak around, or cast a spell (given access to a Grimoire). Callings define the things that put you ahead of the pack, give you an extra edge, or let you break the rules. 
-
-[Choose a Calling](/Callings/). 
-
-You may want to make tweaks to a Calling’s abilities or items to make it fit your concept. Talk with the GM and look at the [Cast & Crew](/Cast/) to see examples of modified Callings.
-
 ## Grit
 
 Grit is a character’s mental concentration and ability to avoid being harmed. It represents a combination of reflexes and situational awareness.
@@ -35,7 +27,15 @@ Your Maximum Grit starts at 1, plus 1 for each time you stepped up DEX and WIL.
 
 *d6 DEX + d8 WIL = 4 Grit*
 
-## Core Ability
+## Callings
+
+All characters are generalists. Everyone can swing a sword, sneak around, or cast a spell (given access to a Grimoire). Callings define the things that put you ahead of the pack, give you an extra edge, or let you break the rules. 
+
+[Choose a Calling](/Callings/). 
+
+You may want to make tweaks to a Calling’s abilities or items to make it fit your concept. Talk with the GM and look at the [Cast & Crew](/Cast/) to see examples of modified Callings.
+
+### Core Ability
 
 Your Calling grants you a Core Ability that forms the basis of your character’s power.
 
@@ -50,14 +50,15 @@ You start with:
  * A purse with 50 coins.
  * A bundle of torches.
  * A pack of [Supplies (bulky)](/SRD/Items&Inventory#supplies)
+ * A random item from each Attribute Table below.
 
-Most Callings grand additional equipment, weapons, or other useful items.  Make any item selections or choices required by your Calling.
+Many Callings also grant additional equipment, weapons, or other useful items.  Make any item selections or choices required by your Calling.
 
-Then roll your Attributes on each Starting Equipment table to see what else you’re carrying.
-
-Roll each of your starting Attributes twice, then choose either combination of Flair and Item from their respective lists. 
+Next, roll your Attributes on each Starting Equipment table to see what else you’re carrying. Roll each of your starting Attributes twice, then choose either combination of Flair and Item from their respective lists. 
 
 *If you roll your d6 STR and get a 2 and 6 you can either have a Rugged Flail or a Blackened Bow.*
+
+Finally, if you need any minor, mundane items to round out your character let the GM know now. Your character can be assumed to have collected small items relevent to their life prior to the start of the game, but after the first session if you need something you'll have to find it in play!
 
 ### STR (Weapons)
 

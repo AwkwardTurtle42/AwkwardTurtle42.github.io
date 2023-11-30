@@ -29,6 +29,7 @@ Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](https://www
 * Additions (current and planned)
     * Unfinished Business is a small "dungeon" adventure intended to be an introduction to the playstyle and tone of Brighter Worlds.
     * 3rd Party License and Logo
+    * GM Toolbox Section - moved the Friends! rules and the Wilderness Survival rules there. 
 
 * To Do
     * Example of Play running through Unfinished Business 
@@ -83,3 +84,5 @@ Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](https://www
     * Out of Combat Damage rules
         * Added to both Combat (hah) and GM Guidance sections.
         * Bypasses Grit and simply inflicts Critical Damage immediately.
+    * Eulogy is now called Epitaph
+        * It's marginally more accurate (we're writing it down) and also just more fun to say IMHO. No actual functional changes.

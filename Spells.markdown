@@ -19,9 +19,9 @@ If you have Grit, set it to zero.
 
 If you don’t have Grit, make a WIL Save. If you fail, step down your WIL and choose if you are knocked unconscious or the Spell fails.
 
-If a Spell does not list a duration it lasts as long as you concentrate on, it but you are [*deprived*](/SRD/HarmAndHealing.html#deprivation) as long as you do so. 
+If a Spell does not list a duration it lasts as long as you continue to concentrate on it, but you are [*deprived*](/SRD/HarmAndHealing.html#deprivation) and cannot regain your Grit as long as you do so.
 
-Both hands must be involved in casting the spell. This includes holding wands, staffs, the Grimoire, or other related objects, but *not* weapons or similar. Put your sword away before casting magic! 
+Both hands must be involved in casting the spell. This includes holding wands, staffs, the Grimoire, or other related objects. You *cannot* be holding standard weapons or other objects. Put your sword away before casting magic! 
 
 If casting a Spell from a scroll, the scroll is discharged afterwards and cannot be used for a full day.
 

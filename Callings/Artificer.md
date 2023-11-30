@@ -15,7 +15,7 @@ You start with three **Masterwork Items** you're particularly proud of a **Weapo
 
 ## Core Ability - Walking Workshop
 
-You can upgrade mundane objects or create new ones with a single Improvement. They are *fragile*, unless significant time and effort is put into their production.
+You can upgrade mundane objects or create new ones with a single Improvement. They are *fragile*, unless significant time, effort, or specialized materials are put into their production.
 
 When a *fragile* item is used, roll a d6 (for weapons and armor roll on Direct Damage):
 

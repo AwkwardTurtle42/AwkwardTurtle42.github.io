@@ -73,9 +73,9 @@ The degree to which the GM and players share narrative control of the world shou
 
 ## NPCs and Monsters
 
-The default NPC is 3 Grit, a d6 weapon, d6 STR, d6 DEX, and d6 WIL. This will work for almost everything, especially in a pinch.
+The default NPC is 3 Grit, d6 STR, d6 DEX, d6 WIL, and a d6 weapon or attack. This will work for almost everything, especially in a pinch.
 
-Otherwise, start at 1 Grit, and d4 in each Attribute.
+Otherwise, start at 1 Grit, and d4 in each Attribute and step up as necessary to match the creature.
 
 Attributes: d4 is weak, d6 is average, d8 is noteworthy, d10 is strong and d12 is legendary. Adjust attributes only for significant exceptions to the average.
 
@@ -91,22 +91,24 @@ High STR should be used sparingly as each step up is a significant increase in d
 
 Use flavor and style to make NPCs stand out, not everything needs unique attributes or abilities.
 
-Making monster abilities that trigger on Direct Damage is a good way to emphasize the threat or strangeness of aggressive NPCs.
+Special abilities or weapons can have abilities that trigger on Critical Damage.
 
-## Conversions
+
+
+### Conversions
 
 In general making exact conversions is unnecessary, and following the above guidance will be sufficient. However stat blocks from Into the Odd, Cairn, and other similar games can be easily converted.
 
 Abilities:
- * 1-9 are a d4
- * 10-13 a d6
+ * 1-8 are a d4
+ * 9-13 a d6
  * 14-15 a d8
  * 16-17 a d10
  * and 18+ a d12. 
 
 Damage and armor can be used as is, Grit is set as usual (equal to total steps of DEX and WIL), but can also be set equal to HP for convenience.
 
-Most spells can be used as is, but be aware that casting spells is functionally free. Spells that heal attributes, generate resources, have long lasting effects, or specific requirements for casting should become Rituals.
+Most spells can be used as written, but be aware that casting spells is functionally free in Brighter Worlds. Spells that heal attributes, generate resources, have long lasting effects, or specific requirements for casting should become Rituals.
 
 ## Adjudicating Magic
 
@@ -117,3 +119,26 @@ Spells, by design, are limited in scope and harder to modify than a ritual, espe
 Rituals are more open ended and flexible than spells, making it easier for players to modify them to their own ends. If players wish to simply amplify a ritual, that is make them last longer, effect a larger area, or have a stronger effect, it is often enough to either significantly increase the time required to perform the ritual or to increase the quantity or quality of any required components. On the other hand, changing the effect of a ritual should require new or different components, or add a new restriction or step to the performance of a ritual. 
 
 If the ritual modification carries risk, add a WIL Save to avoid a bad outcome.
+
+## Odds of Brighter Worlds
+
+For a normal Save the "default" Attribute die of a d6 gives a 50% chance to succeed. The full range starts at 25% to succeed with a d4, up to 75% success with a d12 which has a pleasing symmetry.
+
+Generally if odds outside that range are needed it's better to reassess and see if the task is either impossible, or guaranteed. 
+
+With an *enhanced* Save the odds of failure range from rolling a 4 or less on a d20, down to approximately the same as rolling a natural 1. This is useful for the times when you want to roll dice for something that is *almost* guaranteed to happen, but the slim chance of things going wrong is worth preserving (even if just for comedy's sake).
+
+Die | Success | Enhanced
+------------------
+d4 | 25% | 81.25%
+d6 | 50% | 87.5%
+d8 | 63.5% | 90.63%
+d10 | 70% | 92.5%
+d12 | 75% | 93.75%
+
+It is worth noting that in an *enhanced* Save, the odds get flatted such that the original die has limited impact.
+
+## Harvesting Materials
+
+## Non-Calling Crafting
+

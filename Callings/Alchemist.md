@@ -9,7 +9,7 @@ nav_order: 1
 
 ## You Are An Alchemist
 
-An expert at distillation and brewing. Via chemical and magical means you are able to unlock the potential of natural substances and combine them to create power effects. Nothing is beyond your means, so long as you're able to find sufficiently powerful ingredients.
+An expert at distillation and brewing. Via chemical and magical means you are able to unlock the potential of natural substances and combine them to create power effects. What normally takes days in a specialized lab takes you hours with a makeshift setup over a campfire. Nothing is beyond your means, so long as you're able to find sufficiently powerful ingredients.
 
 You'll start with a **Recipe Book** (*bulky*) which holds your potion recipes. If you obtain Spells or Rituals in the future, this book also acts as a Grimoire which can store magic. 
 
@@ -40,5 +40,5 @@ Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Abili
 
  * **Dungeon Delicatessen:** You always know the best way to break down and prepare any creature for the safest and tastiest dining experience. When you cook and eat a monster organ temporarily gain a lessened version of an associated trait or ability. Lasts until you eat your next meal.
  * **Fine Palate:** You are (optionally) immune to the effects of anything you imbibe, and can identify all ingredients it contains.
- * **Homebrewer:** You can brew alcoholic beverages with mild potion effects. Beverage recipes require only one component plus a fermentable (grain, fruit, sugar, etc.). 
- * **Complex Compounding:** You can produce non-liquid potions that take the form of solids or gasses.
+ * **Homebrewer:** You can brew alchemical, alcoholic beverages with only one component plus a fermentable (grain, fruit, sugar, etc.). These have milder effects than normal potions, but can be made in greater quantities.
+ * **Complex Compounding:** You can produce solid or gaseous "potions" as easily as liquid ones.

@@ -45,19 +45,19 @@ Empowered through spiritually bonding with an aquatic place.
 
 For players who like free- form effects, or want to play a water bender.
 
-## [Cleric of Small Gods](/callings/Cleric of Small Gods)
+## [Cleric of Small Gods](/Callings/Cleric of Small Gods)
 
 The only priest of a tiny deity whose words can change reality. 
 
 For players who prefer freeform magic over spell lists.
 
-## [Crystal Wizard](Callings/Crystal Wizard)
+## [Crystal Wizard](/Callings/Crystal Wizard)
 
 A magic user harnessing the mystic properties of crystals.
 
 For players who like to prepare magic before casting it, like to read through lists of magic, or want to focus on rituals over spells.
 
-## [Demonic Sorcerer](Callings/Demonic Sorcerer)
+## [Demonic Sorcerer](/Callings/Demonic Sorcerer)
 
 A magic specialist borrowing the skills of a spirit living in their head. 
 
