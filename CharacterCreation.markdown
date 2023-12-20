@@ -49,7 +49,6 @@ You start with:
 
  * A purse with 50 coins.
  * A bundle of torches.
- * A pack of [Supplies (bulky)](/SRD/Items&Inventory#supplies)
  * A random item from each Attribute Table below.
 
 Many Callings also grant additional equipment, weapons, or other useful items.  Make any item selections or choices required by your Calling.
