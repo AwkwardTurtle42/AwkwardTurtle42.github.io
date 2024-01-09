@@ -13,11 +13,11 @@ A collector of information, a keeper of stories, a traveling source of knowledge
 
 You start with your **Archive** (*bulky*) a tome which contains your accumulated knowledge. If you obtain Spells or Rituals in the future, this book also acts as a Grimoire which can store magic.
 
-Two Topics of information are already stored within your Archive. The first two times you access your **Deep Lore** note down the relevent Topic.
+Two Topics of information are already stored within your Archive. The first two times you access your **Deep Lore** note down the relevant Topic.
 
 ## Core Ability - Archival Expertise
 
-You are an **Linguistic Expert**: fluent in every known language, and can quickly learn new ones given time and examples of text or speech.
+You are a **Linguistic Expert**: fluent in every known language, and can quickly learn new ones given time and examples of text or speech.
 
 The **Deep Lore** of the world is always at your fingertips inside your **Archive**. The first time you encounter something new that falls within a Topic stored in your Archive, you may ask the GM a single question about it which will be answered honestly. Further questions about the same subject will take time or research to answer.
 
