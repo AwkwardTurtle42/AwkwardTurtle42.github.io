@@ -18,3 +18,6 @@ For ease of reading the player and character names are merged.
 **Alice** is playing a Dryad *Cleric of Small Gods*, and carries a small potted plant with her: the physical form Arboreal of the god of 
 
 **Bob** is playing a *Demonic Sorcerer*, a demon named Chance is living in his head (and somehow the voice of reason in their relationship). Bob likes to flip a coin to see if he follows his own poor ideas or Chance's more reasoned approach for their actions.
+
+
+...to be continued...

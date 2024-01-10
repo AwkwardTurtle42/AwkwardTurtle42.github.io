@@ -29,15 +29,17 @@ Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](https://www
 * Additions (current and planned)
     * Unfinished Business is a small "dungeon" adventure intended to be an introduction to the playstyle and tone of Brighter Worlds.
     * 3rd Party License and Logo
-    * GM Toolbox Section - moved the Friends! rules and the Wilderness Survival rules there. 
+    * GM Toolbox Section - moved the Friends! rules there. But will probably be removing the Wilderness Survival rules, so this chapter might get nixed.
 
 * To Do
     * Example of Play running through Unfinished Business 
     * Price list to reflect the addition of Coins
-    * Pre-Gens, current ones are being scrapped and replaced.
+    * Pre-Gens, current ones are being scrapped and replaced. Partly done.
 
 
 * Changes
+    * Critical Damage is now Wounds, Critical Damage Saves are now Direct Damage Saves
+        * I didn't like that despite all three sharing a word, Damage nad Diect Damage were numbers, while Critical Damage was an event. Hopefully Wound is more immediately understandable, but I have been known to fiddle with this sort of terminology 
     * Grit is now derived from DEX and WIL. Grit starts at 1 and goes up by one each time Max DEX or WIL is stepped up. This is intended to serve multiple purposes.
         * This should help "balance" the importance of the Attributes, as previously STR was far and away the most important in terms of suitability. I'm not hugely fussed with overall balance, but I didn't want there to be an obvious correct choice.
         * It makes conversions somewhat easier since you can just set the Attributes and already have Grit generated.
@@ -65,13 +67,13 @@ Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](https://www
             * Replaced one Advanced Ability to give more flexibility with creating triggers and remote activation.
         * Cleric of Small Gods now just *enhances* or *impairs* the Domain Die, rather than freely stepping up and down.
             * I found it a bit annoying at the table to go through the process each time a player wanted to use their ability. This way it leans on the already used mechanic of roll modifiers and makes it easier for the GM to make a quick ruling.
-    * The Wilderness Survival rules have been dramatically changed.
-        * Honestly these might be overkill for this game, might just ditch the entire section in the future.
-        * The issue I'm trying to solve is the conflict between limited inventory logistics and survival gear. The *bulky* system means there's very limited granularity for tracking, which is what I want most of the time but is fairly awkward for the specific case of survival and supplies.
-        * The compromise was to add *uses* to a pack of Supplies, and to make the requirements for surviving nicely outside more specific.
+    * The Wilderness Survival rules are likely to be removed soon.
+        * I simply could not find a way to make this work that felt sufficiencly "Brighter Worlds-y". 
+        * Tracking logistics mechanically just doens't mesh with what is going on otherwise, plus there are a number of ways in the game to totally bypass the need for it at all so it feels superfluous.
+        * I'll try to add a GM Guidance section later for how to handle survival, non mechanically, when it's important.
     * Removed the bit about adding up Direct Damage when suffering simultaneous attacks.
         * I already removed the *gang up* rule from Electric Bastionland and Cairn, and this simply swung too far in the opposite direction.
-        * Instead there's now a reminder that the Critical Damage Save could be *impaired* if suffering attacks from multiple attackers, which more or less solves the problem I was trying to fix in the first place.
+        * Instead there's now a reminder that the Direct Damage Save could be *impaired* if suffering attacks from multiple attackers, which more or less solves the problem I was trying to fix in the first place.
             * This isn't actually a rule change, just a reminder (to myself, if no one else) that it's an option.
      * Update to "initiative" rules.
         * Players now always go fist
@@ -83,6 +85,6 @@ Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](https://www
             * Demonic Sorcerer's **Demonic Sight** is now **Demonic Senses**
     * Out of Combat Damage rules
         * Added to both Combat (hah) and GM Guidance sections.
-        * Bypasses Grit and simply inflicts Critical Damage immediately.
+        * Bypasses Grit and simply inflicts Wounds immediately.
     * Eulogy is now called Epitaph
         * It's marginally more accurate (we're writing it down) and also just more fun to say IMHO. No actual functional changes.

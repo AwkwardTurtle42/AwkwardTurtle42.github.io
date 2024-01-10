@@ -33,7 +33,7 @@ Your **Masterwork** items return to their original state if broken.
 * **Ranged:** Attacks at a distance.
 * **Ethereal:** Deals Direct Damage to WIL, injures non-physical targets.
 * **Paired:** You have two of them.
-* **Entangling:** Deals Direct Damage to DEX, trips or staggers on Critical Damage.
+* **Entangling:** Deals Direct Damage to DEX, trips or staggers on Critical Hit.
 * **Extra Protection:** +1 Armor, add bulky.
 * **Ward:** +1 Armor against a specific threat.
 * **Locomoting:** Grants a form of movement

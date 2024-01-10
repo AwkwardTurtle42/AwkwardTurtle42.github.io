@@ -105,7 +105,7 @@ nav_order: 9
 
 ## Notiavore
 
-6 Grit, 2 Armor, d10 STR, d6 DEX, d8 WIL, Bite (d10), consumes a memory and restores d6 Grit on Critical Damage
+6 Grit, 2 Armor, d10 STR, d6 DEX, d8 WIL, Bite (d10), consumes a memory and restores d6 Grit on Wounds
 
 * Hulking mass of scrolls and books, an incredible if deadly repository of knowledge.
 * Bladed weapons and fire bypass Armor.
@@ -142,7 +142,7 @@ nav_order: 9
 
 4 Grit, d6 STR, d6 DEX, d8 WIL
 
-Blood Sucking Proboscis (d8), steps up STR on Critical Damage
+Blood Sucking Proboscis (d8), steps up STR on Wounds
 
 * A mosquito-cat hybrid the size of a cow.
 * Emulates speech by vibrating its wings, which it uses to ask riddles.
@@ -160,7 +160,7 @@ Blood Sucking Proboscis (d8), steps up STR on Critical Damage
 * Smells strongly of rotting flesh.
 * Not a predator, but highly territorial of scavenged kills.
 * Has d10 heads, and can regenerate lost heads by consuming a creature's heart.
-* Special: On Critical Damage loses a head instead of losing STR. Dies only when all heads are removed.
+* Special: On taking a Wound loses a head instead of losing attributes. Dies only when all heads are removed.
 
 **Wants:** Some tasty, sun warmed organ meat. As a snack.
 

@@ -21,31 +21,31 @@ The players' side always goes first in a Round. However, if it's not obvious tha
 
 To make an attack, roll your weapon’s damage die. The target of the attack subtracts their armor and reduces their Grit by the remainder. If there is no excess damage, the target was able to avoid or otherwise defend against the attack. If there is more damage dealt than the remaining Grit, the excess damage becomes Direct Damage.
 
-Direct Damage represents the attack making physical contact with the target, and causes a STR Save to avoid Critical Damage.
+## Direct Damage
 
-## Critical Damage Save
+Direct Damage represents the attack making actual contact with the target.
 
-After receiving Direct Damage, make a STR Save and roll higher than that amount to avoid Critical Damage.
+Most attacks deal with Direct Damage to STR. Some attacks deal damage to DEX (entangling, slowing, paralyzing) or WIL (stunning, confusing, psychic), which will be indicated in the attack's description.
+
+After receiving Direct Damage, make a Save with the affected attribute and roll higher than that amount to avoid a Wound.
 
 This Save can be *impaired* due to being overwhelmed by multiple attackers, hit with a specific bane or weakness, or other particularly harmful attacks. This Save can be *enhanced* due to being focused on defense, being attacked with something you're resistant to, or other beneficial circumstances.
 
-This Save defaults to STR, but attacks or weapons that indicate they deal Direct Damage DEX or WIL causes Critical Damage Saves with the respective attribute. 
+## Wound
 
-## Critical Damage
+If you suffer a Wound, step down the effected attribute (usually STR) and suffer any Wound effects from your attackers.
 
-If you suffer Critical Damage, step down your STR and suffer any Critical Damage effects from your attackers. (If you made your Critical Damage Save with something other than STR, step that Attribute down instead).
+If any attribute steps down below a d4 (to zero) you become *incapacitated*. An *incapacitated* creature can only weakly crawl, and will die in an hour without assistance. First aid from an ally gets you back on your feet, but doesn’t restore any attributes.
 
-If your STR steps down below a d4 (zero STR) you become *incapacitated*. An *incapacitated* creature can only weakly crawl, and will die in an hour without assistance. First aid from an ally gets you back on your feet, but doesn’t restore your STR.
-
-Taking Direct Damage, or trying to step down your die, at zero STR is lethal.
+Taking Direct Damage or a Wound to an attribute at zero results in death.
 
 See [Harm and Healing](/Rules/Harm & Healing) for more details.
 
 ## Overflow Damage
 
-If the amount of Direct Damage you received is equal to or greater than the highest value on your STR die, immediately suffer Critical Damage. If the damage in excess of that amount is still equal to or greater than your now lowered STR die, repeat. If it is lower, make a Critical Damage Save as usual trying to roll higher the remaining damage. 
+If the amount of Direct Damage you received is equal to or greater than the highest value on the effected die immediately suffer a Wound. 
 
-If your STR steps below a d4 during this process, you become incapacitated and ignore any remaining damage.
+If there is damage in excess of that amount make a Direct Damage Save as usual against that amount. 
 
 ## Attack Modifiers
 
@@ -59,17 +59,17 @@ Attacks with the *blast* quality affect all targets in the area. This can refer 
 
 ## Non-Combat Damage
 
-While not in combat, damage ignores Grit and is dealt directly as Critical Damage.
+While not in combat, damage ignores Grit and is dealt directly as a Wound.
 
-For example, if a player fails a DEX Save to avoid being hit by a trap they immediately take Critical Damage and their STR step's down.
+For example, if a player fails a DEX Save to avoid being hit by a trap they immediately suffer a Wound and their STR is stepped down.
 
-This is to avoid rolling two or more Saves for a given situation. If the character has already failed a Save to avoid a trap or danger, they're wounded rather than rolling a second time to see if there was *really* a consequence to the failure.
+If a player is sprayed with poison gas after opening a trapped box, they make a STR Save to resist the poison and suffer a Wound if they fail.
 
 ## Morale Saves
 
 When an NPC faces daunting, terrifying, or dangerous situations they should make a WIL Save to avoid surrender or flight.
 
-NPCs make Morale Saves the first time they take Critical Damage, the first time one of their companions is incapacitated or killed, or if the tide of battle turns against them.
+NPCs make Morale Saves the first time they suffer a Wound, the first time one of their companions is incapacitated or killed, or if the tide of battle turns against them.
 
 Morale Saves are also made when an NPC is presented with a situation dramatically outside their understanding, or hirelings being asked to put themselves at significant risk.
 
@@ -101,6 +101,6 @@ Pete: Okay, as I see Sam go in for a stab I fire my Great Bow at its chest, tryi
 
 GM: The arrow *thwaps* into its muscly pecs.
 
-*The Troll currently only has a d8 STR, so it immediately takes Critical Damage and drops to a d6 STR, although none overflows so doesn't have to make an additional Save. As the Troll suffered Critical Damage, it makes a Morale Save to see if it flees. It rolls a 4 with its d6 WIL to stay in the fight.*
+*The Troll currently only has a d8 STR, so it immediately takes a Wound and drops to a d6 STR, although none overflows so doesn't have to make an additional Save. As the Troll suffered a Wound, it makes a Morale Save to see if it flees. It rolls a 4 with its d6 WIL to stay in the fight.*
 
 GM: You see the Troll stagger from the rapid injuries, but then gathers itself and **ROARS** still very much in the fight!

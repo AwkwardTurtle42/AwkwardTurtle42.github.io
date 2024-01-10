@@ -27,7 +27,7 @@ Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Abili
 
 2 XP → 4 XP → 6 XP → 8 XP 
 
-*You may want to tune these costs depending on how fast you expect to gain XP, and how long you expect your campaign to last. See XX for some suggestions.*
+*You may want to tune these costs depending on how fast you expect to gain XP, and how long you expect your campaign to last.*
 
 ## Foreground Growth
 

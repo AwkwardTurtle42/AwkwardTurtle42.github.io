@@ -29,13 +29,13 @@ For GMs coming from games with those types of rolls, try the following. When a p
 
 ## Out of Combat Damage
 
-Damage out of combat causes Critical Damage directly. That is, failing a Save to avoid a swinging axe trap instantly drops STR by one step.
+Damage out of combat causes a Wound directly. That is, failing a Save to avoid a swinging axe trap instantly drops STR by one step.
 
-Environmental damage like lava, fire, acid pits, etc. likely deals Critical Damage each Round it's present. Characters should usually have an opportunity or Save prior to avoid it entirely.
+Environmental damage like lava, fire, acid pits, etc. likely deals a Wound each Round it's present. Characters should usually have an opportunity or Save prior to avoid it entirely.
 
 For minor injuries out of combat, *deprive* the character or *impair* one Attribute until it's treated. 
 
-This is all to avoid double dipping: don't roll a Save to avoid harm, then roll a damage die, then have them roll *another* Save to avoid Critical damage. Once a Save to avoid harm fails, inflict the harm immediately as Critical Damage.
+This is all to avoid double dipping: don't roll a Save to avoid harm, then roll a damage die, then have them roll *another* Save to avoid a Wound. Once a Save to avoid harm fails, inflict the harm immediately.
 
 ## Reaction Rolls
 
@@ -91,7 +91,7 @@ High STR should be used sparingly as each step up is a significant increase in d
 
 Use flavor and style to make NPCs stand out, not everything needs unique attributes or abilities.
 
-Special abilities or weapons can have abilities that trigger on Critical Damage.
+Special abilities or weapons can have abilities that trigger on Wounds.
 
 
 
@@ -107,6 +107,8 @@ Abilities:
  * and 18+ a d12. 
 
 Damage and armor can be used as is, Grit is set as usual (equal to total steps of DEX and WIL), but can also be set equal to HP for convenience.
+
+Critical Damage effects on attacks become Wound effects.
 
 Most spells can be used as written, but be aware that casting spells is functionally free in Brighter Worlds. Spells that heal attributes, generate resources, have long lasting effects, or specific requirements for casting should become Rituals.
 
@@ -136,9 +138,4 @@ d8 | 63.5% | 90.63%
 d10 | 70% | 92.5%
 d12 | 75% | 93.75%
 
-It is worth noting that in an *enhanced* Save, the odds get flatted such that the original die has limited impact.
-
-## Harvesting Materials
-
-## Non-Calling Crafting
-
+It is worth noting that in an *enhanced* Save the odds get flatted such that the original die has limited impact.

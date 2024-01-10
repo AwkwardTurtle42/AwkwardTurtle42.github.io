@@ -51,7 +51,7 @@ Both hands must be involved in casting the spell. This includes holding wands, s
 
 When you cast a spell against a creature that is actively trying to avoid it, if the spell deals damage use that damage as a normal attack.
 
-If the spell does not deal damage, roll your WIL as though it were an attack. If that attack deals Direct Damage, your spell takes effect instead of causing a Critical Damage Save.
+If the spell does not deal damage, roll your WIL as though it were an attack. If that attack deals Direct Damage, your spell takes effect instead of causing a Direct Damage Save.
 
 ## Learning New Magic
 

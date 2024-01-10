@@ -19,7 +19,7 @@ Then pick two Spells that are contained within it.
 
 Your **Grimblade** is a mystical weapon capable of storing spells (but not rituals) as though it were a Grimoire. It is indestructible, you always know where it is, and it doesn't work for anyone but you.
 
-When you deal Direct Damage with your Grimblade (not necessarily Critical Damage) you may immediately cast a Spell it contains without paying the usual costs (do not set your Grit to zero or make a Save).
+When you deal Direct Damage with your Grimblade (not necessarily a Critical Hit) you may immediately cast a Spell it contains without paying the usual costs (do not set your Grit to zero or make a Save).
 
 You can still cast Spells from it as though it were a standard Grimoire, however if you wish to store and perform Rituals you'll need a separate Grimoire to keep them in.
 
