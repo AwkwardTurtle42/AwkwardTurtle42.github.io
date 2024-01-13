@@ -17,13 +17,11 @@ You also have two **Key Runes** tattooed or otherwise engraved onto your body.
 
 ## Core Ability - Runic Inscription
 
-Runic magic is subtler than both Spells and Rituals, dealing mostly with modifying existing things. The effects are long lasting, but generally less powerful.
+Your runic inscriptions incorporate one Element, one Verb, and one Subject. Inscribing a rune takes at least 10 minutes, and potentially more if the inscription is complex, large, or otherwise involved.
 
-You can inscribe runes that incorporate one Element, one Verb, and one Subject.
+Tell the GM what your intended effect is and what components you plan to use to achieve that. They’ll tell you if that’s possible, or if you’ll have to do more to achieve your goal. Powerful or wide reaching effects might require a unique material to hold the rune, or for the rune to be duplicated in multiple places.
 
-When you inscribe a rune, tell the GM what your intended effect is and what components you plan to use to achieve that. They’ll tell you if that’s possible, or if you’ll have to do more to achieve your goal. Wide reaching or particularly powerful effects might require a unique material to hold the rune, or for the rune to be duplicated in multiple places.
-
-Once inscribed, activate a rune by physically touching it to one of your **Key Runes**. Each Key Rune can only empower on Rune at a time. You may deactivate a Rune with a thought from any distance to free a Key Rune to be used again. Any number of Runes can be inscribed, but you may only have one per Key Rune empowered at once.
+Activate an inscribed a rune by physically touching it to one of your Key Runes. You may deactivate a Rune from any distance to free a Key Rune to be used again. Any number of Runes can be inscribed, but only per Key Rune may be empowered simultaneously.
 
 Whenever you spend XP gain an additional Key Rune.
 
