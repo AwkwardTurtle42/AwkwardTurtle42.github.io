@@ -37,4 +37,4 @@ Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Abili
 * **Twice Blessed:** Choose a second Water Blessing your Patron grants you.
 * **Liquid Construction:** You can shape water into tools and equipment. Weapons deal d8 damage, and armor provides 1 Armor. You can maintain a number of items equal to twice the number of Advanced Abilities you have. Additionally, step up the damage your water does while using One With the Water offensively. 
 * **Watery Tongue:** You can communicate with any creature that claims water as its home.
-* **Water Walk:** You (and any companions you choose to bring with you) may leap into a body of water, and emerge from the most recent body of water you were fully submerged in.
+* **Water Walk:** You (and any companions you choose to bring with you) may leap into a body of water, and emerge from the most recent previous body of water you were fully submerged in.

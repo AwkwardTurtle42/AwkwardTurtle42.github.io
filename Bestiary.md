@@ -15,9 +15,9 @@ nav_order: 9
 * Wandering from place to place finding ways to make coin with continually variable morals
 * Roll on the STR Equipment table to see what unique weapons they wield
 
-**Wants:** 
+**Wants:** Filthy lucre. 
 
-**Often Found:** 
+**Often Found:** Delving into dangerous places in search of said lucre.
 
 ## Alligator
 
@@ -34,7 +34,7 @@ nav_order: 9
 
 3 Grit, d4 STR, d8 DEX, d6 WIL, Peck (d6), sets cloth smoldering on Direct Damage.
 
-* Constantly ornery and aggressive. 
+* Perpetually smoldering, ornery, and aggressive goose. 
 * When killed, releases a d8 blast of flame.
 * Popular with travelers as its death flare cooks its meat perfectly.
 
