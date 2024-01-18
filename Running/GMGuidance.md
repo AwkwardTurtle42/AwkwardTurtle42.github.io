@@ -131,7 +131,7 @@ Generally if odds outside that range are needed it's better to reassess and see 
 With an *enhanced* Save the odds of failure range from rolling a 4 or less on a d20, down to approximately the same as rolling a natural 1. This is useful for the times when you want to roll dice for something that is *almost* guaranteed to happen, but the slim chance of things going wrong is worth preserving (even if just for comedy's sake).
 
 Die | Success | Enhanced
-------------------
+------------ | :-----------: | -----------:
 d4 | 25% | 81.25%
 d6 | 50% | 87.5%
 d8 | 63.5% | 90.63%

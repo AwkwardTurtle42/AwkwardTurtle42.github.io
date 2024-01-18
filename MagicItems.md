@@ -27,7 +27,7 @@ With one eye closed the grapple may be hooked to anything visible to the wielder
 
 ### Gourd of Pleasant Fullness
 
-No matter how much liquid is poured into the gourd, enough of that liquid to fully satisfying all nearly drinkers can be poured out of it.
+No matter how much liquid is poured into the gourd, enough of that liquid to fully satisfying all nearby drinkers can be poured out of it.
 
 *Personality Aspect: Generous host.* 
 
@@ -92,7 +92,7 @@ Billowing cloak made of tanned lizard skin, scale pattern still visible. If the 
 While charged, can be made to glow as a dim torch. Discharge the cloak to release either:
 
 * a bright flash which will dazzle or blind anyone looking at it.
-* a lance of sunlight dealing d10 damage that sets its target alight on critical damage.
+* a lance of sunlight dealing d10 damage, Wounds ignite the target.
 
 Recharge by basking in sunlight while wearing it for 6 hours. 
 

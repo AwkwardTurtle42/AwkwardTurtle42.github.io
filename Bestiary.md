@@ -96,7 +96,7 @@ nav_order: 9
 
 * Makes *enhanced* Morale Saves as long as their Master lives.
 * Prone to getting overly attached to the nearest source of mystical maleficence.
-* Fiercly devoted right up until they become sniveling cowards when faced with immediate threats.
+* Fiercely devoted right up until they become sniveling cowards when faced with immediate threats.
 
 **Wants:** To serve a worthy master, but is willing to settle for almost anything.
 
@@ -172,7 +172,7 @@ Blood Sucking Proboscis (d8), steps up STR on Wounds
 
 * Carries a Grimoire with d4-1 random Spells, and d4-1 random Rituals
 * A dabbler in arcane forces beyond their own understanding
-* Blissfullly unaware of danger both posed to others, and to themselves
+* Blissfully unaware of danger both posed to others, and to themselves
 
 **Wants:** To unlock the power of the cosmos with mystic secrets.
 

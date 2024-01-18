@@ -27,17 +27,17 @@ If casting a Spell from a scroll, the scroll is discharged afterwards and cannot
 
 ## Spells In Combat
 
-When you cast a Spell against a creature that is actively trying to avoid it, if the Spell deals damage use that damage as a normal attack.
+When you cast a Spell against a creature that is actively trying to avoid it if the Spell deals damage use that damage as a normal attack.
 
 If the Spell does not deal damage, roll your WIL as though it were an attack. If that attack deals Direct Damage, your Spell takes effect instead of causing a Direct Damage Save.
 
 ## d50 Spells
 
- 1. **Acid Fingers** - Your hands secrete acid for a minute. Step up the damage of your unarmed attacks and degrade armor or equipment on a Wound.
+ 1. **Acid Fingers** - Your hands secrete acid for a minute. Step up the damage of your unarmed attacks and degrade armor or equipment on Direct Damage.
  2. **AntiGravity** - Gravity no longer affects a creature or object your size or smaller for a single round.
  3. **Barrier** - Create a transparent, indestructible barrier of any shape with a total area of 10 square feet.
  4. **Black Ice** - Freeze a surface with slick, difficult to see ice. Lasts as long as ice would last given the ambient temperature.
- 5. **Black Tentacles** - Black tentacles surge from a spot you choose, and make d6 attacks to attempt to grasp any creatures within 10 feet.
+ 5. **Black Tentacles** - Black tentacles surge from a spot you choose and make d6 attacks against all creatures within 10 feet. Entangles on Direct Damage.
  6. **Bleeding Edge** - Awaken bloodthirst in a bladed weapon. Its next strike deals max damage, but if that hit does not cause a Wound to the target the blade deals the wielder a Wound instead.
  7. **Bone Bomb** - Make a (dead) skeleton explode into shrapnel. Deals blast damage relative to the size of the skeleton. Can be used on skeletons with flesh on them, but the result is wetter and deals less damage.
  8. **Bonus Limbs** - Grant a creature d4 extra limbs (of your choice).
@@ -52,11 +52,11 @@ If the Spell does not deal damage, roll your WIL as though it were an attack. If
  18. **Finger Flare** - Make finger guns and fire a bright, but harmless, magical flare.
  19. **Fireball** - Cause an existing flame to explode in a d10 damage blast.
  20. **Fire Bolt** - Shoot a d10 bolt of fire from your finger, ignite the target on Wound.
- 21. **Freezing Missile** - Fire a d8 magical dart, Wounds freeze the target in place for a turn. Concentrate to hold them longer (WIL Save vs their STR).
+ 21. **Freezing Missile** - Launch a d10 magical dart, Wounds freeze the target in place for a turn. Concentrate to hold them longer (WIL Save vs their STR).
  22. **Good Vibes** - A single creature chills out (i.e. neutral on a Reaction Roll). The effect is broken if ill intent is shown.
  23. **Grease** - Launch a blob of slippery, flammable grease the size of your fist.
  24. **Haste** - Triple a creature’s speed.
- 25. **Ice Spear** - A spear of ice emerges from a body of water or patch of ice. Deals d10 damage if someone is in the way.
+ 25. **Ice Spear** - A spear of ice emerges from a body of water or patch of ice. Deals d10 damage to anyone in the way.
  26. **Illusory Weapon** - Summon an illusory, floating copy of a weapon in your possession. You direct the weapon’s movement and may attack with it for as long as the spell is active.
  27. **Immovable Mod** - An object the size of a cat (or smaller) becomes immobile and indestructible.
  28. **Instigator** - Summon an alligator. You do not control the alligator. It exists for 2d6 minutes (rolled secretly).

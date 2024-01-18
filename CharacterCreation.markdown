@@ -41,8 +41,6 @@ Your Calling grants you a Core Ability that forms the basis of your character’
 
 Make any choices related to your Core Ability that your Calling requires, and make a note of what it entails. You are the primary person responsible for keeping track of what your character is able to do, and how your abilities work.
 
-*For a higher powered starting point, make the first Advanced Ability free and able to be chosen at Character Creation. See XX for more ideas.*
-
 ## Equipment
 
 You start with:
