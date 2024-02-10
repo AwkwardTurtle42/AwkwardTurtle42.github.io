@@ -25,7 +25,7 @@ With time and effort you can develop new potion recipes. Explain the desired eff
 
 Any potion effect is possible, but the required components and process may be esoteric or prohibitive. 
 
-The GM will tell you if it will work, or if one or more more of the following are true:
+Based on your proposed recipe the GM will tell you if it will work, or if one or more more of the following are true:
 
  * It will require one or more additional components.
  * It requires a laborious, time consuming, or difficult to achieve brewing process.

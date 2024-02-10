@@ -42,5 +42,5 @@ Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Abili
 
 * **Multifarious Copies:** When you create your clone you may freely change its physical appearance.
 * **For He Can Creep:** Your footsteps make no sound, and you are impossible to see by mundane means while you are motionless in shadow. You may extend this effect to anyone you choose within 10 feet of you.
-* **Snap:** Set your Grit to zero to recall your clone to yourself, or yourself to your clone from any distance. Anyone touching you while you do so is carried along, although they may get a Save to break contact beforehand. You can only do this if you’re not already at zero Grit.
+* **Snap:** Set your Grit to zero to instantly recall your clone to yourself, or yourself to your clone from any distance. Anyone touching you while you do so is carried along, although they may get a Save to break contact beforehand. You can only do this if you’re not already at zero Grit.
 * **Pick Pocket:** While a creature is totally unaware of your presence (discounting clones) you may swap an object they carry with an object of similar size and heft.

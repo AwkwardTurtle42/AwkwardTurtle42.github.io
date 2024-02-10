@@ -17,18 +17,18 @@ You start with a water skin, or some other vessel, full with a gallon of water.
 
 ## Core Ability - One With The Water
 
-You are equally at home in water as you are on land. You can freely control a volume of water about the same size as yourself, if employed as a weapon it deals d6 damage.
+You are equally at home in water as you are on land. You can freely control a volume of water about the same size as yourself, and if employed as a weapon it deals d6 damage.
 
 ### Water Blessings
 
 Choose the blessing your Patron grants you
 
-* **Fluid Form:** Freely turn into water and back into your normal state.
+* **Fluid Form:** Freely transform into water and back into your normal state.
 * **Font of Self:** You can produce water at will, the same volume you can control per hour.
 * **Water Sight:** Once per day when you immerse yourself in a body of water you may ask your Patron one question about something that water touches.
 * **Thermo Regulation:** Freely change the state of water within your control (between gas, liquid, and solid). If used offensively, step up the damage your One With the Water deals.
 * **Tip Of The Iceberg:** Your volume of water you can control expands 10 fold.
-* **Healing Waters:** Stabilize wounds by pouring water over them. Restore a damaged Attribute to maximum after 6 hours.
+* **Healing Waters:** Your water instantly stabilizes wounds and cleanses poisons. Six hours of contact fully restores a single Attribute.
 
 ## Advanced Abilities
 

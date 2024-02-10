@@ -23,4 +23,5 @@ Single pieces of equipment that grant 2 Armor are rare, and usually carry some s
 ## Ammo
 
 Ammunition (arrows, bolts, bullets, etc.) are generally not tracked and considered to be unlimited, unless specific circumstances would lead to it being in short supply.
+
 Unique or specialty ammo is tracked individually where appropriate.

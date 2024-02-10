@@ -33,8 +33,6 @@ All characters are generalists. Everyone can swing a sword, sneak around, or cas
 
 [Choose a Calling](/Callings/). 
 
-You may want to make tweaks to a Calling’s abilities or items to make it fit your concept. Talk with the GM and look at the [Cast & Crew](/Cast/) to see examples of modified Callings.
-
 ### Core Ability
 
 Your Calling grants you a Core Ability that forms the basis of your character’s power.
@@ -43,32 +41,28 @@ Make any choices related to your Core Ability that your Calling requires, and ma
 
 ## Equipment
 
-You start with:
-
- * A purse with 50 coins.
- * A bundle of torches.
- * A random item from each Attribute Table below.
+You start with a purse filled with 50 coins and a random item from each Attribute Table below.
 
 Many Callings also grant additional equipment, weapons, or other useful items.  Make any item selections or choices required by your Calling.
 
 Next, roll your Attributes on each Starting Equipment table to see what else you’re carrying. Roll each of your starting Attributes twice, then choose either combination of Flair and Item from their respective lists. 
 
-*If you roll your d6 STR and get a 2 and 6 you can either have a Rugged Flail or a Blackened Bow.*
+*If you roll your d6 STR and get a 2 and 6 you can either have a Heirloom Flail or a Silent Bow.*
 
 Finally, if you need any minor, mundane items to round out your character let the GM know now. Your character can be assumed to have collected small items relevent to their life prior to the start of the game, but after the first session if you need something you'll have to find it in play!
 
 ### STR (Weapons)
 
-| STR | Flair           | Item                    |
-|-----|-----------------|-------------------------|
-| 1.  | Hand-Me-Down    | Whip (d6)               |
-| 2.  | Rugged          | Bow (d6, ranged)        |
-| 3.  | Antique         | Sword (d8)              |
-| 4.  | Colorful        | Spear (d8)              |
-| 5.  | Well Maintained | Axe (d8)                |
-| 6.  | Blackened       | Flail (d8)              |
-| 7.  | Ornate          | War Hammer (d10, bulky) |
-| 8.  | Glowing         | Longsword (d10, bulky)  |
+| STR | Flair                             | Item                    |
+|-----|-----------------------------------|-------------------------|
+| 1.  | Haunted                           | Whip (d6)               |
+| 2.  | Heirloom                          | Bow (d6, ranged)        |
+| 3.  | Ornate                            | Sword (d8)              |
+| 4.  | Antique                           | Spear (d8)              |
+| 5.  | Silver                            | Axe (d8)                |
+| 6.  | Silent                            | Flail (d8)              |
+| 7.  | Returning (can be called to hand) | War Hammer (d10, bulky) |
+| 8.  | Mystic (is a random spell scroll) | Longsword (d10, bulky)  |
 
 ### DEX (Tools)
 
@@ -100,4 +94,4 @@ Finally, if you need any minor, mundane items to round out your character let th
 
 Although any character can cast spells and perform rituals, not all Callings start the game with a Scroll or a Grimoire which stores that magic.
 
-If you start with a Grimoire, or something that acts as one, choose the spells or rituals your Calling says you start the game with.
+If you start with a Grimoire, or something that acts as one, choose the spells or rituals your Calling provides.

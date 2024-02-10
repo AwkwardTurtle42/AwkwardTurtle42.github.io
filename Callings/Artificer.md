@@ -11,7 +11,7 @@ nav_order: 4
 
 You're good at taking things apart and putting them back together, *usually* leaving them better than they started.
 
-You start with three **Masterwork Items** you're particularly proud of a **Weapon** (1d6 damage), **Armor** (1 Armor), and a **Tool** (1 Improvement). Distribute 3 additional Improvements among these items and decide what exactly they are.
+You start with three **Masterwork Items** you're particularly proud of: a **Weapon** (1d6 damage), **Armor** (1 Armor), and a **Tool** (1 Improvement). Distribute 3 additional Improvements among these items and decide what exactly they are.
 
 ## Core Ability - Walking Workshop
 

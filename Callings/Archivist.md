@@ -28,6 +28,6 @@ Given a new source of knowledge, it takes you at least one hour to copy a new To
 Spend 2 XP to unlock your first Advanced Ability. Each subsequent Advanced Ability's cost increases by two. (2 XP → 4 XP → 6 XP → 8 XP).
 
 * **Office Assistant:** Whether due to accumulated knowledge or through some arcane rite, your Archive has awoken into a sentient, floating being. Using your Archive as a Grimoire to cast Spells or perform Rituals still requires you to be in contact with it.
-* **Monster Manual:** Thoroughly examine a creature to record it as a Topic in your Archive. When you take ten minutes to review your notes you, and any who listen, gain +1 armor against those creatures the next time your encounter them, and can easily identify any weaknesses.
+* **Monster Manual:** Thoroughly examine a creature to record it as a Topic in your Archive. When you take ten minutes to review your notes you, and any who listen to you lecture on the subject, gain +1 armor against those creatures the next time your encounter them, and can easily identify any weaknesses.
 * **Psychometry:** You can read an object’s history just by touching it. When you handle an object you can sense events that have happened to it. Emotionally charged and recent events take precedence, but with careful study you may ask specific questions.
 * **Leap of Logic:** Your years of study have developed into a startlingly accurate intuition. The first time you encounter a situation (or person), you may ask the GM a single yes or no question about it (or them).

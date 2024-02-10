@@ -57,13 +57,11 @@ If you attack while disadvantaged (through cover, while blind, unarmed, etc.) it
 
 Attacks with the *blast* quality affect all targets in the area. This can refer to actual explosions, fireballs, whirling blades, or to a giant swinging a club in a wide arc.
 
-## Non-Combat Damage
+## Dual Wielding
 
-While not in combat, damage ignores Grit and is dealt directly as a Wound.
+When attacking with two (or more) weapons against the same target, roll both weapons' dice and keep the higher result.
 
-For example, if a player fails a DEX Save to avoid being hit by a trap they immediately suffer a Wound and their STR is stepped down.
-
-If a player is sprayed with poison gas after opening a trapped box, they make a STR Save to resist the poison and suffer a Wound if they fail.
+If directing attacks at multiple targets, roll separately for each. However under normal circumstances one or all of the attacks will be *impaired* due to the difficulty of splitting your attention.
 
 ## Morale Saves
 
@@ -74,6 +72,15 @@ NPCs make Morale Saves the first time they suffer a Wound, the first time one of
 Morale Saves are also made when an NPC is presented with a situation dramatically outside their understanding, or hirelings being asked to put themselves at significant risk.
 
 A Morale Save might be *enhanced* due to a courageous leader, the promise of significant reward, or being particularly oblivious. It might be *impaired* due to being directly threatened, a hopeless situation, or the obvious evidence of immediate danger.
+
+## Non-Combat Damage
+
+While not in combat, damage ignores Grit and is dealt directly as a Wound.
+
+For example, if a player fails a DEX Save to avoid being hit by a trap they immediately suffer a Wound and their STR is stepped down.
+
+If a player is sprayed with poison gas after opening a trapped box, they make a STR Save to resist the poison and suffer a Wound if they fail.
+
 
 ## Combat Example
 

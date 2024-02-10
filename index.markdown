@@ -6,27 +6,25 @@ title: Home
 nav_order: 1
 ---
 
-# DEVELOPMENT BRANCH - THIS SRD IS A WORK IN PROGRESS AND INCOMPLETE. 
-
 [![Brighter Worlds](TitleImage.png "Brighter Worlds RPG")](https://awkwardturtle.itch.io/brighter-worlds)
-
-Expect unedited text, typos, and missing hyperlinks. If you're looking for the current stable version go [here](https://brighterworldsrpg.com/). If you have feedback, please get in touch with me on the itch page (or anywhere else you can find me).
 
 **Brighter Worlds** is a whimsical fantasy tabletop RPG with modular crunch.
 
 Writing & Layout by David Lombardo ([AwkwardTurtle Games](https://awkwrdturtle.games))
 
-A fully illustrated PDF, featuring [Evlyn Moreau](https://www.patreon.com/evlynmoreau)'s artwork, is available [free on itch.io](https://awkwardturtle.itch.io/brighter-worlds). This PDF is **not** currently at version parity with this SRD, instead it matches the [live site's alpha version 0.9.3](https://brighterworldsrpg.com/).
+A fully illustrated PDF, featuring [Evlyn Moreau](https://www.patreon.com/evlynmoreau)'s artwork, is available [free on itch.io](https://awkwardturtle.itch.io/brighter-worlds).
 
-It is unfinished, currently at Beta Version 0.1, but approaching feature completeness.
+It is unfinished, currently at Beta Version 0.3, but approaching feature completeness.
 
 Brighter World’s text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](https://www.bastionland.com/)), Cairn by Yochai Gal ([cairnrpg.com](https://cairnrpg.com/)), and Macchiato Monsters by Eric Nieudan ([@surcapitaine](https://twitter.com/surcapitaine)).
 
+Some text used directly from Cairn under CC-BY-SA 4.0.
+
 ## Recent changes
 
-* Additions (current and planned)
+* Additions
     * Unfinished Business is a small "dungeon" adventure intended to be an introduction to the playstyle and tone of Brighter Worlds.
     * 3rd Party License and Logo
     * GM Toolbox Section - moved the Friends! rules there. But will probably be removing the Wilderness Survival rules, so this chapter might get nixed.
@@ -77,7 +75,7 @@ Rules based on Into the Odd by Chris McDowall ([www.bastionland.com](https://www
             * This isn't actually a rule change, just a reminder (to myself, if no one else) that it's an option.
      * Update to "initiative" rules.
         * Players now always go fist
-        * DEX Save to avoid surprise and skip the first round.
+        * If they might not go first make a DEX Save to avoid skipping the first round.
      * Adjustments to "Second Sight" Advanced Abilities
         * When three players in the same playtest all picked similar, but subtly different "second sight" abilities I realized I should probably differentiate them more.
             * Crystal Wizard's **Crystal Sight** is now **Crystal Vibes**
