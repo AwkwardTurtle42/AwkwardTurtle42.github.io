@@ -41,7 +41,7 @@ I try to support this theme through the mechanics in a few ways. One is by givin
 
 ## Inspirations
 
-Brighter Worlds draws most heavily from Cairn, Electric Bastionland, and Macchiato Monsters as role playing game predecessors. Other games that played a role include Into the Odd, 2400, the Whitehack, Bonepunk, Dungeon World, and Class Warfare.
+Brighter Worlds draws most heavily from Cairn, Electric Bastionland, and Macchiato Monsters as role playing game predecessors. Other games that played a role include Into the Odd, 2400, the Whitehack, Bonepunk, the Goblin Laws of Gaming, and Class Warfare.
 
 For fiction, the Demonic Sorcerer and Great Soul Shaman were inspired by Lois McMaster Bujold’s “World of the Five Gods” and her “Penric & Desdemona” series in particular. These books also form a good baseline for the type of irreverent adventure with lots of talking to people that I’m interested in. Blessed of Water, and to lesser extents the Alchemist and Witch, were inspired by Madeline Miller’s “Circe”. The Cleric of Small Gods was inspired by Anne Leckie’s “The Raven Tower” (someday I will write a game about simply being a large rock on a hill). “Kino’s Journey” and “Mushishi” are two additional useful touchstones for the tone and feel of the journey-style story that I’d like to capture with this game.
 
@@ -49,4 +49,4 @@ For fiction, the Demonic Sorcerer and Great Soul Shaman were inspired by Lois Mc
 
 Brighter Worlds is unfinished. Many of the Callings have not been playtested, and parts of the rules are still being stress tested and changed (although the core bits are relatively stable now). It’s very likely that somewhere in the 100 spells and rituals there’s something horrifically broken, so use at your own risk.  
 
-Expect things to change in future versions, and if you happen to play the game and have thoughts please do let me know (on twitter [@AwkwardTurtle42](https://twitter.com/AwkwardTurtle42), through my [itch page](https://awkwardturtle.itch.io/), in the NSR or Cairn discord servers, or anywhere else you can find me).
+Expect things to change in future versions, and if you happen to play the game and have thoughts please do let me know (on mastadon [@AwkwardTurtle@dice.camp ](https://dice.camp/@AwkwardTurtle), through my [itch page](https://awkwardturtle.itch.io/), in the NSR or Cairn discord servers, or anywhere else you can [find me](https://awkwrdturtle.games)).

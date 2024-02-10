@@ -43,15 +43,15 @@ If you have Grit, set it to zero.
 
 If you don’t have Grit, make a WIL Save. If you fail, step down your WIL and choose if you are knocked unconscious or the spell fails.
 
-If a spell does not list a duration it lasts as long as you concentrate on, it but you are deprived as long as you do so. 
+If a Spell does not list a duration it lasts as long as you continue to concentrate on it, but you are [*deprived*](/SRD/HarmAndHealing.html#deprivation) and cannot regain your Grit as long as you do so. 
 
-Both hands must be involved in casting the spell. You can be holding an object related to the spellcasting (a Grimoire, wand, magic staff, etc.), but you *cannot* cast while holding weapons or other unrelated objects. 
+Both hands must be involved in casting the spell. This includes holding wands, staffs, the Grimoire, or other related objects. You *cannot* be holding standard weapons or other objects. Put your sword away before casting magic! 
 
 ## Spells In Combat
 
 When you cast a spell against a creature that is actively trying to avoid it, if the spell deals damage use that damage as a normal attack.
 
-If the spell does not deal damage, roll your WIL as though it were an attack. If that attack deals Direct Damage, your spell takes effect instead of causing a Critical Damage Save.
+If the spell does not deal damage, roll your WIL as though it were an attack. If that attack deals Direct Damage, your spell takes effect instead of causing a Direct Damage Save.
 
 ## Learning New Magic
 

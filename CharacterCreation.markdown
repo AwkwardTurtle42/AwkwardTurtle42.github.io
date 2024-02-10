@@ -9,95 +9,89 @@ nav_order: 4
 
 ## Attributes
 
-Attributes represent both a character’s prowess and current status. Assign d4, d6, and d8 to your Attributes (STR, DEX, and WIL).
+Attributes represent both a character’s prowess and current status.
 
-## Callings
+All three of your Attributes start at a d4.
 
-All characters are generalists. Everyone can swing a sword, sneak around, or cast a spell (given access to a Grimoire). Callings define the things that put you ahead of the pack, give you an extra edge or let you break the rules. 
-
-[Choose a Calling](/Callings/). 
-
-You may want to make tweaks to a Calling’s abilities or items to make it fit your concept. Talk with the GM and look at the [Cast & Crew](/Cast/) to see examples of modified Callings.
+Step up one Attribute twice (to a d8), and another Attribute once (to a d6).
 
 ## Grit
 
-Grit is a character’s mental concentration and ability to avoid being harmed. It represents a combination of defensive capabilities, awareness, and luck.
+Grit is a character’s mental concentration and ability to avoid being harmed. It represents a combination of reflexes and situational awareness.
 
-You start with 3 Maximum Grit.
+Your Maximum Grit starts at 1, plus 1 for each time you stepped up DEX and WIL.
 
-## Core Ability
+*d4 DEX + d6 WIL = 2 Grit*
+
+*d8 DEX + d4 WIL = 3 Grit*
+
+*d6 DEX + d8 WIL = 4 Grit*
+
+## Callings
+
+All characters are generalists. Everyone can swing a sword, sneak around, or cast a spell (given access to a Grimoire). Callings define the things that put you ahead of the pack, give you an extra edge, or let you break the rules. 
+
+[Choose a Calling](/Callings/). 
+
+### Core Ability
 
 Your Calling grants you a Core Ability that forms the basis of your character’s power.
 
 Make any choices related to your Core Ability that your Calling requires, and make a note of what it entails. You are the primary person responsible for keeping track of what your character is able to do, and how your abilities work.
 
-## Advanced Abilities
-
-Each Calling has four Advanced Abilities that show ways your character might grow or develop as they progress through the world.
-
-Your first Advanced Ability is free. You may choose it at character creation to start the game with, or save it for use later. The other Advanced Abilities can be unlocked by spending XP earned during play.
-
 ## Equipment
 
-Most Callings start with equipment, weapons, or other useful items.  Make any item selections or choices required by your Calling.
+You start with a purse filled with 50 coins and a random item from each Attribute Table below.
 
-Then roll your Attributes on each Starting Equipment list to see what else you’re carrying.
+Many Callings also grant additional equipment, weapons, or other useful items.  Make any item selections or choices required by your Calling.
 
-Roll each of your starting Attributes twice, then choose either combination of Flair and Item from their respective lists. For example if you roll your d6 STR and get a 2 and 6 you can either have a Repaired Spear or a Colorful Staff.
+Next, roll your Attributes on each Starting Equipment table to see what else you’re carrying. Roll each of your starting Attributes twice, then choose either combination of Flair and Item from their respective lists. 
+
+*If you roll your d6 STR and get a 2 and 6 you can either have a Heirloom Flail or a Silent Bow.*
+
+Finally, if you need any minor, mundane items to round out your character let the GM know now. Your character can be assumed to have collected small items relevent to their life prior to the start of the game, but after the first session if you need something you'll have to find it in play!
 
 ### STR (Weapons)
 
-| STR | Flair           | Item                    |
-|-----|-----------------|-------------------------|
-| 1.  | Bloodstained    | Stiletto (d6)           |
-| 2.  | Repaired        | Staff (d6)              |
-| 3.  | Hand-Me-Down    | Whip (d6)               |
-| 4.  | Rugged          | Rapier (d6)             |
-| 5.  | Antique         | Bow (d6)                |
-| 6.  | Colorful        | Spear (d8)              |
-| 7.  | Well Maintained | Axe (d8)                |
-| 8.  | Blackened       | Flail (d8)              |
-| 9.  | Ornate          | War Hammer (d10, bulky) |
-| 10. | Glowing         | Longsword (d10, bulky)  |
+| STR | Flair                             | Item                    |
+|-----|-----------------------------------|-------------------------|
+| 1.  | Haunted                           | Whip (d6)               |
+| 2.  | Heirloom                          | Bow (d6, ranged)        |
+| 3.  | Ornate                            | Sword (d8)              |
+| 4.  | Antique                           | Spear (d8)              |
+| 5.  | Silver                            | Axe (d8)                |
+| 6.  | Silent                            | Flail (d8)              |
+| 7.  | Returning (can be called to hand) | War Hammer (d10, bulky) |
+| 8.  | Mystic (is a random spell scroll) | Longsword (d10, bulky)  |
 
 ### DEX (Tools)
 
 | DEX | Flair                                       | Item         |
 |-----|---------------------------------------------|--------------|
-| 1.  | Durable                                     | 10ft Pole    |
-| 2.  | Flexible                                    | Bucket       |
-| 3.  | Limited Edition                             | Prybar       |
-| 4.  | Luxury                                      | Torch        |
-| 5.  | Mini                                        | Compass      |
-| 6.  | Collapsible                                 | Oil Flask    |
-| 7.  | Concealable                                 | Lockpick Set |
-| 8.  | Wearable                                    | Rope (100ft) |
-| 9.  | Multi-Function (roll two items and combine) | Air Bladder  |
-| 10. | Weaponized (roll on STR table and combine)  | Lantern      |
+| 1.  | Flexible                                    | Bucket       |
+| 2.  | Limited Edition                             | Prybar       |
+| 3.  | Mini                                        | 10ft Pole    |
+| 4.  | Collapsible                                 | Oil Flask    |
+| 5.  | Concealable                                 | Lockpick Set |
+| 6.  | Wearable                                    | Rope (100ft) |
+| 7.  | Multi-Function (roll two items and combine) | Air Bladder  |
+| 8.  | Weaponized (d6 Damage)  					| Compass      |
 
 ### WIL (Miscellanea)
 
 | WIL | Item          | Item                           |
 |-----|---------------|--------------------------------|
-| 1.  | Stolen        | Key                            |
+| 1.  | Stolen        | Hat                            |
 | 2.  | Refurbished   | Flask                          |
 | 3.  | Old Fashioned | Cloak                          |
-| 4.  | Skeletal      | Hat                            |
-| 5.  | Crystalline   | Map                            |
-| 6.  | Translucent   | Pipe (w/ tobacco)              |
-| 7.  | Oversized     | Spyglass                       |
-| 8.  | Self-Cleaning | Donkey (carries 4 bulky items) |
-| 9.  | Ethereal      | Random Ritual Scroll           |
-| 10. | Floating      | Random Spell Scroll            |
+| 4.  | Crystalline   | Spyglass                       |
+| 5.  | Translucent   | Pipe (w/ tobacco)              |
+| 6.  | Self-Cleaning | Donkey (carries 4 bulky items) |
+| 7.  | Ethereal      | Random Ritual Scroll           |
+| 8.  | Floating      | Random Spell Scroll            |
 
 ## Magic
 
-Although any character can cast spells or perform rituals, not all Callings start the game with a Grimoire which stores that magic.
+Although any character can cast spells and perform rituals, not all Callings start the game with a Scroll or a Grimoire which stores that magic.
 
-If you start with a Grimoire, or something that acts as one, choose the spells or rituals your Calling says you start the game with.
-
-## Finishing Touches
-
-Choose a name and write a Eulogy entry about a previous exploit of your character. Gain 1 XP, or roll d10s on any Starting Equipment table to see what you gained from that adventure.
-
-*If you gain XP here, you can choose to immediately spend it to gain +1 Grit, or to step you d4 Attribute up to a d6. See [Growth](/SRD/Growth)*
+If you start with a Grimoire, or something that acts as one, choose the spells or rituals your Calling provides.

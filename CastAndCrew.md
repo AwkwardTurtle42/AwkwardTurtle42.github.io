@@ -7,126 +7,86 @@ nav_order: 9
 
 # Cast & Crew
 
-This Cast & Crew are a collection of pre-generated characters, (eventually) one for each Calling. They can be used as pre-made characters for players in quick start games, or NPCs for GM use to populate the world (or as Friends! Pg 84). They also serve as examples for how a given Calling might be changed, modified, tweaked, or twisted into a slightly different shape to fit a player’s character concept.
+This Cast & Crew are a collection of pre-generated characters, each based on a specific Calling. They can be used as pre-made characters for players in quick start games (just roll each of your Attribute Dice on the Starting Equipment Tables), or NPCs for GM use to populate the world. 
 
-This section is currently unfinished, it will be expanded and completedin future releases.
+## Alchemist - Piksel, Reckless Experimentalist
 
-## Grimblade - Henry, Sojourner
+3 Grit, d6 STR, d8 DEX, d4 WIL, Large Ladle (d6)
 
-3 Grit, 1 Armor, d6 STR, d8 DEX, d6 WIL
+* Constantly surrounded by an acrid, chemical smell.
+* A Backpack Still allows Piksel to process ingredients into components while on the move.
 
-The Witness (d8, hammer) and The Record (+1 Armor, Shield)
+**Known Recipes:**
+	* Sunbright Nectar: Shake while in bottle to produce warmth and light for hours, indistinguishable from sunlight. Break bottle to release a sudden flash of blinding light and burning heat.
+		* Recipe: Green plant leaves plucked at night then dried in the sun, honey, brew in total darkness.
+	* Universal Putty: Apply to an inanimate, hard material to render it as pliable as putty for 10 minutes, before it returns to its previous condition.
+		* Recipe: Sap from tree roots which have split stone, venom from a stone serpent (or similar), boil over a low flame until the mixture thickens.
 
-Spells are inscribed on The Record and cast through the Witness.
+Wants: To collect the ingredients 
 
-Spells stored in The Record:
+Often Found: Tasting things she *really shouldn't*.
 
-* **Kinetic Blast** - Unleash a cone of force in a d6 damage blast in front of you. Any who suffer Direct Damage are knocked down.
-* **Painful Truths** - Shout a true statement about the target to deal it damage based on how concealed the information was. d4 for common knowledge, d12 for something they wouldn’t think it possible you could know.
+## Archivist - Craig, Driven Researcher
 
-Doesn't start fights intentionally, but often inadvertently instigates conflicts which he then ends with generous uses of **Mystic Strikes**.
+* Fussy, meticulous, annoyingly persistent if they believe you're hiding something.
+* Carries **The Great Scroll** as their Archive (*bulky*)
+	* Topic: Cryptic Codes & Ciphers
+	* Topic: Illusions & Camouflage 
 
-**Often Found:** Aggressively involving himself in local happenings.
+Wants: To find knowledge hidden in secret patterns.
 
-**Wants:** To observe events as closely as possible.
+Often Found: Reading through their distinct helmet, looking for patterns where the text aligns with the punch holes.
 
-**Notes:** Swapped the standard d10 bulky weapon for a d8 weapon + shield with the Grimblade’s effects split between them.
+## Animal's Companion - Karen, Careful Ranger
 
-## Devoted - Lexie, the Unbreakable
+2 Grit, d8 STR, d6 DEX, d4 WIL, Colorful Axe (d6)
 
-4 Grit, 1 Armor, d6 STR, d6 DEX, d8 WIL
+* Always steps carefully, skittish like a cat, her opossum Susan mirrors her mood.
+* Quick to disappear into the surrounding undergrowth at the first sign of danger.
 
-Bent Sword (d8), Broken Sword (d8), both deal d4 damage for anyone else due to their disrepair
-Patchwork Armor (1 Armor), decoration long since worn off.
+Wants: A nice, *safe* adventure.
 
-Devoted to Unyielding Determination
+Often Found: Making herself difficult to be found.
 
-Oath: Stability
+### Companion - Susan, Opossum
 
-Boons:
+4 Grit, 1 Armor, d6 STR, d8 DEX, d6 WIL, Ankle Biter (d8)
 
-* **Can't Stop Won't Stop**
-* **Weapon of Faith:** Only applies to damaged weapons. Deadly (step up damage die). Damaged weapons act as though they are whole, shatter a weapon to deal max damage on that attack.
+* Fast
+* Marsupial
+* Vicious: causes a Morale Save on Direct Damage
 
-Has achieved **Constant Vigilance** after a life of looking over her shoulder.
 
-**Often Found:** Cleaning up complicated situations that aren't her fault.
+## Cleric of Small Gods - Max, Meticulous Collector
 
-**Wants:** A simple task with a clean resolution.
+3 Grit, d6 STR, d4 DEX, d8 WIL, Cuboid Mace (d8)
+  
+* Carries Xibur, the God of Organization
+* Takes disorganized places as a personal insult. Happy to while away hours in the dungeon ensuring the ancient pots are arranged *just so*.
 
-**Notes:** Weapon of Faith boon modified to apply only to broken weapons, and given that limitation gains an upgrade.
+Wants: To break and make organized systems and patterns.
 
-## Animal’s Companion - Sally, Slug Mom
+Often Found: Reorganizing people's things into his own, incomprehensible system.
 
-4 Grit, d8 STR, d4 DEX, d8 WIL
 
-Slime Sling (d6)
+## Witch - Willamina, Curious Wanderer
 
-Bag of Slugmunch (slowly fermenting collection of veggies, bugs, and unidentifiable miscellanea). 
+2 Grit, d8 STR, d4 DEX, d6 WIL, Decorative Stick (d6, bulky, casting focus)
 
-Enjoys spending time meditating on the nature of being a slug while **Mind Melding** with Primo.
+* Insists to her familiar, Crebly, that her stick is 'a vital part of the spellcasting process'.
+* Grimoire Contains:
+	* Spell: Cloak of Winds
+	* Spell: Watchful Eye
+	* Ritual: Bottled Weather
 
-### Primo, Head Slug
+Wants: To find the weirdest corners of the world, and then poke them with her stick.
 
-5 Grit, Sloppy Slap (d8), d8 STR, d6 DEX, d6 WIL
+Often Found: Poking the hornet's nest, both proverbial and literally.
 
-Invertebrate, Big, Special: Slug Squad 
+### Familiar - Crebly, Owl
 
-Slug Squad: Has d3 Lesser Giant Slug (3 Grit, 4 STR, 4 DEX, 4 WIL) followers at any given time.
+2 Grit, d4 STR, d4 DEX, d6 WIL, Talons (d4)
 
-**Often Found:** Using her slug squad (through Primo) to eradicate pests from farms and gardens.
-
-**Wants:** People to appreciate the inherent beauty of the slug.
-
-**Notes:** Special Companion Ability used to give the Animal Companion a number of weaker minions.
-
-## Archivist - Manchester, Storyteller
-
-4 Grit, d6 STR, d8 DEX, d6 WIL
-
-Cloak of Stories (bulky) - A solid, weatherproof cloak whose interior is embroidered with an Archive of tales and knowledge. Starting Topic: Ancient Legends.
-
-Birdbeak Walking Stick (d6)
-
-A lifetime of studying people's behavior makes his **Leaps of Logic** particularly acute.
-
-**Often Found:** Wheedling stories out of locals, often with the assistance of fruit liquors.
-
-**Wants:** To store the whole world's knowledge within the sweep of his cloak.
-
-**Notes:** His Archive is a heavy cloak rather than a book. Random starting weapon replaced with his walking stick.
-
-## Alchemist - Miss Strawberry Shroom
-
-4 Grit, d6 STR, d6 DEX, d8 WIL
-
-Mushroom Mortar (d6) and Pestle
-
-Bottle of Sweetie Wine: When shared with company any who drink will be inclined be friendly, truthful, and polite to all other imbibers.
-
-Bottle of Calming Kombucha: Keep your mind clear of all outside influence for 6 hours. Sweet, bitter, and slightly effervescent.
-
-The only thing she loves more than **Homebrewing** her drinks is sharing them with good company.
-
-Her Recipe Book (with a mind, and pallet, of its own) currently holds:
-
-* **Sweetie Wine:** Mix crushed strawberries, sugar, and water. Infuse with the sounds of a pleasant meal with friends. Let ferment for a week. 
-* **Calming Kombucha:** Muddle strawberries and dried tea leaves, combine with water and an active "mother". Let ferment for a week, burping the jar once a day while whispering sweet nothings.
-
-**Often Found:** Making a circuit of the wild strawberry patches she knows of, harvesting what's ready and ensuring healthy plants.
-
-**Wants:** Good food, good drinks, good company.
-
-## Bag of Bones - Rachel, Rock Star
-
-4 Grit, 1 Armor, d6 STR, d10 DEX, d4 WIL
-
-Ghost Powered Etheric Guitar (Bulky)
-
-**Bad to the Bone:** While playing your Etheric Guitar you may choose the first impression anyone who hears it will have of you. 
-
-**Often Found:** Setting up literal underground shows in the mausoleums of local nobility.
-
-**Wants:** To rock out with her coccyx out.
-
-**Notes:** Bad to the Bone is a modification of **Humerous Presence** that expands flexibility (can choose any first impression) in exchange for being tied to an item and lacking subtlety.
+* Flying
+* Clever
+* Perceptive: Distance and night vision.

@@ -1,15 +1,15 @@
 ---
 layout: default
 title: Friends!
-parent: Running the Game
-nav_order: 4
+parent: GM Toolbox
+nav_order: 1
 ---
 
 # Friends!
 
-Friends are not necessarily friendly, but instead, a cast of recurring characters the party will regularly meet.
+Friends are not necessarily actually friendly, but instead a cast of recurring characters the party will regularly meet.
 
-These are used to create a sense of continuity in a travel-heavy game and provide the group of “secondary” characters often found in the whimsical travelogue stories Brighter Worlds wants to tell.
+These are used to create a sense of continuity in a travel heavy game, as well as provide the group of “secondary” characters often found in the whimsical travelogue stories Brighter Worlds wants to tell.
 
 ## The Friend Die
 
@@ -31,6 +31,6 @@ Likewise NPCs from adventures you run can be added to the pool. In particular an
 
 ## Playing With Friends
 
-Remember that these characters have their own stories and own things going on. Their worlds do not revolve around what the players are doing. When a Friend appears, take a moment to figure out why they would be here, what they’re currently doing, and how either might intersect with the party’s current goals.
+Remember that these characters have their own stories, and own things going on. Their worlds do not revolve around what the players are doing. When a Friend appears, take a moment to figure out why they were be here, what they’re currently doing, and how either of those might intersect with the party’s current goals.
 
-They should not usually begin hostile to the party but may work at cross purposes due to their own goals. Allow the relationship to develop in each instance the party encounters that Friend.
+They should not usually begin hostile to the party, but may be working at cross purposes due to their own goals. Allow the relationship to develop across each instance the party encounters that particular Friend.

@@ -25,8 +25,8 @@ If you are already Marked By Death when you die, Death offers you a deal on 2-6.
 
 Returning to life does not automatically heal you or improve your (probably dire) situation, although it may be possible to haggle with Death to include some assistance as part of your deal.
 
-## Eulogy
+## Epitaph
 
-When your character dies and crosses the Black River the rest of the table should take turns reading your Eulogy in memory of your character’s life.
+When your character dies and crosses the Black River the rest of the table should take turns reading your Epitaph in memory of your character’s life.
 
 Afterwards create a new character and rejoin the party as quickly as possible. Expediency should usually take precedence over realism, although if the party has any retainers, followers, or companions it can be fun to take over that character as your own.
