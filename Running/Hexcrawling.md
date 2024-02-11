@@ -51,7 +51,7 @@ The light colored die shows what it is:
 5.	Wildlife or a Local
 6.	Wildlife, something from around here.
 
-The dark colored die shows what's that result is currently doing:
+The dark colored die shows what that result is currently doing:
 
 1.	Traveling
 2.	Hanging Out

@@ -17,6 +17,10 @@ Performing a ritual takes at least ten minutes, unless otherwise specified.
 
 If performing a Ritual from a scroll, the scroll is discharged afterwards and cannot be used for a full day.
 
+## Ritual Scrolls
+
+A Ritual Scroll holds a single spell. It acts exactly as a Grimoire but can only be used once per day.
+
 ## d50 Rituals
 
  1. **Astral Projection** - Project your soul from your body. You are ethereal and are immune to physical attacks and hazards. Magical and spiritual effects still impact you, and could sunder you from your body.
