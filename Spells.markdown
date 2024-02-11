@@ -23,13 +23,15 @@ If a Spell does not list a duration it lasts as long as you continue to concentr
 
 Both hands must be involved in casting the spell. This includes holding wands, staffs, the Grimoire, or other related objects. You *cannot* be holding standard weapons or other objects. Put your sword away before casting magic! 
 
-If casting a Spell from a scroll, the scroll is discharged afterwards and cannot be used for a full day.
-
 ## Spells In Combat
 
 When you cast a Spell against a creature that is actively trying to avoid it if the Spell deals damage use that damage as a normal attack.
 
 If the Spell does not deal damage, roll your WIL as though it were an attack. If that attack deals Direct Damage, your Spell takes effect instead of causing a Direct Damage Save.
+
+## Spell Scrolls
+
+A Spell Scroll holds a single spell. It acts exactly as a Grimoire but can only be used once per day.
 
 ## d50 Spells
 

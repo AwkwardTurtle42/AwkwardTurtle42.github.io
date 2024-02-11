@@ -28,6 +28,8 @@ Often Found: Tasting things she *really shouldn't*.
 
 ## Archivist - Craig, Driven Researcher
 
+4 Grit, d4 STR, d6 DEX, d8 WIL, Bonefolder (d6)
+
 * Fussy, meticulous, annoyingly persistent if they believe you're hiding something.
 * Carries **The Great Scroll** as their Archive (*bulky*)
 	* Topic: Cryptic Codes & Ciphers
