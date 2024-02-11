@@ -62,7 +62,7 @@ If the Spell does not deal damage, roll your WIL as though it were an attack. If
  28. **Instigator** - Summon an alligator. You do not control the alligator. It exists for 2d6 minutes (rolled secretly).
  29. **Interrogator** - Summon an alligator which will attack anyone that tells a lie in its presence.
  30. **Kinetic Blast** - Unleash a cone of force in a d6 damage blast in front of you. Any who suffer Direct Damage are knocked down.
- 30. **Lighting Bolt** - Shoot a d10 damage bolt of electricity. Wounds impair the next attack or Save on.
+ 30. **Lighting Bolt** - Shoot a d10 damage bolt of electricity. Wounds impair the next attack or Save.
  31. **Loyal Lock** - Command a lock to remain open or closed. It will do so until someone manages to convince it otherwise.
  32. **Maximize Minimize** - Double a creature’s size for 1 minute, then quarter its size for another minute. You may choose to reverse the order of the effects.
  33. **Mum’s the Word** - Silence all sound created by you, and anyone in contact with you.
