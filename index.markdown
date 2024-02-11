@@ -10,7 +10,7 @@ nav_order: 1
 
 **Brighter Worlds** is a whimsical fantasy tabletop RPG with modular crunch.
 
-Writing & Layout by David Lombardo ([AwkwardTurtle Games](https://awkwrdturtle.games))
+Writing & Layout by David Lombardo ([AwkwardTurtle Games](https://awkwardturtle.games))
 
 A fully illustrated PDF, featuring [Evlyn Moreau](https://www.patreon.com/evlynmoreau)'s artwork, is available [free on itch.io](https://awkwardturtle.itch.io/brighter-worlds).
 
