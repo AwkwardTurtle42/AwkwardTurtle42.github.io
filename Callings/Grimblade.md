@@ -11,7 +11,7 @@ nav_order: 11
 
 And you *have* a grimblade, a unique and very large weapon that you’ve learned the trick of putting spells into. Whether you physically inscribe then onto a meteor metal blade, or embed the spells into a crystal hammer, you find this eminently more practical than lugging a big book around.
 
-You start with **Your Grimblade**. Decide what sort of weapon it is: start with d10 damage and *bulky*, then add a single Improvement from the [Artificer’s Improvement list](Callings/Artificer.html#artificer-improvements).
+You start with **Your Grimblade**. Decide what sort of weapon it is: start with d10 damage and *bulky*, then add a single Improvement from the [Artificer’s Improvement list](/Callings/Artificer#artificer-improvements).
 
 Then pick two Spells that are contained within it.
 

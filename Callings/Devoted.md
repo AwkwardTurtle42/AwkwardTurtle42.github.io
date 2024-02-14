@@ -35,7 +35,7 @@ Your Vow applies only to you, not to your companions.
 * **By Will Sustained:** You do not need to eat, drink, breathe, or sleep.
 * **Unsullied Truth:** You always know if someone is lying, or if something is hidden by illusion or glamour in your presence.
 * **Can’t Stop Won’t Stop:** Direct Damage you suffer never overflows your current die. After you take a Wound restore your Grit to Max.
-* **Weapon of Faith:** Choose an improvement from the [Artificer’s Improvement list](Callings/Artificer.html#artificer-improvements). Weapons you hold gain that Improvement.
+* **Weapon of Faith:** Choose an improvement from the [Artificer’s Improvement list](/Callings/Artificer#artificer-improvements). Weapons you hold gain that Improvement.
 * **Healing Touch:** Stabilize a wound immediately. With a night’s focus completely restore an Attribute to Max. 
 * **Minor Miracle:** You have the ability to perform a minor miracle related to your devotion.
 
