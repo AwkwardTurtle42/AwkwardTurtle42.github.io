@@ -11,7 +11,7 @@ nav_order: 6
 
 You have a pact with some watery patron. You might be the daughter of a river spirit, have been granted a boon by an ocean goddess, or did some great deed for the guardian of a particular cove. In any case you were granted a small part of their power, and can always hear their voice in the patter of rain, the burble of a creek, or the crash of ocean waves.
 
-Name your Patron, and choose the Blessing they've granted you.
+Name your **Patron**, and choose the **Blessing** they've granted you.
 
 You start with a water skin, or some other vessel, full with a gallon of water.
 

@@ -17,7 +17,7 @@ It also knows magic. Randomly select one Spell and one Ritual, then pick one Spe
 
 ## Core Ability - Demonic Passenger
 
-You may ask questions about the Topic your demon knows about, as per the [Archivist’s Deep Lore ability](Callings/Archivist#core-ability---archival-expertise), due to inheriting its knowledge.
+You may ask questions about the Topic your demon knows about, as per the [Archivist’s Deep Lore ability](Callings/Archivist.html#core-ability---archival-expertise), due to inheriting its knowledge.
 
 Anytime you spend XP, your Demon recalls a random spell or ritual from a prior host.
 
