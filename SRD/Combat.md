@@ -39,7 +39,7 @@ If any attribute steps down below a d4 (to zero) you become *incapacitated*. An 
 
 Taking Direct Damage or a Wound to an attribute at zero results in death.
 
-See [Harm and Healing](/Rules/Harm & Healing) for more details.
+See [Harm and Healing](/SRD/Harm & Healing) for more details.
 
 ## Overflow Damage
 
