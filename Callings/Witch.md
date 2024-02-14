@@ -11,7 +11,7 @@ nav_order: 15
 
 A Familiar at your side, you channel the forces of magic across the mystic bond that connects you. You are a shepherd to ancient secrets, passed from person to person to keep them safe from forces who would rather see them lost.
 
-You start with your **Familiar**, a small creature magically bonded to you, decide what sort of small creature they are and choose three Perks to combine with these base stats:
+You start with your **Familiar**, a small creature magically bonded to you, decide what sort of small creature they are and choose three Perks from the [Animal's Companion list](#animals-companion-1) to combine with these base stats:
 
 1 Grit, d4 STR, d4 DEX, and d4 WIL, and a d4 attack
 

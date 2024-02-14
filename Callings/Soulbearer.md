@@ -11,7 +11,7 @@ nav_order: 14
 
 Charged with the keeping and shepherding creature's souls. You've been bound to one **Great Soul** of some beast that stays with you forever, although the other souls you bear are merely temporary companions.
 
-You start with a **Great Soul** permanently living within your body, allowing you to borrow its skills and form. Choose which creature the soul belonged to, and pick three Perks from the Animal's Companion list to represent it. When you transform into the creature's shape those Perks modify your existing stats.
+You start with a **Great Soul** permanently living within your body, allowing you to borrow its skills and form. Choose which creature the soul belonged to, and pick three Perks from the [Animal's Companion list](#animals-companion-1) to represent it. When you transform into the creature's shape those Perks modify your existing stats.
 
 ## Core Ability - Psychopomp
 
