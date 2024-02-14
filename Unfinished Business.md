@@ -61,7 +61,7 @@ Falling in deals 1 Wound per round. Death causes flesh to be stripped off bones,
 
 A djinn named “X’eer Oxx” is bound within a glowing blue cube and forced to make copies for the Company. An Intern is currently X’eer Oxx-ing a stack of documents.
 
-Simple, mundane objects placed on the cube’s surface are copied perfectly in a bright white flash. Complex or magical objects produce [fragile](#artificer-1) copies. Copies of living creatures, or complex *and* magical objects will fail violently and horribly when copied.
+Simple, mundane objects placed on the cube’s surface are copied perfectly in a bright white flash. Complex or magical objects produce [fragile](/Callings/Artificer#core-ability---walking-workshop) copies. Copies of living creatures, or complex *and* magical objects will fail violently and horribly when copied.
 
 ### 5. Workshop
 
